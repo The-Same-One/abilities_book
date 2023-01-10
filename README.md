@@ -1,6 +1,6 @@
 # abilities_book
 
-A new Flutter application.
+It is mobile version of scouts abilities book.
 
 ## Getting Started
 
