@@ -1,0 +1,66 @@
+[
+	{
+		"checked": false,
+		"title":"Majster *",
+		"image":"assets/images/majster.png",
+		"description":
+			"• Potrafi wykonać element wyposażenia pokoju, mieszkania lub namiotu (np. świecznik, przybornik, pudełko).\n• Umie zorganizować miejsce do wygodne majsterkowania, dbając o porządek i bezpieczeństwo."
+		
+	},
+	{
+		"checked": false,
+		"title":"Technik **",
+		"image":"assets/images/technik.png",
+		"description": 
+			"• Umie wykonać praktyczny mebel (np. stołek lub stojak na proporce) lub naprawić uszkodzony przedmiot.\n• Potrafi posługiwać się narzędziami ręcznymi oraz elektronarzędziami z zachowaniem zasad bezpieczeństwa pracy.\n• Umie zastosować różne rodzaje połączeń mechanicznych (np. zbijanie, skręcanie i sklejanie).\n• Potrafi naostrzyć nóż i naoliwić zamek lub kłódkę."
+		
+	},
+	{
+		"checked": false,
+		"title":"Kreślarz **",
+		"image":"assets/images/kreslarz.png",
+		"description": 
+			"• Potrafi sporządzić w określonej skali i opisać plan (np. domu, pomieszczenia lub ogrodu).\n• Umie wykorzystać zasady perspektywy dla odwzorowania rzeczywistości.\n• Potrafi wykonać model mebla, konstrukcji lub pomieszczenia w odpowiedniej skali i z zachowaniem precyzji adekwatnej do przedmiotu zadania."
+		
+	},
+	{
+		"checked": false,
+		"title":"Stolarz ***",
+		"image":"assets/images/stolarz.png",
+		"description":
+			"• Potrafi samodzielnie wykonać solidny mebel odpowiadający proporcjom człowieka z wykorzystaniem różnych stolarskich technik łączenia elementów.\n• Umie posługiwać się narzędziami stolarskimi: heblem, ściskiem, imadłem, dłutem i pilnikiem.\n• Potrafi w odpowiedni sposób zabezpieczyć drewno, np. przed działaniami warunków atmosferycznych. Umie ochronić drogi oddechowe przed oparami środków impregnujących.\n• Zna 5 różnych rodzajów drewna oraz kilka różnych materiałów drewnopochodnych, potrafi je rozpoznać i wskazać, jakie mają zastosowanie."
+		
+	},
+	{
+		"checked": false,
+		"title":"Mechanik ***",
+		"image":"assets/images/mechanik.png",
+		"description":
+			"• Potrafi złożyć urządzenie spalinowe (np. pompę lub piłę spalinową), wymienić uszkodzoną część, wykonać podstawowy serwis (np. naostrzyć łańcuch, przygotować odpowiednią mieszankę).\n• Potrafi samodzielnie dokonać podstawowych czynności obsługowych pojazdu: sprawdzić i uzupełnić płyny eksploatacyjne, wymienić koło, zmienić przepaloną żarówkę, wymienić dowolny filtr.\n• Zna zasady działania i umie wytłumaczyć różnice w pracy skrzyni biegów manualnej i automatycznej, silnika o zapłonie samoczynnym i zapłonie iskrowym oraz silnika dwusuwowego i czterosuwowego."
+		
+	},
+	{
+		"checked": false,
+		"title":"Robotyk ***",
+		"image":"assets/images/robotyk.png",
+		"description":
+			"• Potrafi samodzielnie zaprojektować i wykonać układ automatyczny, taki jak fotokomórka lub migająca lampka, posługując się stworzonym przez siebie schematem, multimetrem, lutownicą i innymi potrzebnymi narzędziami.\n• Zna podstawy jednego z języków programowania i potrafi je zastosować do stworzenia użytecznego programu na platformie Arduino, Raspberry Pi lub innej tego typu.\n• Umie zbudować i zaprogramować robota typu sumo, line follower lub podobnego.\n• Posiada sprawność Elektronika** ze ścieżki „Elektrotechnika” lub Programisty** ze ścieżki „Programowanie”."
+		
+	},
+	{
+		"checked": false,
+		"title":"Inżynier ***",
+		"image":"assets/images/inzynier.png",
+		"description":
+			"• Umie samodzielnie wykonać maszynę prostą, taką jak kołowrót, przekładnia lub wielokrążek, składającą się z różnych materiałów, używając własnoręcznie wykonanego szkicu technicznego, suwmiarki oraz narzędzi ręcznych.\n• Potrafi wyjaśnić zasadę działania różnych maszyn prostych.\n• Umie samodzielnie złożyć urządzenie mechaniczne przydatne w codziennym użytku (np. pompę „abisynkę” lub rower).\n• Sprawnie korzysta ze wzorów stosowanych w geometrii, potrafi wykreślać różne figury i bryły geometryczne oraz obliczać ich objętość i pole powierzchni."
+		
+	},
+	{
+		"checked": false,
+		"title":"Architekt ***",
+		"image":"assets/images/architekt.png",
+		"description":
+			"• Umie wykonać projekt urządzenia pomieszczenia lub zagospodarowania terenu, w sposób pozwalający na realizację prac kilkuosobowemu zespołowi, z wykorzystaniem rzutowania, rysunków przekrojowych, wymiarowania i opisów.\n• Potrafi precyzyjnie oszacować ilość potrzebnych materiałów do kompletnego wykonania opracowanego projektu.\n• Umie wymodelować swój projekt w prostym programie do modelowania 3D (np. SketchUp).\n• Zna kilka współczesnych obiektów architektonicznych i potrafi o nich opowiedzieć (np. podać autora, wymienić cechy charakterystyczne).\n• Zna główne style architektoniczne, umie opisać ich cechy i je rozpoznawać."
+		
+	}
+]

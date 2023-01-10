@@ -1,0 +1,23 @@
+[
+	{
+		"checked": false,
+		"title":"Bystre Oko *",
+		"image":"assets/images/bystreOko.jpg",
+		"description":
+        "• Umie rozpoznać na podstawie sylwetki lub odgłosów 12 gatunków zwierząt, w tym 6 ptaków, występujących na wolności w polskich lasach.\n• Potrafi wykorzystać atlas lub inne źródła do rozpoznania każdego, nawet nieznanego sobie zwierzęcia zaobserwowanego wcześniej w terenie."
+    },
+	{
+		"checked": false,
+		"title":"Tropiciel Zwierzyny **",
+		"image":"assets/images/tropicielZwierzyny.jpg",
+		"description":
+        "• Umie zaplanować i przeprowadzić udaną obserwację zwierzyny.\n• Potrafi rozpoznać tropy lub ślady bytowania 10 zwierząt występujących na wolności w polskich lasach.\n• Umie rozpoznać na podstawie charakterystycznych cech kilka ściśle chronionych gatunków zwierząt.\n• Potrafi odpowiednio zachowywać się w lesie, aby nie płoszyć zwierząt i nie tworzyć dla nich zagrożenia."
+    },
+	{
+		"checked": false,
+		"title":"Znawca Zwierzyny ***",
+		"image":"assets/images/znawcaZwierzyny.jpg",
+		"description":
+        "• Umie odnaleźć zwierzynę w terenie wyłącznie na podstawie tropów i śladów.\n• Na podstawie znalezionych w lesie tropów i śladów potrafi wysnuć wnioski i opisać zdarzenie z udziałem zwierząt.\n• Potrafi wyznaczyć i przygotować stanowisko do wielogodzinnej obserwacji zwierząt, przeprowadzić taką obserwację i ją udokumentować (np. w formie notatek, zdjęć, rysunków lub filmu).\n• Dobrze zna zwyczaje zwierząt z 6 gatunków występujących na wolności w Polsce. Zna określenia na samców i samice tych gatunków, ich zwyczaje godowe, sposób chowu potomstwa i preferencje dotyczące pokarmu. Potrafi udzielić wskazówek jak odnaleźć takie zwierzę w terenie i po czym je rozpoznać."
+    }
+]

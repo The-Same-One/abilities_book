@@ -1,0 +1,23 @@
+[
+	{
+		"checked": false,
+		"title":"Higienista *",
+		"image":"assets/images/higienista.jpg",
+		"description":
+        "• Potrafi opatrzyć drobne zranienie, oparzenie i lekki uraz.\n• Umie ułożyć poszkodowanego w pozycji bezpiecznej.\n• Zna numery alarmowe i potrafi wezwać pomoc w różnych sytuacjach."
+    },
+	{
+		"checked": false,
+		"title":"Sanitariusz **",
+		"image":"assets/images/sanitariusz.jpg",
+		"description":
+        "• Umie zaradzić w sytuacji wyziębienia, udaru cieplnego, omdlenia i oparzeń.\n• Potrafi zaradzić w przypadku urazu kończyny (np. skręcenie lub złamanie), a w razie konieczności umie ją unieruchomić przy pomocy improwizowanego sprzętu.\n• Umie poprawnie przeprowadzić resuscytację krążeniowooddechową.\n• Potrafi skompletować apteczkę zastępu na całodniową wycieczkę i korzystać z jej zawartości."
+    },
+	{
+		"checked": false,
+		"title":"Ratownik ***",
+		"image":"assets/images/ratownik.jpg",
+		"description":
+        "• Potrafi pokierować małym zespołem sanitariuszy w czasie akcji ratowniczej.\n• Umie udzielić pierwszej pomocy w przypadku ran i krwotoków.\n• Potrafi postępować w przypadku podejrzenia urazu kręgosłupa. Umie unieruchomić kończynę przy pomocy szyny (np. szyny Kramera lub szyny typu Splint).\n• Potrafi rozpoznać objawy udaru mózgu i zawału serca.\n• Umie zebrać informacje od osoby poszkodowanej według schematu SAMPLE.\n• Podczas ćwiczeń potrafi przeprowadzić triaż – segregację medyczną poszkodowanych.\n• Potrafi poprawnie się zachować w razie wypadku komunikacyjnego (np. samochodowego).\n• Umie skompletować apteczkę drużyny i określić sposób przechowywania leków."
+    }
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"checked": false,
+		"title":"Biwakowicz *",
+		"image":"assets/images/biwakowicz.jpg",
+		"description":
+        "• Umie dobrze spakować się na biwak.\n• Potrafi rozbić namiot turystyczny.\n• Umie zapewnić sobie komfort cieplny podczas biwakowania, m.in. poprzez odpowiednią izolację od ziemi, wybór śpiwora dopasowanego do temperatury.\n• Potrafi zbudować kuchnię polową i zagotować na niej wodę."
+    },
+	{
+		"checked": false,
+		"title":"Traper **",
+		"image":"assets/images/traper.jpg",
+		"description":
+        "• Umie przygotować namiot na różne warunki atmosferyczne takie jak mocny wiatr czy burza oraz odpowiednio wybrać i przygotować miejsce do jego rozstawienia.\n• Umie wykorzystać 3 węzły przydatne podczas biwakowania (np. do zbudowania zadaszenia z plandeki biwakowej).\n• Potrafi przygotować ciepły posiłek w warunkach polowych, umie posługiwać się turystyczną kuchenką gazową.\n• Umie przygotować listę ekwipunku niezbędnego na biwak zastępu i odpowiednio rozdzielić go między uczestników."
+    },
+	{
+		"checked": false,
+		"title":"Włóczykij ***",
+		"image":"assets/images/wloczykij.jpg",
+		"description":
+        "• Potrafi przygotować się, skompletować ekwipunek i biwakować w każdych warunkach terenowych.\n• Umie w warunkach polowych wysuszyć ubranie i obuwie.\n• Potrafi wybrać dobre miejsce do biwakowania, uwzględniając dostępność wody, odległość od skupisk ludzkich, osłonięcie od wiatru itd.\n• Posiada sprawność Strażnika** Ognia ze ścieżki „Rozpalanie ognia”."
+    },
+    {
+		"checked": false,
+		"title":"Polarnik ***",
+		"image":"assets/images/polarnik.jpg",
+		"description":
+        "• Umie skompletować i spakować ekwipunek odpowiedni do biwakowania w warunkach zimowych.\n• Potrafi przygotować legowisko, które przy ujemnej temperaturze pozwoli mu spędzić noc w komforcie cieplnym.\n• W zimie, w warunkach polowych umie przygotować sobie ciepły posiłek.\n• Potrafi udzielić pierwszej pomocy w przypadku odmrożeń i hipotermii, posiada sprawność Sanitariusza** ze ścieżki „Samarytanka”."
+    }
+]

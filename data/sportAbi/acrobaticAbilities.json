@@ -1,0 +1,23 @@
+[
+	{
+		"checked": false,
+		"title":"Gibki *",
+		"image":"assets/images/gibki.jpg",
+		"description":
+        "• Umie sprawnie wykonać poprawny przewrót w przód i w tył oraz 15 pompek, 25 przysiadów i 20 brzuszków.\n• Potrafi zawisnąć na drążku przez 20 s na rękach oraz 10 s trzymając się wyłącznie nogami."
+    },
+	{
+		"checked": false,
+		"title":"Gimnastyk **",
+		"image":"assets/images/gimnatyk.jpg",
+		"description":
+        "• Umie podciągnąć się oburącz na drążku podchwytem i nachwytem.\n• Potrafi stabilnie stać na rękach, opierając nogi o ścianę.\n• Umie przeskoczyć przeszkodę sięgającą do pasa, opierając się o nią wyłącznie rękami.\n• Potrafi przejść kilka metrów po naciągniętej linie, trzymając się drugiej liny, lub po linie typu slackline.\n• Umie poprowadzić prawidłową rozgrzewkę, uwzględniając różne ćwiczenia i partie ciała."
+    },
+	{
+		"checked": false,
+		"title":"Akrobata ***",
+		"image":"assets/images/akrobata.jpg",
+		"description":
+        "• Potrafi na drążku zawisnąć przez 60 s, wykonać wymyk przodem oraz wejście siłowe (tzw. muscle up).\n• Umie bez podparcia nogami stabilnie ustać na rękach przez kilkanaście sekund.\n• Potrafi, stosując odpowiednią technikę, bezpiecznie wejść po linie na wysokość 4 m."        
+    }
+]

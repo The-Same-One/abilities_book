@@ -1,0 +1,51 @@
+[
+	{
+		"checked": false,
+		"title":"Kuchcik *",
+		"image":"assets/images/kuchcik.jpg",
+		"description":
+            "• Umie przygotować potrawę na ciepło, taką jak jajecznica na boczku, naleśniki lub jajko sadzone z ziemniakami.\n• Potrafi nakryć do stołu i podać potrawę w estetycznej formie (w warunkach domowych lub polowych)."
+    },
+	{
+		"checked": false,
+		"title":"Kucharz **",
+		"image":"assets/images/kucharz.jpg",
+		"description":
+            "• Umie przyrządzić smaczny, trzydaniowy posiłek dla 4–6 osób (np. rodziny lub zastępu).\n• Rozpoznaje i potrafi korzystać w swoich potrawach z podstawowych przypraw."
+    },
+    {
+		"checked": false,
+		"title":"Cukiernik **",
+		"image":"assets/images/cukiernik.jpg",
+		"description":
+        "• Potrafi przygotować i atrakcyjnie podać deser (np. ciasto, ciastka lub tort).\n• Umie wykonać element dekoracyjny deseru (np. wzór z kandyzowanych owoców lub bitej śmietany)."
+    },
+    {
+		"checked": false,
+		"title":"Wek **",
+		"image":"assets/images/wek.jpg",
+		"description":
+        "• Umie przygotować proste przetwory (np. dżem lub ogórki kiszone).\n• W warunkach polowych potrafi zabezpieczyć żywność (np. nabiał, mięso, owoce) przed zepsuciem przez 3 dni.\n• Potrafi zadbać o odpowiednie warunki przechowywania i transportu produktów lub przetworzonej żywności."
+    },
+    {
+		"checked": false,
+		"title":"Kuchmistrz ***",
+		"image":"assets/images/kuchmistrz.jpg",
+		"description":
+            "• Umie ugotować 10 różnych dań.\n• Potrafi zaplanować i przygotować kierując kilkuosobowym zespołem obiad dla 15–20 osób (np. dla drużyny), składający się z dwóch dań. Umie obliczyć ilość potrzebnych produktów tak, aby wszyscy się najedli.\n• Rozpoznaje i potrafi korzystać z kilkunastu przypraw, wie które są podstawowe dla poszczególnych kuchni regionalnych.\n• Potrafi przygotować listę zakupów obejmującą wszystkie posiłki w ciągu dnia.\n• W przygotowywanych posiłkach umie zadbać o odpowiednie proporcje produktów i składników odżywczych."
+	},
+    {
+		"checked": false,
+		"title":"Cukiermistrz ***",
+		"image":"assets/images/cukiermistrz.jpg",
+		"description":
+            "• Potrafi przygotować 10 różnych deserów.\n• Umie dobrać i przygotować deser na wyjątkową okazję dla grupy kilkunastu osób (np. podczas święta obozu, rodzinnego spotkania albo urodzin znajomego).\n• Potrafi zachować balans smaków (np. słodyczy i kwaśności).\n• Umie samodzielnie przygotować wyjątkową dekorację deseru, taką jak fantazyjne wzory z kremu, trójwymiarowe kształty z czekolady, żywe jadalne kwiaty."
+    },
+    {
+		"checked": false,
+		"title":"Przetwornik ***",
+		"image":"assets/images/przetwornik.jpg",
+		"description":
+            "• Umie samodzielnie przygotować smaczne i zdrowe wyżywienie, które nie zepsuje się czasie kilkudniowej wędrówki (np. suszone mięso i owoce, własnoręcznie przygotowane batoniki energetyczne lub weki).\n• Potrafi przygotować 5 różnych przetworów, w tym słodkie i słone.\n• Wie, na czym polega pasteryzacja, i umie ją przeprowadzić.\n• Potrafi przygotować jadłospis na kilkudniowy wyjazd z uwzględnieniem zwiększonego zapotrzebowania kalorycznego grupy."
+    }
+]

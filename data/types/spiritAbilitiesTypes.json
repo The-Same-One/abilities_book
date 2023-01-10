@@ -1,0 +1,27 @@
+[
+	{
+		"title":"ROZWAGA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/spiritAbi/rozwagaAbilities.json"
+	},
+	{
+		"title":"DZIELNOŚĆ",
+		"image":"assets/images/lilijka.png",
+        "category": "data/spiritAbi/braveryAbilities.json"
+	},
+	{
+		"title":"SŁUŻBA LITURGICZNA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/spiritAbi/ministrantAbilities.json"
+	},
+    {
+		"title":"SŁOWO BOŻE",
+		"image":"assets/images/lilijka.png",
+        "category": "data/spiritAbi/slowoBozeAbilities.json"
+	},
+    {
+		"title":"OGIEŃ DUCHA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/spiritAbi/spiritFire.json"
+	}
+]

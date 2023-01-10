@@ -1,0 +1,23 @@
+[
+	{
+		"checked": false,
+		"title":"Migawka *",
+		"image":"assets/images/migawka.jpg",
+		"description":
+			"• Umie przygotować relację z wydarzenia w formie zestawu najwyżej 10 zdjęć, w taki sposób, by ze zdjęć można było się dowiedzieć, kto uczestniczył w wydarzeniu i na czym ono polegało.\n• Potrafi zrobić ciekawe zdjęcie na zadany temat lub inspirując się abstrakcyjnym hasłem (np. „wzrok”, „fale”, „przyjaźń” itp.)"
+	},
+	{
+		"checked": false,
+		"title":"Fotograf **",
+		"image":"assets/images/fotograf.jpg",
+		"description":
+			"• Umie zrobić serię zdjęć portretowych (np. harcerzom swojej drużyny). Potrafi zadbać przy tym o odpowiednie dobranie parametrów (np. tła, światła i głębi ostrości) aparatu, aby zdjęcia były spójne wizualnie.\n• Umie dobrać odpowiedni tryb aparatu do fotografowanej sceny: np. pejzaż, ruch, sport, portret, portret zbiorowy, scenę na ulicy.\n• Potrafi dokonać podstawowej obróbki zdjęć w wybranym programie graficznym, ,posługując się takimi parametrami jak kontrast, jasność, ostrość, kadrowanie, nasycenie kolorów itp.\n• Umie przygotować swoje zdjęcia do publikacji w Internecie oraz do druku. Potrafi sporządzić wydruk swoich fotografii."
+	},
+	{
+		"checked": false,
+		"title":"Fotografik ***",
+		"image":"assets/images/fotografik.jpg",
+		"description":
+			"• Umie posługiwać się trybem manualnym swojego aparatu: odpowiednio do fotografowanej sytuacji ustawić przysłonę, czas naświetlania, czułość i balans bieli. Potrafi kreatywnie wykorzystać te parametry, aby osiągnąć zamierzony efekt wizualny.\n• Umie opowiedzieć historię w formie fotoreportażu składającego się z 6–8 zdjęć. Potrafi przygotować wydruk swojego fotoreportażu w formacie wystawowym.\n• Umie dobrać sprzęt fotograficzny (np. obiektyw, filtry i lampę błyskową) do fotografowanej sytuacji.\n• Potrafi wywołać zdjęcia dowolną techniką analogową.\n• Zna twórczość wybranych fotografów, umie wskazać co podoba mu się w ich pracach i czym charakteryzuje się ich twórczość."
+	}
+]

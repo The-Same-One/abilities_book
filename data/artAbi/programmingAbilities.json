@@ -1,0 +1,50 @@
+[
+	{
+		"checked": false,
+		"title":"Koder *",
+		"image":"assets/images/koder.jpg",
+		"description":
+			"• Potrafi napisać i uruchomić program, który pobiera od użytkownika tekst i wyświetla go na ekranie.\n• Umie podłączyć do komputera urządzenia peryferyjne, takie jak monitor, mikrofon, głośniki lub drukarka."
+		
+	},
+	{
+		"checked": false,
+		"title":"Programista **",
+		"image":"assets/images/programista.jpg",
+		"description": 
+			"• Potrafi napisać program (np. wykonujący działania matematyczne, szyfrujący wiadomość lub przeliczający jednostki miary) i umie wytłumaczyć jego działanie.\n• Potrafi zabezpieczyć plik hasłem i przesłać go mailem."
+		
+	},
+	{
+		"checked": false,
+		"title":"Webjunior **",
+		"image":"assets/images/webjunior.jpg",
+		"description": 
+			"• Umie stworzyć pojedynczą stronę internetową, korzystając z języków HTML i CSS.\n• Potrafi umieścić swoją stronę w Internecie. Umie utworzyć jej kopię zapasową oraz wgrać ją z powrotem na serwer.\n• Potrafi stworzyć prosty serwis internetowy korzystający z systemu zarządzania treścią (np. z Wordpressa) i skonfigurować jego podstawowe funkcje, takie jak system newsów, logowanie użytkowników, import plików i zdjęć."
+		
+	},
+	{
+		"checked": false,
+		"title":"Deweloper ***",
+		"image":"assets/images/deweloper.jpg",
+		"description":
+			"• Umie napisać program złożony z kilku podprogramów lub obiektów, wykorzystujący biblioteki programistyczne i złożone typy danych.\n• Potrafi zabezpieczyć program przed wprowadzeniem niepoprawnych danych. Umie skonstruować jego intuicyjną instrukcję obsługi (np. w formie wyświetlanych komunikatów lub osobnej dokumentacji).\n• Potrafi skompilować program lub przygotować go do łatwego uruchomienia na innym komputerze.\n• Umie umieszczać w kodzie komentarze i wybierać treściwe nazwy dla zmiennych i funkcji tak, by kod programu był czytelny i zrozumiały.\n• Potrafi wskazać najważniejsze cechy języka programowania, którego używa, i porównać go z innym wybranym językiem."
+		
+	},
+	{
+		"checked": false,
+		"title":"Webmaster ***",
+		"image":"assets/images/webmaster.jpg",
+		"description":
+			"• Potrafi uruchomić witrynę WWW opartą o popularny system zarządzania treścią (np. Wordpress, Joomla, Media Wiki). Umie znaleźć i zainstalować moduły i dodatki, które zwiększą możliwości i atrakcyjność witryny.\n• Potrafi skonfigurować połączenie HTTPS, wie czym różni się od HTTP.\n• Umie uruchomić serwer WWW (np. Apache) w swojej sieci lokalnej oraz wywołać go w tej sieci z innego komputera.\n• Potrafi połączyć się zdalnie z serwerem (np. przez FTP) i umieścić pliki na serwerze.\n• Umie wdrożyć dowolny mechanizm zwiększający bezpieczeństwo strony WWW (np. filtr antyspamowy, wymuszenie bezpiecznych haseł lub weryfikację importowanych plików)."
+		
+	},
+	{
+		"checked": false,
+		"title":"Administrator ***",
+		"image":"assets/images/administrator.jpg",
+		"description":
+			"• Potrafi zaprojektować oraz skonfigurować bezpieczną sieć lokalną, przewodową lub bezprzewodową, z dostępem do Internetu.\n• Umie zainstalować i skonfigurować ogólnodostępny serwer (np. WWW lub wymiany plików), dobierając odpowiedni system operacyjny.\n• Posługuje się wybranym językiem skryptowym, który pomaga zautomatyzować czynności administracyjne.\n• Potrafi podzielić dysk twardy na partycje, zainstalować system operacyjny oraz przygotować go do pracy, w tym zainstalować oprogramowanie i skonfigurować połączenie sieciowe.\n• Umie uruchomić usługę pulpitu zdalnego, a następnie połączyć się z innym komputerem, wykorzystując tę metodę."
+		
+	}
+]

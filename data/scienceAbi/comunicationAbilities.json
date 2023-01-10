@@ -1,0 +1,23 @@
+[
+	{
+		"checked": false,
+		"title":"Zgodny *",
+		"image":"assets/images/zgodny.jpg",
+		"description":
+        "• Umie rozwiązać konflikt z kolegą lub koleżanką uwzględniając zarówno potrzeby własne, jak i drugiej osoby.\n• W różnych sytuacjach potrafi nazwać swoje uczucia i wskazać ich źródła."
+    },
+	{
+		"checked": false,
+		"title":"Rozjemca **",
+		"image":"assets/images/rozjemca.jpg",
+		"description":
+        "• Umie oddzielić fakty od opinii i ocen (np. podsumowując grę potrafi wskazać realne przyczyny zwycięstwa lub porażki oraz zaproponować rozwiązania na przyszłość).\n• W swoich wypowiedziach potrafi opisać zdarzenie wyraźnie rozgraniczając fakty od emocji, które kierowały jego uczestnikami. Umie wykorzystać tę umiejętność do opisu konfliktu, którego był świadkiem bądź uczestnikiem."        
+    },
+	{
+		"checked": false,
+		"title":"Mediator ***",
+		"image":"assets/images/mediator.jpg",
+		"description":
+        "• Potrafi rozwiązać konflikt podejmując się roli mediatora.\n• Aby zwiększyć szanse nawiązania kontaktu i porozumienia potrafi prowadzić dialog stosując 4 kroki komunikacji bez przemocy:\n1) zaobserwować i opisać fakty w konkretnej sytuacji,\n2) nazwać własne uczucia,\n3) ocenić jakie jego potrzeby zostały spełnione bądź nie,\n4) wyrazić prośby i oczekiwania na przyszłość."
+    }
+]

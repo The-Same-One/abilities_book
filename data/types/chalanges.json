@@ -1,0 +1,79 @@
+[
+	{
+		"checked": false,
+		"title":"Trzy Pióra",
+		"image":"assets/images/trzyPiora.jpg",
+		"description":
+        "Trzy próby przed Tobą, a każda z nich trwa dobę.\n\nPierwszej doby zachowasz całkowite milczenie. W drugiej powstrzymasz się od spożywania pokarmu i napojów, z wyjątkiem czystej wody. Trzecią spędzisz w samotności, niepostrzeżony przez innych, obserwując życie lasu.\n\nTrzy pióra przyniesiesz po trzeciej próbie i złożysz je przed radą w kręgu ogniskowym.\n\n\nPrzydatne sprawności: Rosomak***, Włóczykij***."
+    },
+	{
+		"checked": false,
+		"title":"Szczwany Lis",
+		"image":"assets/images/szczwanyLis.jpg",
+		"description":
+        "Weź paczkę zapałek jaką dał Ci drużynowy i za 12 godzin wróć do obozowiska pojazdem. Pieniędzy wydać nie możesz. Prawa nie złamiesz. Spryt i zaradność są Twoją bronią.\n\nPamiętaj: niech efekt będzie powodem uznania a nie śmieszności tylko!\n\n\nPrzydatne sprawności: *** z dziedziny „Nauka i kultura” albo „Sztuka i technika”."
+    },
+	{
+		"checked": false,
+		"title":"Łowca",
+		"image":"assets/images/lowca.jpg",
+		"description":
+        "Łowcą ten tylko mienić się może, kto potrafi dzikiego zwierza przechytrzyć. Dowiedź sprytu i umiejętności, robiąc zdjęcie leśnej lub bagiennej bestii.\n\nDowodem będzie tylko zdjęcie które pozwoli na bezsporne rozpoznanie gatunku – co w kręgu ogniskowym gromady ogłoszone wszem zostanie. Pamiętaj, łowcą nie zostanie ten, co z przypadku lub w towarzystwie przewodnika zadanie wykona, ani ten, co pospolitego stwora obaczy. Przygotuj się dobrze. Masz 24 godziny, nie więcej!\n\n\nPrzydatne sprawności: Znawca Zwierzyny***, Fotografik***."
+    },
+    {
+		"checked": false,
+		"title":"Korona Gór",
+		"image":"assets/images/koronaGor.jpg",
+		"description":
+        "Sudety, a w nich Góry Złote, Sowie, Orlickie i surowe Karkonosze. Wśród Karpackich pasm Beskidy: Żywiecki, Sądecki i Śląski a i wiele innych. Słynne Gorce, malownicze Pieniny i grozę budzące Tatry. Zdobędziesz dziesięć szczytów korony Polski o wysokości ponad 1000 m n.p.m.\n\nPierwszy szczyt zdobędziesz przed zachodem słońca. Dziesiąty przed upływem 6 miesięcy.\n\n\nPrzydatne sprawności: Wędrowiec Górski***, Ratownik***, Mistrz Orientacji***"
+    },
+    {
+		"checked": false,
+		"title":"Dromader",
+		"image":"assets/images/dromader.jpg",
+		"description":
+        "Przejdziesz pieszo 100 km. W 24 godziny zdążysz. Nic więcej. Przygotuj się dobrze i pamiętaj że to głowa Cię prowadzi, a nie nogi niosą.\n\n\nPrzydatne sprawności: Wędrowiec***, Ratownik***."
+    },
+    {
+		"checked": false,
+		"title":"Maratończyk",
+		"image":"assets/images/maratonczyk.jpg",
+		"description":
+        "Przebiegniesz 42 195 m. W jednym biegu. Masz 6 miesięcy od dziś.\n\n\nPrzydatne sprawności:***Biegacz."        
+    },
+    {
+		"checked": false,
+		"title":"Asceta",
+		"image":"assets/images/asceta.jpg",
+		"description":
+        "Na 40 dni podejmiesz się trudu wyrzeczenia wybranej przyjemności lub rozrywki. Zwalcz pokusę, by wybrać to co łatwe. Czas, środki lub energię jakie zachowasz, przeznaczysz na pożyteczny cel. Tylko Ty umiesz ocenić, czy będzie to dla Ciebie trudna próba czy prosta, a jej kształt zachowaj w tajemnicy z drużynowym. Pamiętaj: proste próby to czasu strata!\n\n\nPrzydatne sprawności: *** ze ścieżki „Ogień Ducha” i „Dzielność”."
+    },
+    {
+		"checked": false,
+		"title":"Camino",
+		"image":"assets/images/camino.jpg",
+		"description":
+        "Spakuj plecak na wiele dni, ale weź tylko to co niezbędne. Zaopatrz się w poręczny kostur i mapę. Ruszaj na szlak znaczony muszlami – jak pątnik sprzed tysiąclecia – na Camino de Santiago. Przebędziesz 200 kilometrów pieszo lub 500 rowerem, a skończysz przy grobie Św. Jakuba.\n\nTo nie droga jest trudnością, to trudności są drogą.\n\n\nPrzydatne sprawności: Wędrowciec***, Wędrowiec Górski***, Pielgrzym***"
+    },
+    {
+		"checked": false,
+		"title":"Spec",
+		"image":"assets/images/spec.jpg",
+		"description":
+        "Zanim mistrzem uczeń się stanie – niezbędną praktykę posiąść musi na terminie. Wybrałeś profesję, którą parać się będziesz? A może masz do czegoś smykałkę lub pasjami to uprawiasz? Oprawa obrazów, betonowanie lub naprawa skrzyni biegów – to umiejętności, których nie nauczysz się z podręcznika.\n\nZnajdziesz Mistrza który przyjmie Cię na naukę. Pamiętaj, tylko taka, która 100 godzin przynajmniej trwać będzie i fachowego doświadczenia Ci przyda, pozwoli tytułować się specem. To zaś odpowiednim listem Mistrza poświadczone być musi.\n\n\nPrzydatne sprawności: *** z dziedziny „Sztuka i technika” i „Nauka i kultura”."
+    },
+    {
+		"checked": false,
+		"title":"Viral",
+		"image":"assets/images/viral.jpg",
+		"description":
+        "Filmik stworzyć potrafi każdy. Stworzyć filmik, który ma odsłony liczone w tysiącach, umie tylko lepszy szprync. Stworzyć film, który oglądają tysiące, ale jego treść jest prawdziwie harcerska – to prawdziwy mistrz! Stwórz film z przesłaniem harcerskim, który będzie miał 100 tysięcy odsłon!\n\n\nPrzydatne sprawności: *** ze ścieżki „Film i Kino”."
+    },
+    {
+		"checked": false,
+		"title":"Wieszcz",
+		"image":"assets/images/wieszcz.jpg",
+		"description":
+        "Słowo – jest czynu testamentem; czego się nie może czynem dopiąć, to się w słowie testuje – przekazuje; takie tylko słowa są potrzebne i takie tylko zmartwychwstają czynem – wszelkie inne są mniej lub więcej uczoną frazeologią albo mechaniczną koniecznością, jeżeli nie rzeczą samej sztuki.\n\nCyprian K. Norwid, „Promethidion”\n\n\nOpublikuj swój utwór w prasie lub książce.\n\nUważaj, tylko dzieło drukiem wydane liczyć się będzie!\n\n\nPrzydatne sprawności: *** ze ścieżki „Literatura”."
+    }
+]

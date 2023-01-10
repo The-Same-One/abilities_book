@@ -1,0 +1,30 @@
+[
+	{
+		"checked": false,
+		"title":"Wioślarz *",
+		"image":"assets/images/wioslarz.jpg",
+		"description":
+        "• Umie wiosłować i wykonywać podstawowe manewry: skręcać, cofać i obracać się w miejscu.\n• Potrafi się odpowiednio przygotować i poradzić sobie podczas całodniowej wycieczki kajakowej lub na dystansie 10 km.\n• Umie wsiąść do kajaka z brzegu i z pomostu."
+    },
+	{
+		"checked": false,
+		"title":"Kajakarz **",
+		"image":"assets/images/kajakarz.jpg",
+		"description":
+        "• Umie przygotować się i poradzić sobie w czasie kilkudniowego spływu kajakowego, w tym zabezpieczyć bagaż przed przemoczeniem.\n• Potrafi pokonać przeszkody na rzece takie jak zwalone drzewa, płycizny, mosty, bystry nurt itp.\n• Umie wejść do kajaka z wody, nie wywracając go.\n• Potrafi poradzić sobie w razie wywrotki i wypadnięcia z kajaka.\n• Umie zacumować kajak we wskazanym miejscu, zadbać o sprzęt i go zabezpieczyć (np. wylać wodę z kajaka i go osuszyć).\n• Posiada sprawność Kijanki* ze ścieżki „Pływanie”."        
+    },
+	{
+		"checked": false,
+		"title":"Kajakarz Doskonały ***",
+		"image":"assets/images/kajakarzDoskonaly.jpg",
+		"description":
+        "• Potrafi zaplanować i przeprowadzić kilkudniowy i kilkuosobowy spływ (zorganizować mapy, wyposażenie biwakowe, rozdział ekwipunku na kajaki, miejsca noclegowe itd.).\n• Umie dbać o bezpieczeństwo spływu w różnych warunkach terenowych, umie pełnić funkcję otwierającego spływ.\n• Potrafi pomóc załodze wywróconego kajaka, umie holować kajakarza na dziobie swojego kajaka.\n• Zna i stosuje przepisy dotyczące turystyki kajakowej.\n• Umie naprawić podstawowe uszkodzenia kajaka i wiosła.\n• Potrafi udzielić pierwszej pomocy osobie podtopionej, posiada sprawność Sanitariusza** ze ścieżki „Samarytanka”."
+    },
+    {
+		"checked": false,
+		"title":"Kajakarz Górski ***",
+		"image":"assets/images/kajakarzGorski.jpg",
+		"description":
+        "• Umie spłynąć jednoosobowym kajakiem z fartuchem rzeką z odcinkami górskimi.\n• Potrafi przygotować się do niebezpiecznego spływu (kask, odpowiedni ubiór, odpowiedni kajak itd.).\n• Potrafi zrobić eskimoskę i w razie potrzeby wyjść z kajaka z fartuchem w razie wywrotki.\n• Zna zasady spływania po rzece górskiej, wie jak zachować się w trudnych sytuacjach."
+    }
+]

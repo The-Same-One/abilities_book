@@ -1,0 +1,23 @@
+[
+	{
+		"checked": false,
+		"title":"Czujka *",
+		"image":"assets/images/czujka.jpg",
+		"description":
+        "• Potrafi prawidłowo pełnić służbę wartowniczą w dzień i w nocy.\n• Umie poruszać się w nocy nie wykorzystując sztucznych źródeł światła. Potrafi wyłącznie przy pomocy słuchu określić, z której strony zbliża się człowiek.\n• Umie zachować się w wypadku zauważenia w obozie obcych osób, pożaru bądź gwałtownej zmiany pogody. Umie skutecznie ogłosić alarm.\n• Potrafi w razie konieczności wezwać telefonicznie pomoc oraz zdać rzeczowy raport służbom."        
+    },
+	{
+		"checked": false,
+		"title":"Wartownik **",
+		"image":"assets/images/wartownik.jpg",
+		"description":
+        "• Umie samodzielnie pełnić nocną służbę wartowniczą. Obudzony potrafi szybko i sprawnie wstać oraz przygotować się do służby.\n• Zna i potrafi stosować zasady harcerskich podchodów. Umie ocenić strzeżony teren i wybrać najlepsze stanowiska do pełnienia warty.\n• Potrafi wykonać prosty i bezpieczny wykrywacz (np. suche gałęzie lub ukryty dzwonek).\n• Umie przyjąć obozowych gości oraz wizytację zgodnie z właściwymi procedurami oraz należytymi manierami.\n• Potrafi złożyć dowódcy warty prawidłowy raport z wykonanej służby."
+    },
+	{
+		"checked": false,
+		"title":"Dowódca Warty ***",
+		"image":"assets/images/dowodcaWarty.jpg",
+		"description":
+        "• Gdy rozkłada z zastępem obozowisko, potrafi umiejscowić je tak, aby było jak najlepiej zakamuflowane.\n• Umie ustalić grafik wart. Wie, w których godzinach warta jest najtrudniejsza, i potrafi adekwatnie dobrać wartowników.\n• Umie przygotować plan obrony obozu, zawierający procedury na wypadek zauważenia w obozie intruzów, zagrożenia pogodowego, podchodów itp., a następnie przeszkolić drużynę i przećwiczyć wykonanie tego planu.\n• Potrafi przygotować i przeprowadzić próbę alarmów obozowych: ewakuacja, alarm wartowniczy, stan zagrożenia pogodowego.\n• Umie przygotować obóz na nagłą zmianę warunków atmosferycznych. Posiada sprawność Meteorologa** ze ścieżki „Obserwacja nieba”."
+    }
+]

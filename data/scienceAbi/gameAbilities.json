@@ -1,0 +1,44 @@
+[
+	{
+		"checked": false,
+		"title":"Harcownik *",
+		"image":"assets/images/harcownik.jpg",
+		"description":
+        "• Umie wytłumaczyć zasady i uczestniczyć w 6 różnych grach (np. terenowych, słownych, planszowych lub logicznych).\n• We wszelkich grach potrafi postępować honorowo."
+    },
+	{
+		"checked": false,
+		"title":"Taktyk **",
+		"image":"assets/images/taktyk.jpg",
+		"description":
+        "• Potrafi dowodzić zespołem podczas gry terenowej.\n• Umie przeanalizować zasady gry terenowej i na tej podstawie ustalić taktykę oraz przydzielić zadania członkom zespołu. Potrafi w trakcie gry na bieżąco oceniać sytuację i przeprowadzać zmiany w przyjętym planie.\n• Potrafi wspólnie z zespołem wyciągnąć z rozgrywki wnioski na przyszłość.\n• Potrafi przygotować i przeprowadzić 5 różnych gier (np. terenowych, słownych lub logicznych) dla kilku kolegów."        
+    },
+    {
+		"checked": false,
+		"title":"Strateg **",
+		"image":"assets/images/strateg.jpg",
+		"description":
+        "• Umie grać w przynajmniej jedną grę wymagającą logicznego myślenia (np. szachy, brydż lub go). Potrafi wytłumaczyć jej zasady i nauczyć podstaw gry nowicjusza.\n• Umie stosować typowe zagrania taktyczne w wybranej grze logiczno-strategicznej (np. impas brydżowy, pułapki szachowe, groźba ko w go).\n• Potrafi zastosować przemyślaną strategię w grze terenowej, planszowej, karcianej lub komputerowej. Umie wyjaśnić na czym polegała, jakie miała zalety i jakie wady, jak wysokie było ryzyko z nią związane."
+    },
+	{
+		"checked": false,
+		"title":"Organizator Gier\nTerenowych ***",
+		"image":"assets/images/orgGierTer.jpg",
+		"description":
+        "• Potrafi wymyślić, przygotować i przeprowadzić minimum godzinną grę terenową dla kilku zespołów (np. zastępów w drużynie) uwzględniając jej mechanikę, estetykę (np. rekwizytów lub instrukcji) i fabułę.\n• Umie sporządzić plan gry i listę potrzebnych rzeczy, które pozwolą na jej odtworzenie przez osobę, która wcześniej jej nie znała.\n• Potrafi wskazać, jakie umiejętności ćwiczy dana gra (np. orientację w terenie, współpracę, logiczne myślenie) i dobrać grę do zamierzonego celu.\n• Umie przerobić i dostosować znaną sobie grę do potrzeb sytuacji (np. dopasowując mechanikę do liczby graczy, miejsca rozgrywki lub fabuły)."
+    },
+    {
+		"checked": false,
+		"title":"Arcymistrz ***",
+		"image":"assets/images/arcymistrz.jpg",
+		"description":
+        "• Umie przeanalizować strategię lub taktyczne zagrania przeciwnika w wybranej grze logiczno-strategicznej, wskazać wady i zalety tych zagrań i zastosować odpowiednie kontry.\n• Zna zasady turniejowe wybranej przez siebie gry logicznostrategicznej. Potrafi taki turniej zorganizować.\n• Umie pokazać analogie między wybraną grą logiczno-strategiczną, a strategią wojskową lub gospodarczą.\n• Potrafi obiektywnie ocenić swoje umiejętności w wybranej grze logiczno-strategicznej w odniesieniu do powszechnie stosowanych rankingów lub kategorii."
+    },
+    {
+		"checked": false,
+		"title":"Twórca Gier ***",
+		"image":"assets/images/tworcaGier.jpg",
+		"description":
+        "• Umie wymyślić i stworzyć własną, atrakcyjną grę planszową lub logiczną dla grupy 4–10 osób, uwzględniając jej mechanikę, estetykę (np. planszy lub kart) i fabułę.\n• Potrafi opracować instrukcję do swojej gry, która umożliwi samodzielne zrozumienie i rozegranie gry osobom, które jej nie znają.\n• Potrafi wskazać, jakie umiejętności ćwiczy dana gra (np. pamięć, współpracę, logiczne myślenie) i dobrać grę do zamierzonego celu."
+    }
+]

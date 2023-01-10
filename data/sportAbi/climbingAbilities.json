@@ -1,0 +1,23 @@
+[
+	{
+		"checked": false,
+		"title":"Klama *",
+		"image":"assets/images/klama.jpg",
+		"description":
+        "• Umie poprawnie założyć uprząż, przywiązać się do liny węzłem „ósemka”, wspinać się z asekuracją górną („na wędkę”) z zachowaniem podstawowych zasad bezpieczeństwa, takich jak utrzymywanie kontaktu z asekurującym i wzajemna kontrola bezpieczeństwa przed rozpoczęciem wspinania.\n• Po osiągnięciu końcowego punktu drogi wspinaczkowej potrafi sprawnie i bezpiecznie zjechać na dół.\n• Umie przeprowadzić rozgrzewkę i rozciąganie przed oraz po wspinaczce."
+    },
+	{
+		"checked": false,
+		"title":"Oblak **",
+		"image":"assets/images/oblak.jpg",
+		"description":
+        "• Potrafi przeprowadzić asekurację górną z użyciem samoblokującego się przyrządu asekuracyjnego (np. grigri).\n• Umie wspinać się z asekuracją dolną, potrafi samodzielnie skompletować sprzęt przed tego rodzaju wspinaczką, m.in. policzyć potrzebne expressy i pętle.\n• Potrafi porównać trudność dróg wspinaczkowych, sprawdzając w przewodniku ich wycenę według dowolnej skali.\n• Umie dbać o sprzęt wspinaczkowy i dokonać jego przeglądu pod kątem bezpieczeństwa."
+    },
+	{
+		"checked": false,
+		"title":"Wspinacz ***",
+		"image":"assets/images/wspinacz.jpg",
+		"description":
+        "• Potrafi wspinać się zarówno na ściance wspinaczkowej, jak i w naturalnych skałach.\n• Podczas wspinaczki z asekuracją dolną umie samodzielnie dokonać przewiązania na końcowym punkcie drogi wspinaczkowej z wykorzystaniem dowolnej techniki autoasekuracji.\n• Potrafi przeprowadzić asekurację dolną z użyciem samoblokującego się przyrządu asekuracyjnego.\n• Umie wykonać samodzielny zjazd po linie z użyciem przyrządu asekuracyjnego.\n• Potrafi udzielić pierwszej pomocy w przypadku urazów typowych dla wspinaczy. Posiada sprawność Sanitariusza** ze ścieżki „Samarytanka”."
+    }
+]

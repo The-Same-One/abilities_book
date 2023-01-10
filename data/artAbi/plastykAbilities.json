@@ -1,0 +1,74 @@
+[
+	{
+		"checked": false,
+		"title":"Plastyk *",
+		"image":"assets/images/plastyk.jpg",
+		"description":
+			"• Umie przygotować odpowiednie narzędzia i materiały do wybranych działań plastycznych (np. modelowania lub rysowania).\n• Potrafi wykonać model albo rysunek na podstawie opisu lub szczegółowo odwzorować przedmiot z natury (np. liść lub totem).\n• Umie przygotować swoją pracę do publicznej prezentacji (np. oprawić ilustrację samodzielnie wykonaną ramką lub wypalić gliniany model)."
+		
+	},
+	{
+		"checked": false,
+		"title":"Grafik **",
+		"image":"assets/images/grafik.jpg",
+		"description": 
+			"• Potrafi wykonać szkic z natury z zachowaniem proporcji i odwzorowaniem charakterystycznych cech szkicowanego obiektu lub postaci.\n• Umie zaprojektować i wykonać plakat, ogłoszenie lub ozdobną kartę kroniki, zwracając uwagę na czytelność informacji, kompozycję i precyzję wykonania.\n• Potrafi wykorzystać 3 różne techniki plastyczne do wykonania ilustracji lub innej formy graficznej."
+		
+	},
+	{
+		"checked": false,
+		"title":"Rękodzielnik **",
+		"image":"assets/images/rekodzielnik.jpg",
+		"description": 
+			"• Umie samodzielnie wykonać za pomocą scyzoryka lub innego narzędzia drobny element ozdobny lub użytkowy z drewna lub kory (np. pierścień, list na korze czy pieczęć zastępu).\n• Potrafi wykonać według własnego projektu ozdobny element aranżacji pokoju, namiotu lub harcówki (np. abażur, skrzynkę lub wieszak na proporce).\n• Umie sprawnie i estetycznie naprawić lub przerobić przedmiot (np. wymienić guziki w koszuli, naprawić uszkodzoną okładkę książki lub przemalować niewielki mebel)."
+		
+	},
+	{
+		"checked": false,
+		"title":"Ilustrator ***",
+		"image":"assets/images/ilustrator.jpg",
+		"description":
+			"• Umie przedstawić historię lub zobrazować tekst ilustracją bądź sekwencją ilustracji, akcentując charakterystyczne i ważne dla narracji elementy.\n• Potrafi posługiwać się 5 różnymi technikami plastycznymi, takimi jak rysunek węglem, pastele, akwarele, malarstwo olejne lub temperowe, linoryt, grafika rastrowa lub wektorowa. Umie dobrać odpowiednią technikę do realizowanego dzieła.\n• Zna podstawowe zasady kompozycji, wie co to jest złota proporcja, wie jak wygląda koło barw i co to są barwy dopełniające, jak powstają kolory pochodne itp. Potrafi wykorzystać znajomość tych zasad w swoich pracach.\n• Umie wykonać reprodukcję własnych ilustracji z wykorzystaniem techniki cyfrowej.\n• Zna twórczość wybranych ilustratorów, malarzy i grafików. Potrafi wskazać, co mu się w nich podoba i czym charakteryzuje się ich twórczość."
+		
+	},
+	{
+		"checked": false,
+		"title":"Scenograf ***",
+		"image":"assets/images/scenograf.jpg",
+		"description":
+			"• Potrafi stworzyć kompletną wizję i zaprojektować scenografię na potrzeby przedstawienia, w którym występuje wiele postaci a akcja toczy się w różnych miejscach.\n• Umie przygotować oświetlenie, rekwizyty i dekoracje w taki sposób, aby jak najlepiej podkreślić treść przedstawienia.\n• Potrafi samodzielnie wykonać element scenografiii, taki jak strój, dekoracja lub rekwizyt.\n• W cenionych przez siebie sztukach teatralnych lub filmach umie wskazać i scharakteryzować zabiegi scenograficzne, które wpływają na atrakcyjności i siłę przekazu."
+		
+	},
+	{
+		"checked": false,
+		"title":"Rękodzielnik ***",
+		"image":"assets/images/rekodzielnik.jpg",
+		"description":
+			"• Umie samodzielnie wykonać za pomocą scyzoryka lub innego narzędzia drobny element ozdobny lub użytkowy z drewna lub kory (np. pierścień, list na korze czy pieczęć zastępu).\n• Potrafi wykonać według własnego projektu ozdobny element aranżacji pokoju, namiotu lub harcówki (np. abażur, skrzynkę lub wieszak na proporce).\n• Umie sprawnie i estetycznie naprawić lub przerobić przedmiot (np. wymienić guziki w koszuli, naprawić uszkodzoną okładkę książki lub przemalować niewielki mebel)."
+		
+	},
+	{
+		"checked": false,
+		"title":"Rzeźbiarz ***",
+		"image":"assets/images/rzezbiarz.jpg",
+		"description":
+			"• Potrafi samodzielnie wykonać model obiektu z natury z odwzorowaniem jego charakterystycznych cech i proporcji, wykorzystując do tego materiały takie jak glina, gips, masa plastyczna lub drewno.\n• Umie posługiwać się narzędziami rzeźbiarskimi do drewna, takimi jak dłuto, rylec, tarnik. Zna przynajmniej 3 rodzaje drewna przydatne w rzeźbie i potrafi je scharakteryzować.\n• Umie zaprojektować i wykonać w technice rzeźby lub linorytu ilustrację (np. na podstawie cytatu z książki lub opisu wydarzenia).\n• Zna twórczość wybranych rzeźbiarzy, potrafi opowiedzieć o głównych tematach rzeźbiarskich od antyku po czasy współczesne, umie rozpoznać charakterystyczne cechy rzeźby z różnych epok."
+		
+	},
+	{
+		"checked": false,
+		"title":"Modelarz ***",
+		"image":"assets/images/modelarz.jpg",
+		"description":
+			"• Potrafi złożyć i – jeśli to konieczne pomalować – model pojazdu, budynku lub innego obiektu w przynajmniej 2 technikach.\n• Umie wykonać dioramę z zachowaniem skali i precyzji adekwatnej do przedstawianego wydarzenia oraz wybranej techniki lub wykonać ruchomy model napędzany mechanicznie lub elektrycznie.\n• Zdobył sprawność Technika** ze ścieżki „Rzemiosło techniczne”."
+		
+	},
+	{
+		"checked": false,
+		"title":"Krawiec ***",
+		"image":"assets/images/krawiec.jpg",
+		"description":
+			"• Umie zaprojektować i wykonać element garderoby. Potrafi przy tym skorzystać z wykrojników i odpowiednio dobrać technikę łączenia.\n• Potrafi sprawnie posłużyć się igłą i nicią. Umie obsługiwać maszynę do szycia (np. wykonać szwy różnymi ściegami).\n• Potrafi skorzystać z umiejętności krawieckich w warunkach polowych (np. naprawić plecak, wszyć troczki w namiot albo zszyć żagiel).\n• Potrafi przy wykorzystaniu umiejętności krawieckich samodzielnie wykonać użytkowy element aranżacji wnętrza (np. zasłonę lub poduszkę)."
+		
+	}
+]

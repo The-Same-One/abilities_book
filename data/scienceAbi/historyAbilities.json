@@ -1,0 +1,45 @@
+[
+	{
+		"checked": false,
+		"title":"Skryba *",
+		"image":"assets/images/skryba.jpg",
+		"description":
+            "• Umie w ciekawy i poprawny językowo sposób opisać wydarzenie, w którym uczestniczył.\n• Potrafi opracować wpis do kroniki (papierowej lub elektronicznej) w formie relacji zawierającej tekst i zdjęcia lub ilustracje oraz wykonać go w estetyczny sposób."
+    },
+	{
+		"checked": false,
+		"title":"Kronikarz **",
+		"image":"assets/images/kronikarz.jpg",
+		"description":
+        "• Umie opisać wydarzenia, których był świadkiem, dbając nie tylko o fakty, ale także oddając nastrój i towarzyszące im emocje, korzystając z własnych wspomnień, a także konfrontując ze sobą relacje uczestników (np. członków przeciwnych zespołów w relacji z gry terenowej).\n• Potrafi zaplanować i wykonać cykl kronikarski (np. na stronie lub fanpage’u drużyny) opisujący kilka wydarzeń i łączący się w spójną stylistycznie całość.\n• Umie zbadać i opisać wydarzenie z przeszłości, posługując się różnymi źródłami informacji (np. wspomnieniami uczestników, zdjęciem, artykułem prasowym lub książką).\n• Zna i stosuje zasady kompozycji tekstu i fotografii."
+    },
+    {
+		"checked": false,
+		"title":"Kopista **",
+		"image":"assets/images/kopista.jpg",
+		"description":
+        "• Umie płynnie i czytelnie pisać odręcznie, zachowując stałą wysokość liter małych i wielkich.\n• Potrafi korzystać z narzędzi pisarskich o różnych końcówkach (np. flamastrów o końcówkach okrągłych i ściętych).\n• Umie wykonać odręcznie ozdobny inicjał lub tytuł. Sprawnie posługuje się wybranym krojem pisma ozdobnego."
+    },
+	{
+		"checked": false,
+		"title":"Reporter ***",
+		"image":"assets/images/reporter.jpg",
+		"description":
+        "• Potrafi wybrać interesujący go temat, dotrzeć do świadków związanych z nim wydarzeń oraz zebrać i opracować ich relacje, posługując się dyktafonem lub kamerą.\n• Umie rzetelnie i ciekawie opisać fakty na podstawie zebranych relacji, dokumentów i materiałów multimedialnych.\n• Potrafi zredagować i przygotować zebrane przez siebie informacje i relacje do publikacji.\n• Umie ocenić przeczytane reportaże pod względem przygotowania i rzetelności autorów, wiarygodności źródeł informacji i wagi poruszanego tematu."
+    },
+    {
+		"checked": false,
+		"title":"Historyk ***",
+		"image":"assets/images/historyk.jpg",
+		"description":
+        "• Potrafi napisać tekst (np. artykuł), w którym skonfrontuje ze sobą dwa różne opisy tego samego wydarzenia historycznego i wskaże różnice między nimi.\n• Umie przygotować rozmowę ze świadkiem historii, wie, jakie powinien zebrać informacje wcześniej. Potrafi zadać pytania w sposób pozwalający na swobodną wypowiedź.\n• Umie zredagować tekst historyczny z użyciem przypisów, spisu treści, spisu źródeł i spisu ilustracji. Potrafi sporządzić opis bibliograficzny.\n• Umie tworzyć i modyfikować treści dostępne w otwartych encyklopediach internetowych (np. Wikipedia), korzystając ze źródeł książkowych lub archiwalnych, podając źródła z jakich korzystał.\n• Potrafi posłużyć się internetowym katalogiem biblioteki uniwersyteckiej, miejskiej i Biblioteki Narodowej (w razie konieczności z pomocą osoby pełnoletniej)."
+        
+	},
+    {
+		"checked": false,
+		"title":"Kaligraf ***",
+		"image":"assets/images/kaligraf.jpg",
+		"description":
+        "• Potrafi płynnie posługiwać się przynajmniej dwoma odręcznymi krojami pisma w odmianie prostej i pochyłej. Zna i umie wykorzystać w swoim piśmie różne rodzaje szeryfów.\n• Wie czym są i do czego służą inicjały, a także potrafi wykonać ozdobny inicjał każdej litery.\n• Zna pojęcia takie jak szeryf, wersalik, kapitalik, majuskuła i umie znaleźć (np. w Internecie) krój pisma o interesujących go parametrach.\n• Potrafi posługiwać się różnymi narzędziami do kaligrafii, w tym piórem o stalówce ściętej oraz miękkiej."
+    }
+]

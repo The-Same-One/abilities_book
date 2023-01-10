@@ -1,0 +1,23 @@
+[
+	{
+		"checked": false,
+		"title":"Płomień *",
+		"image":"assets/images/plomien.jpg",
+		"description":
+        "• Umie ułożyć i rozpalić ognisko.\n• Potrafi umiejętnie podkładać drwa lub gałęzie, regulując wysokość płomienia i ograniczając iskrzenie.\n• Umie zatrzeć ślady ogniska po jego całkowitym wygaszeniu.\n• Potrafi obchodzić się z ogniem ostrożnie. Umie posługiwać się podstawowym sprzętem gaśniczym oraz wezwać straż pożarną."
+    },
+	{
+		"checked": false,
+		"title":"Strażnik Ognia **",
+		"image":"assets/images/straznikOgnia.jpg",
+		"description":
+        "• Potrafi ułożyć i rozpalić różne typy ognisk, takie jak ognisko do gotowania, do podtrzymania żaru, do oświetlenia kręgu, stos na mokry teren.• Umie podtrzymywać ogień odpowiednio do potrzeb i sytuacji. Zna zasady zachowania w kręgu ogniskowym.\n• Potrafi przygotować drewno przed ogniskiem: porąbać lub połamać odpowiedni zapas i przygotować rozpałkę odpowiednią do warunków.\n• Umie zabezpieczyć przybory do rozpalania ognia przed deszczem i wilgocią.\n• Potrafi rozpoznać i opatrzyć oparzenia różnych stopni, posiada sprawność Higienisty* ze ścieżki „Samarytanka”."
+    },
+	{
+		"checked": false,
+		"title":"Ogniowiec ***",
+		"image":"assets/images/ogniowiec.jpg",
+		"description":
+        "• Umie rozpalić ogień w niesprzyjających warunkach (np. w ulewnym deszczu, przy silnym wietrze lub w głębokim śniegu).\n• Potrafi rozpalić ogień bez zapałek, samodzielnie wykonanym narzędziem (np. łukiem ogniowym lub własnoręcznie zrobionym krzesiwem).\n• Umie wykorzystać specyficzne cechy różnych rodzajów i gatunków drewna do rozpalania i podtrzymywania ognia.\n• Potrafi przygotować pochodnię, która będzie płonęła 2 godziny.\n• Umie posłużyć się kilkoma rodzajami podręcznych środków gaśniczych, w tym gaśnicami różnych typów. Wie, jakie środki gaśnicze stosować w różnych sytuacjach."
+    }
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"checked": false,
+		"title":"Rowerzysta *",
+		"image":"assets/images/rowerzysta.jpg",
+		"description":
+        "• Potrafi przygotować rower i ekwipunek na jednodniową wyprawę rowerową.\n• Umie przejechać na rowerze 30 km w ciągu jednego dnia.\n• Potrafi wykonać przy rowerze drobne prace, takie jak smarowanie łańcucha, zamontowanie oświetlenia lub błotnika. Umie wymienić dętkę."
+    },
+	{
+		"checked": false,
+		"title":"Cyklista **",
+		"image":"assets/images/cyklista.jpg",
+		"description":
+        "• Potrafi przygotować się i poradzić sobie podczas kilkudniowej wyprawy rowerowej.\n• Umie samodzielnie wyregulować hamulce i przerzutki oraz wykonać prace takie jak zamontowanie bagażnika czy dokręcenie pedału.\n• Potrafi poruszać się rowerem zgodnie z przepisami ruchu drogowego."
+    },
+	{
+		"checked": false,
+		"title":"Kolarz ***",
+		"image":"assets/images/kolarz.jpg",
+		"description":
+        "• Umie przejechać na rowerze 100 km w ciągu jednego dnia.\n• Potrafi zaplanować kilkudniową wyprawę rowerową, umiejętnie dobierając potrzebny ekwipunek (np. namioty, narzędzia do naprawy rowerów, części zapasowe) i rozdzielając go między uczestników wyprawy.\n• Umie naprawić rower w trasie podczas wyprawy.\n• Potrafi udzielić pierwszej pomocy w przypadku urazów typowych dla rowerzystów. Posiada sprawność Sanitarusza** ze ścieżki „Samarytanka”."
+    },
+    {
+		"checked": false,
+		"title":"Kurier rowerowy ***",
+		"image":"assets/images/kurierRowerowy.jpg",
+		"description":
+        "• Potrafi efektywnie poruszać się rowerem po mieście stosując się do zasad ruchu drogowego, nie utrudniając poruszania się pieszym i samochodom.\n• Umie dobrać trasę przejazdu w taki sposób, aby jak najrzadziej się zatrzymywać i schodzić z roweru.\n• Potrafi dobrze oszacować czas przejazdu na zadanej trasie z uwzględnieniem warunków drogowych, pogodowych, pory dnia, kondycji i wytrzymałości sprzętu.\n• Umie samodzielnie złożyć rower.\n• Umie w bezpieczny i szybki sposób przewieźć na rowerze przesyłkę (np. pudło lub rulon)."
+    }
+]

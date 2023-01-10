@@ -1,0 +1,27 @@
+[
+	{
+		"title":"GRA NA GITARZE",
+		"image":"assets/images/lilijka.png",
+        "category": "data/musicAbi/guitarAbilities.json"
+	},
+	{
+		"title":"GRA NA INSTRUMENTACH",
+		"image":"assets/images/lilijka.png",
+        "category": "data/musicAbi/instrumentAbilities.json"
+	},
+	{
+		"title":"ŚPIEW",
+		"image":"assets/images/lilijka.png",
+        "category": "data/musicAbi/singingAbilities.json"
+	},
+    {
+		"title":"TANIEC",
+		"image":"assets/images/lilijka.png",
+        "category": "data/musicAbi/dancingAbilities.json"
+	},
+    {
+		"title":"AKTORSTWO I TEATR",
+		"image":"assets/images/lilijka.png",
+        "category": "data/musicAbi/actingAbilities.json"
+	}
+]

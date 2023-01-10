@@ -1,0 +1,34 @@
+[
+	{
+		"checked": false,
+		"title":"Śpiewak *",
+		"image":"assets/images/spiewak.jpg",
+		"description":
+			"• Potrafi zaśpiewać 5 wybranych piosenek, zna ich teksty na pamięć.\n• W swoim śpiewie trzyma się rytmu i melodii."
+		
+	},
+	{
+		"checked": false,
+		"title":"Zapiewajło **",
+		"image":"assets/images/zapiewajlo.jpg",
+		"description": 
+			"• Umie zaśpiewać 10 wybranych piosenek.\n• Potrafi powtórzyć melodię ze słuchu i wystukać do niej rytm.\n• Umie zaintonować śpiew w grupie (np. zastępie lub drużynie).\n• Potrafi zaśpiewać zadaną melodię od podanego dźwięku.\n• Umie wykonać 3 ćwiczenia na rozśpiewanie."
+		
+	},
+	{
+		"checked": false,
+		"title":"Wokalista ***",
+		"image":"assets/images/wokalista.jpg",
+		"description":
+            "• Potrafi zaśpiewać 3 utwory o zróżnicowanym charakterze i nastroju (np. utwór poetycki, piosenkę musicalową i pieśń modlitewną) odpowiednio je interpretując. Umie wymienić autorów i kompozytorów tych utworów.\n• Potrafi wystąpić solo przed publicznością.\n• Umie zaśpiewać krótką melodię z nut.\n• Potrafi śpiewać w chórze, na głosy.\n• Zna podstawowe zasady emisji głosu i umie zastosować je w śpiewie."
+        
+	},
+    {
+		"checked": false,
+		"title":"Wodzirej ***",
+		"image":"assets/images/wodzirej.jpg",
+		"description":
+            "• Potrafi poprowadzić ognisko lub kominek, tj. dobrać repertuar, ustalić scenariusz, zaintonować piosenki.\n• Umie zebrać i pokierować zespołem, który poprowadzi imprezę (np. leśny festiwal teatralny lub festyn w szkole).\n• W każdym gronie potrafi poprowadzić kilka zabaw towarzyskich.\n• Umie poprowadzić zaśpiew w marszu.\n• Posiada sprawność Gawędziarza** ze ścieżki „Aktorstwo i teatr”."
+        
+	}
+]

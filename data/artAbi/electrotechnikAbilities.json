@@ -1,0 +1,50 @@
+[
+	{
+		"checked": false,
+		"title":"Diodak *",
+		"image":"assets/images/diodak.png",
+		"description":
+			"• Potrafi wykonać prosty obwód elektryczny. Przykłady: zabawkowy silnik elektryczny (z magnesu, baterii i drutu), elektromagnes (z baterii, gwoździa i grubego izolowanego drutu), prymitywny próbnik przewodności elektrycznej (z baterii, żarówki i kabelków).\n• Potrafi bezpiecznie wymienić żarówkę."
+		
+	},
+	{
+		"checked": false,
+		"title":"Elektronik **",
+		"image":"assets/images/elektronik.png",
+		"description": 
+			"• Umie zbudować na płytce prototypowej prosty układ elektroniczny i wyjaśnić jego działanie.\n• Potrafi rozpoznać podstawowe elementy elektroniczne, takie jak diody, oporniki i kondensatory. Umie określić polaryzację diod i kondensatorów elektrolitycznych.\n• Potrafi w bezpieczny sposób posługiwać się lutownicą.\n• Umie dokonać naprawy bądź modyfikacji urządzenia zasilanego bateryjnie (np. zabawki, alarmu lub budzika)."
+		
+	},
+	{
+		"checked": false,
+		"title":"Elektryk **",
+		"image":"assets/images/elektryk.png",
+		"description": 
+			"• Umie bezpiecznie wykonać pracę przy domowej lub polowej instalacji elektrycznej (np. zamontować wtyczkę, podłączyć akumulator do ładowania, podłączyć baterie słoneczne).\n• Potrafi narysować schemat zadanego obwodu elektrycznego (np. obozowej instalacji elektrycznej). Umie na podstawie schematu zestawić działający obwód.\n• Potrafi za pomocą multimetru dokonać pomiaru podstawowych wielkości elektrycznych: napięcia, natężenia prądu, oporu elektrycznego.\n• Zna i stosuje zasady bezpiecznej pracy z urządzeniami elektrycznymi i wie jak się zachować w przypadku porażenia prądem."
+		
+	},
+	{
+		"checked": false,
+		"title":"Układowiec ***",
+		"image":"assets/images/układowiec.png",
+		"description":
+			"• Potrafi zaprojektować płytkę PCB i wytrawić ją w domu bądź zlecić jej wyprodukowanie.\n• Umie prawidłowo zlutować i uruchomić zaprojektowany układ.\n• Potrafi dostosować do własnych potrzeb schemat układu elektronicznego (np. znaleziony w Internecie) i uruchomić go na płytce prototypowej.\n• Umie programować mikrokontrolery. Potrafi w oparciu o mikrokontroler zaprojektować i zrealizować przydatny układ (np. czujnik lub sterownik)."
+		
+	},
+	{
+		"checked": false,
+		"title":"Komputerowiec ***",
+		"image":"assets/images/komputerowiec.png",
+		"description":
+			"• Umie złożyć komputer z podzespołów i zainstalować w nim system operacyjny.\n• Potrafi zlokalizować i wymienić uszkodzony element komputera, laptopa lub tabletu (np. baterię, płytę główną, procesor lub dysk twardy) oraz dokonać jego rozbudowy (np. zwiększenia pamięci RAM lub zainstalowania karty graficznej).\n• Umie lutować elementy SMD za pomocą gorącego powietrza.\n• Potrafi wyjaśnić, jakie funkcje spełniają poszczególne podzespoły komputera i w jaki sposób działają."
+		
+	},
+	{
+		"checked": false,
+		"title":"Elektrotechnik ***",
+		"image":"assets/images/elektrotechnik.png",
+		"description":
+			"• Umie bezpiecznie i prawidłowo przygotować do pracy (w tym uziemić) oraz obsłużyć urządzenia, które mogą dostarczać energii elektrycznej w terenie (np. agregat prądotwórczy, baterie słoneczne). Potrafi zaprojektować i uruchomić polową instalację elektryczną a także zabezpieczyć ją przed wpływem warunków pogodowych.\n• Umie wykorzystać prawo Ohma i potrafi obliczyć moc prądu elektrycznego.\n• Wie jak jest zbudowana domowa instalacja elektryczna, rozumie jaką rolę pełnią w niej obwody oświetleniowe, zasilające, trójfazowe i tablica rozdzielcza. Rozumie zasadę działania wyłączników nadprądowych i różnicowych i potrafi sprawdzić ich działanie."
+		
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"checked": false,
+		"title":"Obserwator *",
+		"image":"assets/images/obserwator.jpg",
+		"description":
+        "• Umie posłużyć się mapą papierową (tj. zorientować ją i odczytać), żeby trafić za dnia do wyznaczonego miejsca.\n• Potrafi wyznaczyć kierunki świata według busoli, słońca (w dzień) i gwiazd (w nocy).\n• Umie ocenić przebytą odległość, mierząc ją krokami."
+    },
+	{
+		"checked": false,
+		"title":"Terenoznawca **",
+		"image":"assets/images/terenoznawca.jpg",
+		"description":
+        "• Potrafi w dzień i w nocy odnaleźć się na mapie w nieznanym terenie według ukształtowania terenu i przedmiotów terenowych (np. skrzyżowań, budowli, cieków wodnych).\n• Umie zmierzyć odległość na mapie i trafnie ocenić odległość „na oko” w terenie.\n• Potrafi nanieść na mapę trasę wędrówki, narysować szkic terenu i przebytej drogi.\n• Umie zapamiętać trasę zaznaczoną na mapie, a następnie bez pomocy mapy ją pokonać."        
+    },
+	{
+		"checked": false,
+		"title":"Topograf ***",
+		"image":"assets/images/topograf.jpg",
+		"description":
+        "• Potrafi wykonać odpowiednie pomiary i staranny szkic wskazanego terenu z zachowaniem skali.\n• Potrafi zmierzyć wysokość drzewa i szerokość rzeki bez użycia specjalistycznych narzędzi.\n• Umie posłużyć się dalmierzem lub niwelatorem.\n• Potrafi z pamięci narysować dokładny szkic przebytej drogi."
+    },
+    {
+		"checked": false,
+		"title":"Mistrz Orientacji ***",
+		"image":"assets/images/mistrzOrientacji.jpg",
+		"description":
+        "• Umie w każdych warunkach trafić do wyznaczonego miejsca – w dzień i w nocy, w górach i na nizinie, niezależnie od warunków pogodowych i pory roku, z pomocą map, lokalizatora GPS, kompasu albo bez nich."
+    }
+]

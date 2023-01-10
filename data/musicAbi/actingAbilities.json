@@ -1,0 +1,42 @@
+[
+	{
+		"checked": false,
+		"title":"Debiutant *",
+		"image":"assets/images/debiutant.jpg",
+		"description":
+			"• Umie nauczyć się roli i ją odegrać (np. podczas przedstawienia szkolnego lub ogniska).\n• Potrafi wykonać element stroju lub rekwizyt potrzebny do odgrywanej roli."
+		
+	},
+	{
+		"checked": false,
+		"title":"Komediant **",
+		"image":"assets/images/komediant.jpg",
+		"description": 
+			"• Umie przygotować się do pierwszoplanowej roli w krótkim przedstawieniu (nauczyć się dialogów, odtworzyć charakter i motywacje postaci) oraz śmiało tę rolę odegrać.\n• Potrafi posługiwać się różnymi formami wyrazu (np. wykonać scenkę pantomimiczną, zinterpretować piosenkę, wydeklamować wiersz).\n• Umie wykonać kilka ćwiczeń dykcji i emisji głosu."
+		
+	},
+    {
+		"checked": false,
+		"title":"Gawędziarz **",
+		"image":"assets/images/gawedziarz.jpg",
+		"description": 
+			"• Potrafi przed publicznością wygłosić krótką wypowiedź na zadany temat (np. relację z wędrówki), zachowując logiczny ciąg i płynność wypowiedzi.\n• W trakcie wypowiedzi umie zachować właściwą postawę ciała i utrzymać kontakt ze słuchaczami.\n• Potrafi wykonać kilka ćwiczeń dykcji i emisji głosu."
+		
+	},
+	{
+		"checked": false,
+		"title":"Aktor ***",
+		"image":"assets/images/aktor.jpg",
+		"description":
+			"• Potrafi przygotować się do występu scenicznego przed publicznością (np. teatru amatorskiego), współpracując przy tym z reżyserem i scenografem.\n• Umie wymyślić i nadać realizowanej postaci cechy szczególne, zarówno w dykcji jak i w ruchach. Potrafi pokazać różne emocje.\n• Potrafi wymienić kilku lubianych przez siebie aktorów teatralnych lub filmowych, wskazać ich najlepsze role i uzasadnić swoje zdanie.\n• Zna i umie poprowadzić kilka ćwiczeń aktorskich (np. z teatru improwizowanego)."
+		
+	},
+    {
+		"checked": false,
+		"title":"Mówca ***",
+		"image":"assets/images/mowca.jpg",
+		"description":
+			"• Potrafi przygotować i wygłosić wypowiedź (np. gawędę lub referat) dotyczącą wybranego tematu. Umie w przekonujący i porywający sposób przekazać swoją myśl w czasie nie dłuższym niż 7 minut.\n• Potrafi dobrać formę i ton (np. modulację głosu, ułożenie treści, dynamikę wypowiedzi, argumentację, postawę) adekwatne do tematu wypowiedzi i grona słuchaczy.\n• Umie używać figur retorycznych (np. pytań retorycznych, porównań, metafor).\n• Potrafi wypowiedzieć się na wybrany temat w krótkiej improwizowanej formie, nie korzystając z notatek.\n• Przygotowując wypowiedź, umie korzystać z różnych źródeł i w trakcie wypowiedzi umiejętnie się na nie powołać."
+		
+	}
+]

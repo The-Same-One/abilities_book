@@ -1,0 +1,1761 @@
+[
+  {
+    "checked": false,
+    "title":"Płomień *",
+    "image":"assets/images/plomien.jpg",
+    "description":
+    "• Umie ułożyć i rozpalić ognisko.\n• Potrafi umiejętnie podkładać drwa lub gałęzie, regulując wysokość płomienia i ograniczając iskrzenie.\n• Umie zatrzeć ślady ogniska po jego całkowitym wygaszeniu.\n• Potrafi obchodzić się z ogniem ostrożnie. Umie posługiwać się podstawowym sprzętem gaśniczym oraz wezwać straż pożarną."
+  },
+  {
+    "checked": false,
+    "title":"Strażnik Ognia **",
+    "image":"assets/images/straznikOgnia.jpg",
+    "description":
+    "• Potrafi ułożyć i rozpalić różne typy ognisk, takie jak ognisko do gotowania, do podtrzymania żaru, do oświetlenia kręgu, stos na mokry teren.• Umie podtrzymywać ogień odpowiednio do potrzeb i sytuacji. Zna zasady zachowania w kręgu ogniskowym.\n• Potrafi przygotować drewno przed ogniskiem: porąbać lub połamać odpowiedni zapas i przygotować rozpałkę odpowiednią do warunków.\n• Umie zabezpieczyć przybory do rozpalania ognia przed deszczem i wilgocią.\n• Potrafi rozpoznać i opatrzyć oparzenia różnych stopni, posiada sprawność Higienisty* ze ścieżki „Samarytanka”."
+  },
+  {
+    "checked": false,
+    "title":"Ogniowiec ***",
+    "image":"assets/images/ogniowiec.jpg",
+    "description":
+    "• Umie rozpalić ogień w niesprzyjających warunkach (np. w ulewnym deszczu, przy silnym wietrze lub w głębokim śniegu).\n• Potrafi rozpalić ogień bez zapałek, samodzielnie wykonanym narzędziem (np. łukiem ogniowym lub własnoręcznie zrobionym krzesiwem).\n• Umie wykorzystać specyficzne cechy różnych rodzajów i gatunków drewna do rozpalania i podtrzymywania ognia.\n• Potrafi przygotować pochodnię, która będzie płonęła 2 godziny.\n• Umie posłużyć się kilkoma rodzajami podręcznych środków gaśniczych, w tym gaśnicami różnych typów. Wie, jakie środki gaśnicze stosować w różnych sytuacjach."
+  },
+  {
+    "checked": false,
+    "title":"Łącznik *",
+    "image":"assets/images/lacznik.jpg",
+    "description":
+    "• Umie bezbłędnie zapamiętać i przenieść wiadomość ustną złożoną z kilkunastu słów.\n• Potrafi zaszyfrować i odczytać wiadomość trzema różnymi szyframi."
+  },
+  {
+    "checked": false,
+    "title":"Sygnalista **",
+    "image":"assets/images/sygnalista.jpg",
+    "description":
+    "• Umie nadać i odebrać wiadomość zakodowaną alfabetem Morse’a przy pomocy chorągiewek, sygnałów dźwiękowych oraz świetlnych. Umie wykonać prowizoryczny sygnalizacyjny (np. chorągiewkę lub pochodnię).\n• Potrafi zakodować i rozkodować wiadomość przy pomocy alfabetu Morse’a.\n• Umie obsługiwać radiotelefon lub telefon polowy.\n• Potrafi wymyślić własny szyfr i nauczyć go kolegów."
+  },
+  {
+    "checked": false,
+    "title":"Łącznościowiec ***",
+    "image":"assets/images/lacznosciowiec.jpg",
+    "description":
+    "• Umie zorganizować w terenie sprawną sieć łączności opartą na urządzeniach kablowych lub radiowych: przygotować i rozstawić sprzęt, ustalić zasady korzystania z sieci, przeszkolić operatorów.\n• Potrafi zorganizować kilkuosobową stację sygnalizacyjną do płynnego nadawania i odbierania wiadomości alfabetem Morse’a: wyznaczyć zadania, podzielić i zorganizować pracę.\n• Umie złamać prosty szyfr (np. szyfr Cezara)."
+  },
+  {
+    "checked": false,
+    "title":"Krótkofalarz ***",
+    "image":"assets/images/krotkofalarz.jpg",
+    "description":
+    "• Potrafi posłużyć się alfabetem fonetycznym ICAO (tzw. alfabet fonetyczny NATO) oraz jego polskim odpowiednikiem.\n• Zna kilkanaście kodów Q najczęściej używanych przez krótkofalarzy oraz kilka wyrażeń z tzw. slangu amatorskiego. Umie przekazać raport RST oraz informacje o własnym QTH Locator.\n• Potrafi obsługiwać sprzęt łączności z zachowaniem zasad BHP.\n• Umie zmierzyć prąd, napięcie, WFS oraz moc wychodzącą do anteny. Posiada sprawność Diodaka* ze ścieżki „Elektrotechnika”"
+  },
+  {
+    "checked": false,
+    "title":"Czujka *",
+    "image":"assets/images/czujka.jpg",
+    "description":
+    "• Potrafi prawidłowo pełnić służbę wartowniczą w dzień i w nocy.\n• Umie poruszać się w nocy nie wykorzystując sztucznych źródeł światła. Potrafi wyłącznie przy pomocy słuchu określić, z której strony zbliża się człowiek.\n• Umie zachować się w wypadku zauważenia w obozie obcych osób, pożaru bądź gwałtownej zmiany pogody. Umie skutecznie ogłosić alarm.\n• Potrafi w razie konieczności wezwać telefonicznie pomoc oraz zdać rzeczowy raport służbom."
+  },
+  {
+    "checked": false,
+    "title":"Wartownik **",
+    "image":"assets/images/wartownik.jpg",
+    "description":
+    "• Umie samodzielnie pełnić nocną służbę wartowniczą. Obudzony potrafi szybko i sprawnie wstać oraz przygotować się do służby.\n• Zna i potrafi stosować zasady harcerskich podchodów. Umie ocenić strzeżony teren i wybrać najlepsze stanowiska do pełnienia warty.\n• Potrafi wykonać prosty i bezpieczny wykrywacz (np. suche gałęzie lub ukryty dzwonek).\n• Umie przyjąć obozowych gości oraz wizytację zgodnie z właściwymi procedurami oraz należytymi manierami.\n• Potrafi złożyć dowódcy warty prawidłowy raport z wykonanej służby."
+  },
+  {
+    "checked": false,
+    "title":"Dowódca Warty ***",
+    "image":"assets/images/dowodcaWarty.jpg",
+    "description":
+    "• Gdy rozkłada z zastępem obozowisko, potrafi umiejscowić je tak, aby było jak najlepiej zakamuflowane.\n• Umie ustalić grafik wart. Wie, w których godzinach warta jest najtrudniejsza, i potrafi adekwatnie dobrać wartowników.\n• Umie przygotować plan obrony obozu, zawierający procedury na wypadek zauważenia w obozie intruzów, zagrożenia pogodowego, podchodów itp., a następnie przeszkolić drużynę i przećwiczyć wykonanie tego planu.\n• Potrafi przygotować i przeprowadzić próbę alarmów obozowych: ewakuacja, alarm wartowniczy, stan zagrożenia pogodowego.\n• Umie przygotować obóz na nagłą zmianę warunków atmosferycznych. Posiada sprawność Meteorologa** ze ścieżki „Obserwacja nieba”."
+  },
+  {
+    "checked": false,
+    "title":"Biwakowicz *",
+    "image":"assets/images/biwakowicz.jpg",
+    "description":
+    "• Umie dobrze spakować się na biwak.\n• Potrafi rozbić namiot turystyczny.\n• Umie zapewnić sobie komfort cieplny podczas biwakowania, m.in. poprzez odpowiednią izolację od ziemi, wybór śpiwora dopasowanego do temperatury.\n• Potrafi zbudować kuchnię polową i zagotować na niej wodę."
+  },
+  {
+    "checked": false,
+    "title":"Traper **",
+    "image":"assets/images/traper.jpg",
+    "description":
+    "• Umie przygotować namiot na różne warunki atmosferyczne takie jak mocny wiatr czy burza oraz odpowiednio wybrać i przygotować miejsce do jego rozstawienia.\n• Umie wykorzystać 3 węzły przydatne podczas biwakowania (np. do zbudowania zadaszenia z plandeki biwakowej).\n• Potrafi przygotować ciepły posiłek w warunkach polowych, umie posługiwać się turystyczną kuchenką gazową.\n• Umie przygotować listę ekwipunku niezbędnego na biwak zastępu i odpowiednio rozdzielić go między uczestników."
+  },
+  {
+    "checked": false,
+    "title":"Włóczykij ***",
+    "image":"assets/images/wloczykij.jpg",
+    "description":
+    "• Potrafi przygotować się, skompletować ekwipunek i biwakować w każdych warunkach terenowych.\n• Umie w warunkach polowych wysuszyć ubranie i obuwie.\n• Potrafi wybrać dobre miejsce do biwakowania, uwzględniając dostępność wody, odległość od skupisk ludzkich, osłonięcie od wiatru itd.\n• Posiada sprawność Strażnika** Ognia ze ścieżki „Rozpalanie ognia”."
+  },
+  {
+    "checked": false,
+    "title":"Polarnik ***",
+    "image":"assets/images/polarnik.jpg",
+    "description":
+    "• Umie skompletować i spakować ekwipunek odpowiedni do biwakowania w warunkach zimowych.\n• Potrafi przygotować legowisko, które przy ujemnej temperaturze pozwoli mu spędzić noc w komforcie cieplnym.\n• W zimie, w warunkach polowych umie przygotować sobie ciepły posiłek.\n• Potrafi udzielić pierwszej pomocy w przypadku odmrożeń i hipotermii, posiada sprawność Sanitariusza** ze ścieżki „Samarytanka”."
+  },
+  {
+    "checked": false,
+    "title":"Sobieradek Obozowy *",
+    "image":"assets/images/sobieradekObozowy.jpg",
+    "description":
+    "• Potrafi sprawnie posługiwać się narzędziami pionierskimi: młotkiem, toporkiem i piłą. Umie zabezpieczyć je po skończonej pracy.\n• Umie zaprojektować i wykonać drobny przedmiot pionierki obozowej (np. drogowskaz, wieszak lub ławkę).\n• Potrafi wyregulować odciągi i podwinąć poły w namiocie dziesięcioosobowym."
+  },
+  {
+    "checked": false,
+    "title":"Technik Obozowy **",
+    "image":"assets/images/technikObozowy.jpg",
+    "description":
+    "• Umie zaprojektować oraz pokierować wykonaniem pomysłowego i estetycznego urządzenia obozowego (np. bramy, latryny lub pionierki w namiocie).\n• Umie pokierować rozstawieniem namiotu dziesięcioosobowego."
+  },
+  {
+    "checked": false,
+    "title":"Zdobnik **",
+    "image":"assets/images/zdobnik.jpg",
+    "description":
+    "• Umie samodzielnie wykonać prosty totem lub inny element zdobnictwa obozowego z wykorzystaniem materiałów znalezionych w terenie.• Posiada sprawność Plastyka* ze ścieżki „Rzemiosło plastyczne”."
+  },
+  {
+    "checked": false,
+    "title":"Wyga Obozowy ***",
+    "image":"assets/images/wygaObozowy.jpg",
+    "description":
+    "• Potrafi zaprojektować i pokierować budową dużego urządzenia obozowego (np. pomostu, zadaszenia kuchni, stołówki, elektrowni solarnej, pieca lub wieży ciśnień).\n• Umie sprawnie pokierować rozstawieniem namiotów według określonego planu (np. w kręgu, w kwadracie lub szeregu).\n• Potrafi pracować używając do pomiarów jedynie sznurka i własnego ciała."
+  },
+  {
+    "checked": false,
+    "title":"Mistrz Zdobnictwa ***",
+    "image":"assets/images/mistrzZdobnictwa.jpg",
+    "description":
+    "• Umie wykonać totem przedstawiający w rozpoznawalny sposób charakterystyczne zwierzę lub konkretną postać, z wykorzystaniem materiałów znalezionych w terenie.\n• Umie opracować dokładny projekt plastyczny i na jego podstawie wykonać samodzielnie trwały element zdobniczy (np. proporzec, rzeźbioną buławę, herb, inny element obrzędowy).\n• Potrafi stosować różne puszczańskie techniki zdobnicze takie jak wyplatanie, rzeźbienie, opalanie."
+  },
+  {
+    "checked": false,
+    "title":"Bystre Oko *",
+    "image":"assets/images/bystreOko.jpg",
+    "description":
+    "• Umie rozpoznać na podstawie sylwetki lub odgłosów 12 gatunków zwierząt, w tym 6 ptaków, występujących na wolności w polskich lasach.\n• Potrafi wykorzystać atlas lub inne źródła do rozpoznania każdego, nawet nieznanego sobie zwierzęcia zaobserwowanego wcześniej w terenie."
+  },
+  {
+    "checked": false,
+    "title":"Tropiciel Zwierzyny **",
+    "image":"assets/images/tropicielZwierzyny.jpg",
+    "description":
+    "• Umie zaplanować i przeprowadzić udaną obserwację zwierzyny.\n• Potrafi rozpoznać tropy lub ślady bytowania 10 zwierząt występujących na wolności w polskich lasach.\n• Umie rozpoznać na podstawie charakterystycznych cech kilka ściśle chronionych gatunków zwierząt.\n• Potrafi odpowiednio zachowywać się w lesie, aby nie płoszyć zwierząt i nie tworzyć dla nich zagrożenia."
+  },
+  {
+    "checked": false,
+    "title":"Znawca Zwierzyny ***",
+    "image":"assets/images/znawcaZwierzyny.jpg",
+    "description":
+    "• Umie odnaleźć zwierzynę w terenie wyłącznie na podstawie tropów i śladów.\n• Na podstawie znalezionych w lesie tropów i śladów potrafi wysnuć wnioski i opisać zdarzenie z udziałem zwierząt.\n• Potrafi wyznaczyć i przygotować stanowisko do wielogodzinnej obserwacji zwierząt, przeprowadzić taką obserwację i ją udokumentować (np. w formie notatek, zdjęć, rysunków lub filmu).\n• Dobrze zna zwyczaje zwierząt z 6 gatunków występujących na wolności w Polsce. Zna określenia na samców i samice tych gatunków, ich zwyczaje godowe, sposób chowu potomstwa i preferencje dotyczące pokarmu. Potrafi udzielić wskazówek jak odnaleźć takie zwierzę w terenie i po czym je rozpoznać."
+  },
+  {
+    "checked": false,
+    "title":"Chatka Robinsona *",
+    "image":"assets/images/chatkaRobinsona.jpg",
+    "description":
+    "• Potrafi poradzić sobie w czasie 24 godzinnej wyprawy zastępu do lasu, bez namiotu lub innego gotowego zadaszenia.\n• Potrafi zabezpieczyć prowiant i swój ekwipunek na czas bytowania w lesie (np. przed deszczem, zwierzętami)."
+  },
+  {
+    "checked": false,
+    "title":"Leśny Człowiek **",
+    "image":"assets/images/lesnyCzlowiek.jpg",
+    "description":
+    "• Potrafi zbudować szałas pozwalający na przetrwanie deszczowej nocy i spędzić w nim noc.\n• Umie zamaskować ślady swojego pobytu.\n• Posiada sprawność Przyrodnika* ze ścieżki „Zielarstwo”."
+  },
+  {
+    "checked": false,
+    "title":"Rosomak ***",
+    "image":"assets/images/rosomak.jpg",
+    "description":
+    "• Potrafi w terenie pozyskać wodę zdatną do picia.\n• Potrafi przygotować ciepły posiłek mając do dyspozycji jedynie nóż, zapałki i butelkę wody.\n• Potrafi z surowców naturalnych samodzielnie wytworzyć użyteczne narzędzie lub element ekwipunku biwakowego (np. naczynie na wodę, kosz pleciony, linę).\n• Potrafi bytować w lesie w sposób niezauważalny dla osób postronnych.\n• Posiada sprawność Botanika** ze ścieżki „Zielarstwo” oraz Tropiciela Zwierzyny** ze ścieżki „Tropienie zwierząt”."
+  },
+  {
+    "checked": false,
+    "title":"Lekka Stopa *",
+    "image":"assets/images/lekkaStopa.jpg",
+    "description":
+    "• Umie poruszać się bezszelestnie w różnych warunkach terenowych.\n• Potrafi sprawnie pokonać różne przeszkody (np. wejść na drzewo, przeskoczyć rów o szerokości 1,5 m, przejść przez ogrodzenie).\n• Umie zapamiętać przebytą drogę i samodzielnie nią powrócić."
+  },
+  {
+    "checked": false,
+    "title":"Tropiciel **",
+    "image":"assets/images/tropiciel.jpg",
+    "description":
+    "• Potrafi zamaskować się w terenie tak, by pozostać niezauważonym.\n• Potrafi posprzątać i zamaskować miejsce odpoczynku lub biwaku, by nie zostawić po sobie śladów.\n• Bezbłędnie rozpoznaje znaki patrolowe stosowane w drużynie, umie je wykorzystać do oznakowania trasy.\n• Potrafi z pamięci wykonać szkic przebytej trasy i opisać wygląd napotkanych osób.\n• Na podstawie śladów ludzkiej bytności umie wywnioskować możliwie dużo informacji (np. kierunek marszu i szacunkową liczbę osób lub czas biwaku i działania jego uczestników)."
+  },
+  {
+    "checked": false,
+    "title":"Zwiadowca ***",
+    "image":"assets/images/zwiadowca.jpg",
+    "description":
+    "• Potrafi zdobywać informacje za pomocą różnych technik wywiadowczych, takich jak rozmowa, obserwacja, śledzenie, badanie śladów, analiza map i dokumentów.\n• Potrafi zorientować się, gdy jest śledzony. Umie zmylić pościg.\n• Umie zlokalizować obiekt w terenie, kierując się jedynie orientacyjnymi wskazówkami na jego temat (np. potrafi odnaleźć obóz harcerski dysponując jedynie nazwą miejscowości, w której się on znajduje).\n• Potrafi z pamięci lub na podstawie obserwacji z ukrycia stworzyć szkic strzeżonego terenu lub obiektu (np. obozu).\n• Potrafi zwięźle i precyzyjnie przekazać zdobyte informacje. Umie to zrobić różnymi sposobami, w tym za pomocą szkicu, zaszyfrowanego meldunku i znaków patrolowych.\n• Posiada sprawność Terenoznawcy** ze ścieżki „Terenoznawstwo”."
+  },
+  {
+    "checked": false,
+    "title":"Nieuczwytny ***",
+    "image":"assets/images/nieuchwytny.jpg",
+    "description":
+    "• Potrafi w dzień i w nocy trafić do wyznaczonego miejsca na podstawie pobieżnego szkicu lub zapamiętanej trasy, bez użycia narzędzi nawigacyjnych i mapy.\n• Potrafi skrycie podejść strzeżony teren lub obiekt, a następnie wycofać się niepostrzeżenie, nie pozostawiając po sobie śladów. Umie wykorzystać uzyskane zawczasu informacje do zaplanowania podchodów.\n• Zauważony przez wartownika potrafi postąpić honorowo.\n• Posiada sprawność Wartownika** ze ścieżki „Bezpieczeństwo obozowe” i Terenoznawcy** ze ścieżki „Terenoznawstwo”."
+  },
+  {
+    "checked": false,
+    "title":"Muzykant *",
+    "image":"assets/images/muzykant.jpg",
+    "description":
+    "• Potrafi zagrać na wybranym instrumencie dwie piosenki, melodie lub rytmy, a także zagrać i nazwać kilka akordów lub dźwięków.\n• Umie przygotować instrument do grania (np. złożyć lub nastroić przy pomocy stroika) oraz odpowiednio go zabezpieczyć (np. na czas transportu)."
+
+  },
+  {
+    "checked": false,
+    "title":"Instrumentalista **",
+    "image":"assets/images/instrumentalista.jpg",
+    "description":
+    "• Potrafi na podstawie zapisu (np. nutowego lub tabulaturowego) samodzielnie nauczyć się grać wybrany utwór.\n• Umie grać w kilkuosobowym zespole, trzymając wspólny rytm i tonację.\n• Potrafi dbać o instrument i go konserwować. Jeśli instrument wymaga częstego strojenia, umie to robić."
+
+  },
+  {
+    "checked": false,
+    "title":"Akompaniator **",
+    "image":"assets/images/akompaniator.jpg",
+    "description":
+    "• Umie akompaniować do 5 piosenek, stosując różne techniki gry i ozdobniki.\n• Potrafi zaśpiewać do własnego akompaniamentu i ocenić, czy śpiewany utwór jest w dobrej tonacji dla grupy.\n• Umie dbać o instrument i go konserwować. Jeśli instrument wymaga częstego strojenia, potrafi to robić."
+
+  },
+  {
+    "checked": false,
+    "title":"Bębniarz **",
+    "image":"assets/images/bebniarz.jpg",
+    "description":
+    "• Umie zagrać na instrumencie perkusyjnym wybrany rytm na podstawie zapisu nutowego. Potrafi powtórzyć kilkutaktowy rytm zagrany przez kogoś innego.\n• Umie stosować różne rodzaje artykulacji dźwięku na instrumentach perkusyjnych, w tym tremolo.\n• Potrafi akompaniować rytmicznie do kilku piosenek. Umie w zespole nadać odpowiednie tempo i utrzymać je (tj. nie przyspieszać ani zwalniać, jeśli nie jest to przewidziane)."
+
+  },
+  {
+    "checked": false,
+    "title":"Wirtuoz ***",
+    "image":"assets/images/wirtuoz.jpg",
+    "description":
+    "• Potrafi przygotować się i wystąpić przed publicznością.\n• Umie zagrać 3 utwory, każdy o innym charakterze, wymagające kilku różnych technik gry.\n• Potrafi zagrać melodię z nut a vista.\n• Ma swojego ulubionego kompozytora którego utwory umie zinterpretować. Potrafi opowiedzieć, dlaczego ceni konkretnych wykonawców i jakie techniki gry go inspirują."
+
+  },
+  {
+    "checked": false,
+    "title":"Improwizator ***",
+    "image":"assets/images/improwizator.jpg",
+    "description":
+    "• Umie improwizować do akompaniamentu.\n• Potrafi wymyślić i zagrać własną melodię (np. do istniejącego tekstu).\n• Umie ułożyć i zagrać solo melodię w wybranej skali (np. bluesowej).\n• Potrafi poruszać się po pentatonice i dwóch innych skalach (np. modalnych)."
+
+  },
+  {
+    "checked": false,
+    "title":"Człowiek Orkiestra ***",
+    "image":"assets/images/czlowiekOrkiestra.jpg",
+    "description":
+    "• Umie zaplanować i poprowadzić akompaniament instrumentalny podczas ogniska lub śpiewanek. Potrafi poprowadzić grupę kilku akompaniatorów.\n• Potrafi dobrać technikę gry do nastroju piosenki.\n• Umie ze słuchu ułożyć akompaniament do piosenki.\n• Zna zasady budowy akordów, umie wymyślić jak zagrać na instrumencie dowolny akord.\n• Zna podstawowe zależności harmoniczne między akordami, potrafi znaleźć tonację równoległą (molową lub durową), a także przetransponować akordy z jednej tonacji do drugiej."
+
+  },
+  {
+    "checked": false,
+    "title":"Perkusista ***",
+    "image":"assets/images/perkusista.jpg",
+    "description":
+    "• Umie na zestawie perkusyjnym improwizować do utworów w wybranym stylu muzycznym, takim jak rock, jazz, metal, R’n’B lub reggae.\n• Potrafi wyjaśnić różnice między różnymi stylami muzyki popularnej (np. rockiem, jazzem, metalem, reggae, r’n’b) oraz w jaki sposób przekłada się to na grę na zestawie (dobór instrumentów, pałeczek, rytmów, styl gry).\n• Zna poszczególne elementy perkusji, potrafi je nazwać i opisać ich funkcje. Umie rozstawić i złożyć zestaw perkusyjny (lub podłączyć zestaw padów perkusji elektronicznej) i dopasować ułożenie instrumentów do swoich potrzeb. W razie potrzeby potrafi go wygłuszyć.\n• Potrafi wskazać wybitnego perkusistę, ulubione utwory i techniki gry, które go inspirują."
+  },
+  {
+    "checked": false,
+    "title":"Szarpidrut *",
+    "image":"assets/images/szarpidrut.jpg",
+    "description":
+    "• Potrafi zagrać na gitarze 2 piosenki. Umie zagrać i nazwać 5 akordów.\n• Potrafi nastroić gitarę (np. przy pomocy stroika) oraz bezpiecznie ją przechowywać."
+
+  },
+  {
+    "checked": false,
+    "title":"Grajek **",
+    "image":"assets/images/grajek.jpg",
+    "description":
+    "• Umie akompaniować na gitarze do 5 piosenek.\n• Potrafi chwytać akordy barowe oraz płynnie przechodzić między akordami.\n• Umie zaśpiewać do własnego akompaniamentu. Potrafi ocenić czy śpiewany utwór jest w dobrej tonacji dla grupy.\n• Przy użyciu podanego dźwięku (np. z kamertonu) umie nastroić gitarę ze słuchu.\n• Potrafi założyć struny w gitarze."
+
+  },
+  {
+    "checked": false,
+    "title":"Gitarzysta ***",
+    "image":"assets/images/gitarzysta.jpg",
+    "description":
+    "• Umie poprowadzić muzycznie ognisko lub śpiewanki, nawet wrazie braku śpiewnika z akordami. Potrafi poprowadzić grupę kilku akompaniatorów.\n• Umie dobrać technikę gry do nastroju piosenki. Potrafi zastosować różne techniki lewej i prawej ręki (np. ozdobniki, legato, różne rodzaje bicia, tremolo).\n• Zna zasady budowy akordów. Umie wymyślić, jak zagrać na gitarze dowolny akord i potrafi przetransponować akordy z jednej tonacji do drugiej.\n• Potrafi ze słuchu dobrać akordy do piosenki."
+
+  },
+  {
+    "checked": false,
+    "title":"Hołubiec *",
+    "image":"assets/images/holubiec.jpg",
+    "description":
+    "• Potrafi zatańczyć krok podstawowy i 2 figury w wybranym stylu tańca.\n• Umie określić rytmikę swojego tańca i rozliczyć rytmicznie znane figury."
+
+  },
+  {
+    "checked": false,
+    "title":"Tancerz **",
+    "image":"assets/images/tancerz.jpg",
+    "description":
+    "• Potrafi zatańczyć krok podstawowy i 6 figur w wybranym stylu tańca towarzyskiego.\n• Umie zatańczyć do piosenki i utrzymać rytm przez cały czas jej trwania.\n• Potrafi poprosić dziewczynę do tańca."
+
+  },
+  {
+    "checked": false,
+    "title":"Król Parkietu ***",
+    "image":"assets/images/krolParkietu.jpg",
+    "description":
+    "• Zna i umie zatańczyć krok podstawowy i 5 figur w 3 różnych stylach tanecznych, towarzyskich lub solowych.\n• Potrafi nie gubiąc rytmu improwizować i łączyć figury taneczne w spójną całość.\n• Umie poprowadzić partnerkę w tańcu. Potrafi nauczyć drugą osobę podstawowych kroków tanecznych.\n• Potrafi dobrać muzykę odpowiednią do kilku wybranych styli tanecznych."
+
+  },
+  {
+    "checked": false,
+    "title":"Klaps *",
+    "image":"assets/images/klaps.jpg",
+    "description":
+    "• Potrafi nakręcić scenę opowiadającą krótką historię lub obrazującą działania zespołu (np. wideorelacja z gry terenowej albo scena wyjaśniająca genezę nazwy zastępu)."
+
+  },
+  {
+    "checked": false,
+    "title":"Filmowiec **",
+    "image":"assets/images/filmowiec.jpg",
+    "description":
+    "• Potrafi zrealizować krótką, składającą się z kliku scen etiudę lub klip według własnej wizji.\n• Potrafi zebrać zespół, podzielić zadania (operator, aktorzy itd.) i czuwać nad ich realizacją.\n• Nakręcony materiał filmowy umie zmontować i zaprezentować publiczności (np. pokazać na zbiórce drużyny lub udostępnić w Internecie)."
+
+  },
+  {
+    "checked": false,
+    "title":"Reżyser ***",
+    "image":"assets/images/rezyser.jpg",
+    "description":
+    "• Potrafi wyreżyserować krótki (5–15 min.) film fabularny lub dokumentalny. W czasie jego powstawania jest w stanie kierować całą ekipą filmową, dawać wskazówki, instruować aktorów, dbać o spójność stylu i obrazu.\n• Zna podstawy języka filmowego (np. rodzaje planów, techniki montażu, techniki aktorskie) i umie z nich świadomie korzystać przy realizacji filmu wywołując u widza zamierzone emocje.\n• Potrafi przekazać swoją wizję na film reszcie ekipy filmowej np. za pomocą scenariusza, opisu scen czy storyboardu."
+  },
+  {
+    "checked": false,
+    "title":"Operator filmowy ***",
+    "image":"assets/images/operator.jpg",
+    "description":
+    "• Potrafi pełnić funkcję operatora (reżysera obrazu) przy realizacji krótkiego filmu fabularnego lub dokumentalnego\n• Umie kierować pracą kamery: potrafi ją obsługiwać, zna jej ograniczenia i walory techniczne.\n• Umiejętnie komponuje kadry, dobiera odpowiednie plany i światła. Potrafi twórczo współpracować z reżyserem filmu.\n• Posiada sprawność Migawki* ze ścieżki „Fotografia”."
+
+  },
+  {
+    "checked": false,
+    "title":"Animator ***",
+    "image":"assets/images/animator.jpg",
+    "description":
+    "• Umie zrealizować krótki (1–2 min.) film animowany, wykorzystując dowolną technikę, taką jak animacja rysunkowa, animacja poklatkowa, animacja cyfrowa 2D lub 3D.\n• Zna różne zasady teoretyczne i sztuczki animacyjne oraz potrafi z nich korzystać w swoich dziełach (np. 12 podstawowych technik animacyjnych z książki „Animacja Disneya: Iluzja Życia”).\n• Posiada sprawność Plastyka* ze ścieżki „Rzemiosło plastyczne”."
+
+  },
+  {
+    "checked": false,
+    "title":"Koder *",
+    "image":"assets/images/koder.jpg",
+    "description":
+    "• Potrafi napisać i uruchomić program, który pobiera od użytkownika tekst i wyświetla go na ekranie.\n• Umie podłączyć do komputera urządzenia peryferyjne, takie jak monitor, mikrofon, głośniki lub drukarka."
+
+  },
+  {
+    "checked": false,
+    "title":"Programista **",
+    "image":"assets/images/programista.jpg",
+    "description":
+    "• Potrafi napisać program (np. wykonujący działania matematyczne, szyfrujący wiadomość lub przeliczający jednostki miary) i umie wytłumaczyć jego działanie.\n• Potrafi zabezpieczyć plik hasłem i przesłać go mailem."
+
+  },
+  {
+    "checked": false,
+    "title":"Webjunior **",
+    "image":"assets/images/webjunior.jpg",
+    "description":
+    "• Umie stworzyć pojedynczą stronę internetową, korzystając z języków HTML i CSS.\n• Potrafi umieścić swoją stronę w Internecie. Umie utworzyć jej kopię zapasową oraz wgrać ją z powrotem na serwer.\n• Potrafi stworzyć prosty serwis internetowy korzystający z systemu zarządzania treścią (np. z Wordpressa) i skonfigurować jego podstawowe funkcje, takie jak system newsów, logowanie użytkowników, import plików i zdjęć."
+
+  },
+  {
+    "checked": false,
+    "title":"Deweloper ***",
+    "image":"assets/images/deweloper.jpg",
+    "description":
+    "• Umie napisać program złożony z kilku podprogramów lub obiektów, wykorzystujący biblioteki programistyczne i złożone typy danych.\n• Potrafi zabezpieczyć program przed wprowadzeniem niepoprawnych danych. Umie skonstruować jego intuicyjną instrukcję obsługi (np. w formie wyświetlanych komunikatów lub osobnej dokumentacji).\n• Potrafi skompilować program lub przygotować go do łatwego uruchomienia na innym komputerze.\n• Umie umieszczać w kodzie komentarze i wybierać treściwe nazwy dla zmiennych i funkcji tak, by kod programu był czytelny i zrozumiały.\n• Potrafi wskazać najważniejsze cechy języka programowania, którego używa, i porównać go z innym wybranym językiem."
+
+  },
+  {
+    "checked": false,
+    "title":"Webmaster ***",
+    "image":"assets/images/webmaster.jpg",
+    "description":
+    "• Potrafi uruchomić witrynę WWW opartą o popularny system zarządzania treścią (np. Wordpress, Joomla, Media Wiki). Umie znaleźć i zainstalować moduły i dodatki, które zwiększą możliwości i atrakcyjność witryny.\n• Potrafi skonfigurować połączenie HTTPS, wie czym różni się od HTTP.\n• Umie uruchomić serwer WWW (np. Apache) w swojej sieci lokalnej oraz wywołać go w tej sieci z innego komputera.\n• Potrafi połączyć się zdalnie z serwerem (np. przez FTP) i umieścić pliki na serwerze.\n• Umie wdrożyć dowolny mechanizm zwiększający bezpieczeństwo strony WWW (np. filtr antyspamowy, wymuszenie bezpiecznych haseł lub weryfikację importowanych plików)."
+
+  },
+  {
+    "checked": false,
+    "title":"Administrator ***",
+    "image":"assets/images/administrator.jpg",
+    "description":
+    "• Potrafi zaprojektować oraz skonfigurować bezpieczną sieć lokalną, przewodową lub bezprzewodową, z dostępem do Internetu.\n• Umie zainstalować i skonfigurować ogólnodostępny serwer (np. WWW lub wymiany plików), dobierając odpowiedni system operacyjny.\n• Posługuje się wybranym językiem skryptowym, który pomaga zautomatyzować czynności administracyjne.\n• Potrafi podzielić dysk twardy na partycje, zainstalować system operacyjny oraz przygotować go do pracy, w tym zainstalować oprogramowanie i skonfigurować połączenie sieciowe.\n• Umie uruchomić usługę pulpitu zdalnego, a następnie połączyć się z innym komputerem, wykorzystując tę metodę."
+
+  },
+{
+  "checked": false,
+  "title":"Plastyk *",
+    "image":"assets/images/plastyk.jpg",
+    "description":
+    "• Umie przygotować odpowiednie narzędzia i materiały do wybranych działań plastycznych (np. modelowania lub rysowania).\n• Potrafi wykonać model albo rysunek na podstawie opisu lub szczegółowo odwzorować przedmiot z natury (np. liść lub totem).\n• Umie przygotować swoją pracę do publicznej prezentacji (np. oprawić ilustrację samodzielnie wykonaną ramką lub wypalić gliniany model)."
+
+  },
+  {
+    "checked": false,
+    "title":"Grafik **",
+    "image":"assets/images/grafik.jpg",
+    "description":
+    "• Potrafi wykonać szkic z natury z zachowaniem proporcji i odwzorowaniem charakterystycznych cech szkicowanego obiektu lub postaci.\n• Umie zaprojektować i wykonać plakat, ogłoszenie lub ozdobną kartę kroniki, zwracając uwagę na czytelność informacji, kompozycję i precyzję wykonania.\n• Potrafi wykorzystać 3 różne techniki plastyczne do wykonania ilustracji lub innej formy graficznej."
+
+  },
+  {
+    "checked": false,
+    "title":"Rękodzielnik **",
+    "image":"assets/images/rekodzielnik.jpg",
+    "description":
+    "• Umie samodzielnie wykonać za pomocą scyzoryka lub innego narzędzia drobny element ozdobny lub użytkowy z drewna lub kory (np. pierścień, list na korze czy pieczęć zastępu).\n• Potrafi wykonać według własnego projektu ozdobny element aranżacji pokoju, namiotu lub harcówki (np. abażur, skrzynkę lub wieszak na proporce).\n• Umie sprawnie i estetycznie naprawić lub przerobić przedmiot (np. wymienić guziki w koszuli, naprawić uszkodzoną okładkę książki lub przemalować niewielki mebel)."
+
+  },
+  {
+    "checked": false,
+    "title":"Ilustrator ***",
+    "image":"assets/images/ilustrator.jpg",
+    "description":
+    "• Umie przedstawić historię lub zobrazować tekst ilustracją bądź sekwencją ilustracji, akcentując charakterystyczne i ważne dla narracji elementy.\n• Potrafi posługiwać się 5 różnymi technikami plastycznymi, takimi jak rysunek węglem, pastele, akwarele, malarstwo olejne lub temperowe, linoryt, grafika rastrowa lub wektorowa. Umie dobrać odpowiednią technikę do realizowanego dzieła.\n• Zna podstawowe zasady kompozycji, wie co to jest złota proporcja, wie jak wygląda koło barw i co to są barwy dopełniające, jak powstają kolory pochodne itp. Potrafi wykorzystać znajomość tych zasad w swoich pracach.\n• Umie wykonać reprodukcję własnych ilustracji z wykorzystaniem techniki cyfrowej.\n• Zna twórczość wybranych ilustratorów, malarzy i grafików. Potrafi wskazać, co mu się w nich podoba i czym charakteryzuje się ich twórczość."
+
+  },
+  {
+    "checked": false,
+    "title":"Scenograf ***",
+    "image":"assets/images/scenograf.jpg",
+    "description":
+    "• Potrafi stworzyć kompletną wizję i zaprojektować scenografię na potrzeby przedstawienia, w którym występuje wiele postaci a akcja toczy się w różnych miejscach.\n• Umie przygotować oświetlenie, rekwizyty i dekoracje w taki sposób, aby jak najlepiej podkreślić treść przedstawienia.\n• Potrafi samodzielnie wykonać element scenografiii, taki jak strój, dekoracja lub rekwizyt.\n• W cenionych przez siebie sztukach teatralnych lub filmach umie wskazać i scharakteryzować zabiegi scenograficzne, które wpływają na atrakcyjności i siłę przekazu."
+
+  },
+  {
+    "checked": false,
+    "title":"Rękodzielnik ***",
+    "image":"assets/images/rekodzielnik.jpg",
+    "description":
+    "• Umie samodzielnie wykonać za pomocą scyzoryka lub innego narzędzia drobny element ozdobny lub użytkowy z drewna lub kory (np. pierścień, list na korze czy pieczęć zastępu).\n• Potrafi wykonać według własnego projektu ozdobny element aranżacji pokoju, namiotu lub harcówki (np. abażur, skrzynkę lub wieszak na proporce).\n• Umie sprawnie i estetycznie naprawić lub przerobić przedmiot (np. wymienić guziki w koszuli, naprawić uszkodzoną okładkę książki lub przemalować niewielki mebel)."
+
+  },
+  {
+    "checked": false,
+    "title":"Rzeźbiarz ***",
+    "image":"assets/images/rzezbiarz.jpg",
+    "description":
+    "• Potrafi samodzielnie wykonać model obiektu z natury z odwzorowaniem jego charakterystycznych cech i proporcji, wykorzystując do tego materiały takie jak glina, gips, masa plastyczna lub drewno.\n• Umie posługiwać się narzędziami rzeźbiarskimi do drewna, takimi jak dłuto, rylec, tarnik. Zna przynajmniej 3 rodzaje drewna przydatne w rzeźbie i potrafi je scharakteryzować.\n• Umie zaprojektować i wykonać w technice rzeźby lub linorytu ilustrację (np. na podstawie cytatu z książki lub opisu wydarzenia).\n• Zna twórczość wybranych rzeźbiarzy, potrafi opowiedzieć o głównych tematach rzeźbiarskich od antyku po czasy współczesne, umie rozpoznać charakterystyczne cechy rzeźby z różnych epok."
+
+  },
+  {
+    "checked": false,
+    "title":"Modelarz ***",
+    "image":"assets/images/modelarz.jpg",
+    "description":
+    "• Potrafi złożyć i – jeśli to konieczne pomalować – model pojazdu, budynku lub innego obiektu w przynajmniej 2 technikach.\n• Umie wykonać dioramę z zachowaniem skali i precyzji adekwatnej do przedstawianego wydarzenia oraz wybranej techniki lub wykonać ruchomy model napędzany mechanicznie lub elektrycznie.\n• Zdobył sprawność Technika** ze ścieżki „Rzemiosło techniczne”."
+
+  },
+  {
+    "checked": false,
+    "title":"Krawiec ***",
+    "image":"assets/images/krawiec.jpg",
+    "description":
+    "• Umie zaprojektować i wykonać element garderoby. Potrafi przy tym skorzystać z wykrojników i odpowiednio dobrać technikę łączenia.\n• Potrafi sprawnie posłużyć się igłą i nicią. Umie obsługiwać maszynę do szycia (np. wykonać szwy różnymi ściegami).\n• Potrafi skorzystać z umiejętności krawieckich w warunkach polowych (np. naprawić plecak, wszyć troczki w namiot albo zszyć żagiel).\n• Potrafi przy wykorzystaniu umiejętności krawieckich samodzielnie wykonać użytkowy element aranżacji wnętrza (np. zasłonę lub poduszkę)."
+
+  },
+  {
+    "checked": false,
+    "title":"Ogrodnik *",
+    "image":"assets/images/ogrodnik.jpg",
+    "description":
+    "• Umie zadbać o roślinę przez kilka tygodni, dbając o jej właściwe usytuowanie oraz odpowiednią porę podlewania i ilość wody.\n• Potrafi samodzielnie przesadzić sadzonkę."
+
+  },
+  {
+    "checked": false,
+    "title":"Siewca **",
+    "image":"assets/images/siewca.jpg",
+    "description":
+    "• Umie wyhodować 5 gatunków roślin z rozsady lub z nasion.\n• Potrafi samodzielnie wyhodować dwa szybko rosnące warzywa (np. rzodkiew lub szczaw) i zebrać plon pozwalający na przygotowanie posiłku.\n• Umie przyciąć wybrany krzew w odpowiedni sposób i w odpowiednim okresie.\n• Potrafi posługiwać się narzędziami ogrodniczymi, takimi jak sekator, łopata, nożyce."
+
+  },
+  {
+    "checked": false,
+    "title":"Plantator ***",
+    "image":"assets/images/plantator.jpg",
+    "description":
+    "• Potrafi wyhodować 5 różnych warzyw i zebrać z każdego z nich plon, pozwalający na przygotowanie posiłku.\n• Wie co decyduje o efektywności hodowli, umie samodzielnie zapylić kwiaty i odpowiednio zasilić rośliny nawozem lub kompostem.\n• Umie samodzielnie rozmnożyć 5 gatunków roślin (w tym 3 przez sadzonki).\n• Potrafi posługiwać się kalendarzem ogrodniczym, wie kiedy dane gatunki warzyw i owoców sadzi się w gruncie i kiedy zbiera plon.\n• Umie wykorzystać symbiozę międzygatunkową(np. pomiędzy pomidorami i fasolą).\n• Potrafi wykonać system nawadniania działający w warunkach domowych, pozwalający pozostawić roślinę doniczkową bez opieki na kilka dni."
+  },
+  {
+    "checked": false,
+    "title":"Migawka *",
+    "image":"assets/images/migawka.jpg",
+    "description":
+    "• Umie przygotować relację z wydarzenia w formie zestawu najwyżej 10 zdjęć, w taki sposób, by ze zdjęć można było się dowiedzieć, kto uczestniczył w wydarzeniu i na czym ono polegało.\n• Potrafi zrobić ciekawe zdjęcie na zadany temat lub inspirując się abstrakcyjnym hasłem (np. „wzrok”, „fale”, „przyjaźń” itp.)"
+  },
+  {
+    "checked": false,
+    "title":"Fotograf **",
+    "image":"assets/images/fotograf.jpg",
+    "description":
+    "• Umie zrobić serię zdjęć portretowych (np. harcerzom swojej drużyny). Potrafi zadbać przy tym o odpowiednie dobranie parametrów (np. tła, światła i głębi ostrości) aparatu, aby zdjęcia były spójne wizualnie.\n• Umie dobrać odpowiedni tryb aparatu do fotografowanej sceny: np. pejzaż, ruch, sport, portret, portret zbiorowy, scenę na ulicy.\n• Potrafi dokonać podstawowej obróbki zdjęć w wybranym programie graficznym, ,posługując się takimi parametrami jak kontrast, jasność, ostrość, kadrowanie, nasycenie kolorów itp.\n• Umie przygotować swoje zdjęcia do publikacji w Internecie oraz do druku. Potrafi sporządzić wydruk swoich fotografii."
+  },
+  {
+    "checked": false,
+    "title":"Fotografik ***",
+    "image":"assets/images/fotografik.jpg",
+    "description":
+    "• Umie posługiwać się trybem manualnym swojego aparatu: odpowiednio do fotografowanej sytuacji ustawić przysłonę, czas naświetlania, czułość i balans bieli. Potrafi kreatywnie wykorzystać te parametry, aby osiągnąć zamierzony efekt wizualny.\n• Umie opowiedzieć historię w formie fotoreportażu składającego się z 6–8 zdjęć. Potrafi przygotować wydruk swojego fotoreportażu w formacie wystawowym.\n• Umie dobrać sprzęt fotograficzny (np. obiektyw, filtry i lampę błyskową) do fotografowanej sytuacji.\n• Potrafi wywołać zdjęcia dowolną techniką analogową.\n• Zna twórczość wybranych fotografów, umie wskazać co podoba mu się w ich pracach i czym charakteryzuje się ich twórczość."
+  },
+  {
+    "checked": false,
+    "title":"Opiekun Zwierząt *",
+    "image":"assets/images/opiekunZwierzat.jpg",
+    "description":
+    "• Umie samodzielnie wykonać czynności związane z codzienną opieką nad zwierzęciem, takie jak karmienie, czesanie, wyprowadzanie na spacer, czyszczenie kuwety."
+  },
+  {
+    "checked": false,
+    "title":"Hodowca **",
+    "image":"assets/images/hodowca.jpg",
+    "description":
+    "• Potrafi samodzielnie zaopiekować się zwierzęciem przez kilka tygodni: właściwie odmierzyć, przygotować i podać karmę, dbać o czystość i higienę itd.\n• Umie wykonać skomplikowaną czynność związaną z regularną opieką nad zwierzęciem (np. przyciąć szpony, wykąpać lub wyczyścić akwarium).\n• Potrafi opisać, jak tryb życia zwierzęcia (np. pory czuwania i odpoczynku, sposób zdobywania pokarmu i środowisko bytowania) wpływa na opiekę nad nim."
+  },
+  {
+    "checked": false,
+    "title":"Mistrz Chowu ***",
+    "image":"assets/images/mistrzChowu.jpg",
+    "description":
+    "• Umie wykonywać wszystkie czynności wiążące się ze stałą opieką nad zwierzęciem, zgodnie z wymogami gatunku i rasy. Potrafi posługiwać się kalendarzem szczepień, zna przepisy prawa związane z danym gatunkiem. Wie, jaki stan wskazuje na problemy zdrowotne.\n• Potrafi przewieźć duże zwierzę (np. psa, kota lub dużego szczura) komunikacją zbiorową zgodnie z przepisami prawa.\n• Umie rozróżnić kilka podgatunków lub ras zwierzęcia którym się stale opiekuje lub gatunku którym się interesuje.\n• Potrafi podać kilka przykładów korzyści z hodowli różnych zwierząt i umie powiedzieć, jakie warunki należy im zapewnić.\n• Umie wykonać czynności związane z hodowlą dwóch gatunków zwierząt gospodarskich (np. wydoić krowę, wyczesać konia, ostrzyc owcę lub nakarmić świnię)."
+  },
+  {
+    "checked": false,
+    "title":"Akwarysta/\nTerrarysta ***",
+    "image":"assets/images/akwarysta.jpg",
+    "description":
+    "• Potrafi dobrać gatunki ryb i roślin do akwarium, aby utrzymywać jego bioróżnorodność przez dłuższy czas albo potrafi właściwie przygotować terrarium dla hodowanych gadów, płazów, owadów lub pajęczaków, aby odtworzyć biotop charakterystyczny dla gatunku.\n• Potrafi sprawdzić i kontrolować parametry w akwarium lub terrarium: umie wyjaśnić jakie parametry powinien spełniać mikroklimat dla hodowanego gatunku.\n• Umie wyczyścić akwarium lub terrarium.\n• Zna przepisy dotyczące hodowli gadów, płazów i pajęczaków w Polsce, wie jak sprawdzić jakie warunki powinny być zapewnione dla zwierząt bytujących w terrariach, umie opisać te, których spełnienie jest niezbędne dla gatunków które hoduje."
+  },
+  {
+    "checked": false,
+    "title":"Diodak *",
+    "image":"assets/images/diodak.png",
+    "description":
+    "• Potrafi wykonać prosty obwód elektryczny. Przykłady: zabawkowy silnik elektryczny (z magnesu, baterii i drutu), elektromagnes (z baterii, gwoździa i grubego izolowanego drutu), prymitywny próbnik przewodności elektrycznej (z baterii, żarówki i kabelków).\n• Potrafi bezpiecznie wymienić żarówkę."
+
+  },
+  {
+    "checked": false,
+    "title":"Elektronik **",
+    "image":"assets/images/elektronik.png",
+    "description":
+    "• Umie zbudować na płytce prototypowej prosty układ elektroniczny i wyjaśnić jego działanie.\n• Potrafi rozpoznać podstawowe elementy elektroniczne, takie jak diody, oporniki i kondensatory. Umie określić polaryzację diod i kondensatorów elektrolitycznych.\n• Potrafi w bezpieczny sposób posługiwać się lutownicą.\n• Umie dokonać naprawy bądź modyfikacji urządzenia zasilanego bateryjnie (np. zabawki, alarmu lub budzika)."
+
+  },
+  {
+    "checked": false,
+    "title":"Elektryk **",
+    "image":"assets/images/elektryk.png",
+    "description":
+    "• Umie bezpiecznie wykonać pracę przy domowej lub polowej instalacji elektrycznej (np. zamontować wtyczkę, podłączyć akumulator do ładowania, podłączyć baterie słoneczne).\n• Potrafi narysować schemat zadanego obwodu elektrycznego (np. obozowej instalacji elektrycznej). Umie na podstawie schematu zestawić działający obwód.\n• Potrafi za pomocą multimetru dokonać pomiaru podstawowych wielkości elektrycznych: napięcia, natężenia prądu, oporu elektrycznego.\n• Zna i stosuje zasady bezpiecznej pracy z urządzeniami elektrycznymi i wie jak się zachować w przypadku porażenia prądem."
+
+  },
+  {
+    "checked": false,
+    "title":"Układowiec ***",
+    "image":"assets/images/układowiec.png",
+    "description":
+    "• Potrafi zaprojektować płytkę PCB i wytrawić ją w domu bądź zlecić jej wyprodukowanie.\n• Umie prawidłowo zlutować i uruchomić zaprojektowany układ.\n• Potrafi dostosować do własnych potrzeb schemat układu elektronicznego (np. znaleziony w Internecie) i uruchomić go na płytce prototypowej.\n• Umie programować mikrokontrolery. Potrafi w oparciu o mikrokontroler zaprojektować i zrealizować przydatny układ (np. czujnik lub sterownik)."
+
+  },
+  {
+    "checked": false,
+    "title":"Komputerowiec ***",
+    "image":"assets/images/komputerowiec.png",
+    "description":
+    "• Umie złożyć komputer z podzespołów i zainstalować w nim system operacyjny.\n• Potrafi zlokalizować i wymienić uszkodzony element komputera, laptopa lub tabletu (np. baterię, płytę główną, procesor lub dysk twardy) oraz dokonać jego rozbudowy (np. zwiększenia pamięci RAM lub zainstalowania karty graficznej).\n• Umie lutować elementy SMD za pomocą gorącego powietrza.\n• Potrafi wyjaśnić, jakie funkcje spełniają poszczególne podzespoły komputera i w jaki sposób działają."
+
+  },
+  {
+    "checked": false,
+    "title":"Elektrotechnik ***",
+    "image":"assets/images/elektrotechnik.png",
+    "description":
+    "• Umie bezpiecznie i prawidłowo przygotować do pracy (w tym uziemić) oraz obsłużyć urządzenia, które mogą dostarczać energii elektrycznej w terenie (np. agregat prądotwórczy, baterie słoneczne). Potrafi zaprojektować i uruchomić polową instalację elektryczną a także zabezpieczyć ją przed wpływem warunków pogodowych.\n• Umie wykorzystać prawo Ohma i potrafi obliczyć moc prądu elektrycznego.\n• Wie jak jest zbudowana domowa instalacja elektryczna, rozumie jaką rolę pełnią w niej obwody oświetleniowe, zasilające, trójfazowe i tablica rozdzielcza. Rozumie zasadę działania wyłączników nadprądowych i różnicowych i potrafi sprawdzić ich działanie."
+
+  },
+  {
+    "checked": false,
+    "title":"Kuchcik *",
+    "image":"assets/images/kuchcik.jpg",
+    "description":
+    "• Umie przygotować potrawę na ciepło, taką jak jajecznica na boczku, naleśniki lub jajko sadzone z ziemniakami.\n• Potrafi nakryć do stołu i podać potrawę w estetycznej formie (w warunkach domowych lub polowych)."
+  },
+  {
+    "checked": false,
+    "title":"Kucharz **",
+    "image":"assets/images/kucharz.jpg",
+    "description":
+    "• Umie przyrządzić smaczny, trzydaniowy posiłek dla 4–6 osób (np. rodziny lub zastępu).\n• Rozpoznaje i potrafi korzystać w swoich potrawach z podstawowych przypraw."
+  },
+  {
+    "checked": false,
+    "title":"Cukiernik **",
+    "image":"assets/images/cukiernik.jpg",
+    "description":
+    "• Potrafi przygotować i atrakcyjnie podać deser (np. ciasto, ciastka lub tort).\n• Umie wykonać element dekoracyjny deseru (np. wzór z kandyzowanych owoców lub bitej śmietany)."
+  },
+  {
+    "checked": false,
+    "title":"Wek **",
+    "image":"assets/images/wek.jpg",
+    "description":
+    "• Umie przygotować proste przetwory (np. dżem lub ogórki kiszone).\n• W warunkach polowych potrafi zabezpieczyć żywność (np. nabiał, mięso, owoce) przed zepsuciem przez 3 dni.\n• Potrafi zadbać o odpowiednie warunki przechowywania i transportu produktów lub przetworzonej żywności."
+  },
+  {
+    "checked": false,
+    "title":"Kuchmistrz ***",
+    "image":"assets/images/kuchmistrz.jpg",
+    "description":
+    "• Umie ugotować 10 różnych dań.\n• Potrafi zaplanować i przygotować kierując kilkuosobowym zespołem obiad dla 15–20 osób (np. dla drużyny), składający się z dwóch dań. Umie obliczyć ilość potrzebnych produktów tak, aby wszyscy się najedli.\n• Rozpoznaje i potrafi korzystać z kilkunastu przypraw, wie które są podstawowe dla poszczególnych kuchni regionalnych.\n• Potrafi przygotować listę zakupów obejmującą wszystkie posiłki w ciągu dnia.\n• W przygotowywanych posiłkach umie zadbać o odpowiednie proporcje produktów i składników odżywczych."
+  },
+  {
+    "checked": false,
+    "title":"Cukiermistrz ***",
+    "image":"assets/images/cukiermistrz.jpg",
+    "description":
+    "• Potrafi przygotować 10 różnych deserów.\n• Umie dobrać i przygotować deser na wyjątkową okazję dla grupy kilkunastu osób (np. podczas święta obozu, rodzinnego spotkania albo urodzin znajomego).\n• Potrafi zachować balans smaków (np. słodyczy i kwaśności).\n• Umie samodzielnie przygotować wyjątkową dekorację deseru, taką jak fantazyjne wzory z kremu, trójwymiarowe kształty z czekolady, żywe jadalne kwiaty."
+  },
+  {
+    "checked": false,
+    "title":"Przetwornik ***",
+    "image":"assets/images/przetwornik.jpg",
+    "description":
+    "• Umie samodzielnie przygotować smaczne i zdrowe wyżywienie, które nie zepsuje się czasie kilkudniowej wędrówki (np. suszone mięso i owoce, własnoręcznie przygotowane batoniki energetyczne lub weki).\n• Potrafi przygotować 5 różnych przetworów, w tym słodkie i słone.\n• Wie, na czym polega pasteryzacja, i umie ją przeprowadzić.\n• Potrafi przygotować jadłospis na kilkudniowy wyjazd z uwzględnieniem zwiększonego zapotrzebowania kalorycznego grupy."
+  },
+  {
+    "checked": false,
+    "title":"Majster *",
+    "image":"assets/images/majster.png",
+    "description":
+    "• Potrafi wykonać element wyposażenia pokoju, mieszkania lub namiotu (np. świecznik, przybornik, pudełko).\n• Umie zorganizować miejsce do wygodne majsterkowania, dbając o porządek i bezpieczeństwo."
+
+  },
+  {
+    "checked": false,
+    "title":"Technik **",
+    "image":"assets/images/technik.png",
+    "description":
+    "• Umie wykonać praktyczny mebel (np. stołek lub stojak na proporce) lub naprawić uszkodzony przedmiot.\n• Potrafi posługiwać się narzędziami ręcznymi oraz elektronarzędziami z zachowaniem zasad bezpieczeństwa pracy.\n• Umie zastosować różne rodzaje połączeń mechanicznych (np. zbijanie, skręcanie i sklejanie).\n• Potrafi naostrzyć nóż i naoliwić zamek lub kłódkę."
+
+  },
+  {
+    "checked": false,
+    "title":"Kreślarz **",
+    "image":"assets/images/kreslarz.png",
+    "description":
+    "• Potrafi sporządzić w określonej skali i opisać plan (np. domu, pomieszczenia lub ogrodu).\n• Umie wykorzystać zasady perspektywy dla odwzorowania rzeczywistości.\n• Potrafi wykonać model mebla, konstrukcji lub pomieszczenia w odpowiedniej skali i z zachowaniem precyzji adekwatnej do przedmiotu zadania."
+
+  },
+  {
+    "checked": false,
+    "title":"Stolarz ***",
+    "image":"assets/images/stolarz.png",
+    "description":
+    "• Potrafi samodzielnie wykonać solidny mebel odpowiadający proporcjom człowieka z wykorzystaniem różnych stolarskich technik łączenia elementów.\n• Umie posługiwać się narzędziami stolarskimi: heblem, ściskiem, imadłem, dłutem i pilnikiem.\n• Potrafi w odpowiedni sposób zabezpieczyć drewno, np. przed działaniami warunków atmosferycznych. Umie ochronić drogi oddechowe przed oparami środków impregnujących.\n• Zna 5 różnych rodzajów drewna oraz kilka różnych materiałów drewnopochodnych, potrafi je rozpoznać i wskazać, jakie mają zastosowanie."
+
+  },
+  {
+    "checked": false,
+    "title":"Mechanik ***",
+    "image":"assets/images/mechanik.png",
+    "description":
+    "• Potrafi złożyć urządzenie spalinowe (np. pompę lub piłę spalinową), wymienić uszkodzoną część, wykonać podstawowy serwis (np. naostrzyć łańcuch, przygotować odpowiednią mieszankę).\n• Potrafi samodzielnie dokonać podstawowych czynności obsługowych pojazdu: sprawdzić i uzupełnić płyny eksploatacyjne, wymienić koło, zmienić przepaloną żarówkę, wymienić dowolny filtr.\n• Zna zasady działania i umie wytłumaczyć różnice w pracy skrzyni biegów manualnej i automatycznej, silnika o zapłonie samoczynnym i zapłonie iskrowym oraz silnika dwusuwowego i czterosuwowego."
+
+  },
+  {
+    "checked": false,
+    "title":"Robotyk ***",
+    "image":"assets/images/robotyk.png",
+    "description":
+    "• Potrafi samodzielnie zaprojektować i wykonać układ automatyczny, taki jak fotokomórka lub migająca lampka, posługując się stworzonym przez siebie schematem, multimetrem, lutownicą i innymi potrzebnymi narzędziami.\n• Zna podstawy jednego z języków programowania i potrafi je zastosować do stworzenia użytecznego programu na platformie Arduino, Raspberry Pi lub innej tego typu.\n• Umie zbudować i zaprogramować robota typu sumo, line follower lub podobnego.\n• Posiada sprawność Elektronika** ze ścieżki „Elektrotechnika” lub Programisty** ze ścieżki „Programowanie”."
+
+  },
+  {
+    "checked": false,
+    "title":"Inżynier ***",
+    "image":"assets/images/inzynier.png",
+    "description":
+    "• Umie samodzielnie wykonać maszynę prostą, taką jak kołowrót, przekładnia lub wielokrążek, składającą się z różnych materiałów, używając własnoręcznie wykonanego szkicu technicznego, suwmiarki oraz narzędzi ręcznych.\n• Potrafi wyjaśnić zasadę działania różnych maszyn prostych.\n• Umie samodzielnie złożyć urządzenie mechaniczne przydatne w codziennym użytku (np. pompę „abisynkę” lub rower).\n• Sprawnie korzysta ze wzorów stosowanych w geometrii, potrafi wykreślać różne figury i bryły geometryczne oraz obliczać ich objętość i pole powierzchni."
+
+  },
+  {
+    "checked": false,
+    "title":"Architekt ***",
+    "image":"assets/images/architekt.png",
+    "description":
+    "• Umie wykonać projekt urządzenia pomieszczenia lub zagospodarowania terenu, w sposób pozwalający na realizację prac kilkuosobowemu zespołowi, z wykorzystaniem rzutowania, rysunków przekrojowych, wymiarowania i opisów.\n• Potrafi precyzyjnie oszacować ilość potrzebnych materiałów do kompletnego wykonania opracowanego projektu.\n• Umie wymodelować swój projekt w prostym programie do modelowania 3D (np. SketchUp).\n• Zna kilka współczesnych obiektów architektonicznych i potrafi o nich opowiedzieć (np. podać autora, wymienić cechy charakterystyczne).\n• Zna główne style architektoniczne, umie opisać ich cechy i je rozpoznawać."
+  },
+  {
+    "checked": false,
+    "title":"Obserwator *",
+    "image":"assets/images/obserwator.jpg",
+    "description":
+    "• Umie posłużyć się mapą papierową (tj. zorientować ją i odczytać), żeby trafić za dnia do wyznaczonego miejsca.\n• Potrafi wyznaczyć kierunki świata według busoli, słońca (w dzień) i gwiazd (w nocy).\n• Umie ocenić przebytą odległość, mierząc ją krokami."
+  },
+  {
+    "checked": false,
+    "title":"Terenoznawca **",
+    "image":"assets/images/terenoznawca.jpg",
+    "description":
+    "• Potrafi w dzień i w nocy odnaleźć się na mapie w nieznanym terenie według ukształtowania terenu i przedmiotów terenowych (np. skrzyżowań, budowli, cieków wodnych).\n• Umie zmierzyć odległość na mapie i trafnie ocenić odległość „na oko” w terenie.\n• Potrafi nanieść na mapę trasę wędrówki, narysować szkic terenu i przebytej drogi.\n• Umie zapamiętać trasę zaznaczoną na mapie, a następnie bez pomocy mapy ją pokonać."
+  },
+  {
+    "checked": false,
+    "title":"Topograf ***",
+    "image":"assets/images/topograf.jpg",
+    "description":
+    "• Potrafi wykonać odpowiednie pomiary i staranny szkic wskazanego terenu z zachowaniem skali.\n• Potrafi zmierzyć wysokość drzewa i szerokość rzeki bez użycia specjalistycznych narzędzi.\n• Umie posłużyć się dalmierzem lub niwelatorem.\n• Potrafi z pamięci narysować dokładny szkic przebytej drogi."
+  },
+  {
+    "checked": false,
+    "title":"Mistrz Orientacji ***",
+    "image":"assets/images/mistrzOrientacji.jpg",
+    "description":
+    "• Umie w każdych warunkach trafić do wyznaczonego miejsca – w dzień i w nocy, w górach i na nizinie, niezależnie od warunków pogodowych i pory roku, z pomocą map, lokalizatora GPS, kompasu albo bez nich."
+  },
+  {
+    "checked": false,
+    "title":"Mistrz musztry *",
+    "image":"assets/images/mistrzMusztry.jpg",
+    "description":
+    "• Umie prawidłowo wykonać wszystkie komendy musztry harcerskiej w czasie zbiórki, apelu i przemarszu.\n• Potrafi zadbać o wygląd i czystość swojego munduru, a także wytłumaczyć symbolikę jego elementów.\n• Potrafi stawić się na zbiórkę alarmową w wyznaczonym czasie."
+  },
+  {
+    "checked": false,
+    "title":"Chorąży **",
+    "image":"assets/images/chorazy.jpg",
+    "description":
+    "• Umie poruszać się i wykonywać chwyty sztandarem lub proporcem zgodnie z regulaminem musztry.\n• Potrafi bezpiecznie przechowywać i zadbać o proporzec lub sztandar, zarówno w warunkach polowych, jak i w harcówce lub w domu.\n• Umie wyjaśnić symbolikę proporca lub sztandaru, który mu powierzono."
+  },
+  {
+    "checked": false,
+    "title":"Dowódca ***",
+    "image":"assets/images/dowodca.jpg",
+    "description":
+    "• Potrafi poprowadzić apel drużyny zgodnie z regulaminem musztry.\n• Umie dowodzić drużyną podczas przemarszu, uroczystości lub pokazu musztry.\n• Potrafi sprawnie zwołać i opanować drużynę w czasie paniki lub zamieszania.\n• Umie zaplanować i zorganizować udział sztandaru w przemarszu lub uroczystości."
+  },
+  {
+    "checked": false,
+    "title":"Dobosz ***",
+    "image":"assets/images/dobosz.jpg",
+    "description":
+    "• Potrafi dobrać i nadać kolumnie odpowiednie tempo wybijając rytm na instrumencie perkusyjnym w marszu.\n• Potrafi poprowadzić asystę perkusyjną, wybijając odpowiedni rytm na wejście pocztu sztandarowego, złożenie wieńca i apel poległych.\n• Posiada sprawność Muzykanta* ze ścieżki „Gra na instrumentach”."
+  },
+  {
+    "checked": false,
+    "title":"Trębacz ***",
+    "image":"assets/images/trebacz.jpg",
+    "description":
+    "• Zna i umie zagrać kilka sygnałów Wojska Polskiego np. Pobudkę, Baczność, Spocznij, Hasło Wojska Polskiego.\n• Potrafi zastosować odpowiednie sygnały do kierowania drużyną.\n• Posiada sprawność Muzykanta* ze ścieżki „Gra na instrumentach”."
+  },
+  {
+    "checked": false,
+    "title":"Sakwa *",
+    "image":"assets/images/sakwa.jpg",
+    "description":
+    "• Umie odłożyć pieniądze na zaplanowany wydatek. Potrafi oszacować, ile czasu będzie mu potrzebne na zebranie określonej kwoty.\n• Umie bezpiecznie przechowywać pieniądze.\n• Potrafi zadbać o powierzony sprzęt biwakowy i pionierski, tj. właściwie go przechowywać, transportować i kompletować."
+  },
+  {
+    "checked": false,
+    "title":"Gospodarz **",
+    "image":"assets/images/gospodarz.jpg",
+    "description":
+    "• Umie skompletować narzędzia dla zastępu na biwak lub obóz.\n• Potrafi konserwować narzędzia pionierskie a także odpowiednio je oznakować. Umie prowadzić wykaz sprzętu zastępu.\n• Potrafi rozliczyć się z powierzonych pieniędzy (np. składek zastępu na wycieczkę). Umie prowadzić zeszyt wpływów i wydatków (np. w Excelu)."
+  },
+  {
+    "checked": false,
+    "title":"Kwatermistrz ***",
+    "image":"assets/images/kwatermistrz.jpg",
+    "description":
+    "• Potrafi zaplanować budżet wyjazdu lub biwaku, sprawować nadzór nad wydatkami i rozliczyć powierzone środki.\n• Umie przygotować kompletną listę zadań kwatermistrzowskich związanych z organizacją biwaku lub wędrówki, takich jak dojazd, aprowizacja, noclegi. Każde z tych zadań potrafi wykonać samodzielnie.\n• Umie zamówić usługę lub dokonać zakupu przez internet, wykonać przelew i wypłacić pieniądze z bankomatu.\n• Wie, do czego służy książka inwentarzowa i finansowa, i umie prawidłowo dokonać w nich wpisu.\n• Potrafi opisywać faktury oraz przypisać wydatki do odpowiednich kategorii: materiały, żywność, wyposażenie itd."
+  },
+  {
+    "checked": false,
+    "title":"Magazynier ***",
+    "image":"assets/images/magazynier.jpg",
+    "description":
+    "• Potrafi wykonać prace konserwacyjne sprzętu takiego jak namioty, sprzęt pływający, kanadyjki. Umie pokierować wykonaniem takich prac przez drużynę.\n• Potrafi wysuszyć namioty różnych typów, zabezpieczyć je przed zawilgoceniem i właściwie przygotować do magazynowania.\n• Umie właściwie przygotować i spakować sprzęt drużyny do transportu (np. w ciężarówce) i praktycznie ułożyć go w magazynie.\n• Umie prowadzić kompletną ewidencję sprzętu, potrafi dokonać wpisu w książce inwentarzowej i oznakować sprzęt.\n• Posiada sprawność Technika** ze ścieżki „Rzemiosło techniczne”."
+  },
+  {
+    "checked": false,
+    "title":"Przyrodnik *",
+    "image":"assets/images/przyrodnik.jpg",
+    "description":
+    "• Umie przy pomocy atlasu roślin rozpoznać w lesie 6 roślin jadalnych (np. malina, jeżyna, borówka czarna, poziomka, lipa, pokrzywa, mięta, komosa biała, szczawik zajęczy, szczaw, stokrotka) oraz 3 trujące (np. wilcza jagoda, cis pospolity, czeremcha, kruszyna, bluszcz, bylicę piołun, glistnik jaskółcze ziele, jaskier, wrotycz).\n• Potrafi przygotować danie na zimno z samodzielnie zebranych darów lasu."
+  },
+  {
+    "checked": false,
+    "title":"Botanik **",
+    "image":"assets/images/botanik.jpg",
+    "description":
+    "• Umie przygotować napar (herbatę) z pospolicie występującej rośliny (np. z liści pokrzywy lub mięty, liści lub pędów malin czy koszyczków rumianku).\n• Umie rozpoznać i wykorzystać 12 roślin jadalnych. Wie, które części tych roślin są jadalne, a jeżeli wymagają przed spożyciem specjalnej obróbki, to potrafi ją przeprowadzić (dotyczy to np. jarzębiny i liści mniszka lekarskiego).\n• Potrafi rozpoznać w naturze 5 roślin trujących podobnych do roślin jadalnych i wskazać cechy, które je odróżniają.\n• Umie odszukać w terenie 6 roślin ściśle chronionych."
+  },
+  {
+    "checked": false,
+    "title":"Zielarz ***",
+    "image":"assets/images/zielarz.jpg",
+    "description":
+    "• Z wykorzystaniem samodzielnie zebranych dziko rosnących ziół i owoców z 8 różnych gatunków potrafi przygotować 10 dań, w tym 3 na ciepło.\n• Umie rozpoznać 5 ziół o właściwościach leczniczych i zna ich zastosowanie. Potrafi odnaleźć 3 z nich w terenie.\n• Zna zastosowanie i potrafi wykorzystać w celu innym niż spożycie 5 roślin - np. natrzeć się wrotyczem w celu uchronienia się przed komarów, przyłożyć cebulę do ukąszenia osy w celu uśmierzenia bólu, wykorzystać mydlnicę lekarską do wyprania ubrań.\n• Ma podstawową wiedzę o systematyce roślin występujących w Polsce, umie posłużyć się atlasem roślin dla odszukania lub opisania danego gatunku."
+  },
+  {
+    "checked": false,
+    "title":"Higienista *",
+    "image":"assets/images/higienista.jpg",
+    "description":
+    "• Potrafi opatrzyć drobne zranienie, oparzenie i lekki uraz.\n• Umie ułożyć poszkodowanego w pozycji bezpiecznej.\n• Zna numery alarmowe i potrafi wezwać pomoc w różnych sytuacjach."
+  },
+  {
+    "checked": false,
+    "title":"Sanitariusz **",
+    "image":"assets/images/sanitariusz.jpg",
+    "description":
+    "• Umie zaradzić w sytuacji wyziębienia, udaru cieplnego, omdlenia i oparzeń.\n• Potrafi zaradzić w przypadku urazu kończyny (np. skręcenie lub złamanie), a w razie konieczności umie ją unieruchomić przy pomocy improwizowanego sprzętu.\n• Umie poprawnie przeprowadzić resuscytację krążeniowooddechową.\n• Potrafi skompletować apteczkę zastępu na całodniową wycieczkę i korzystać z jej zawartości."
+  },
+  {
+    "checked": false,
+    "title":"Ratownik ***",
+    "image":"assets/images/ratownik.jpg",
+    "description":
+    "• Potrafi pokierować małym zespołem sanitariuszy w czasie akcji ratowniczej.\n• Umie udzielić pierwszej pomocy w przypadku ran i krwotoków.\n• Potrafi postępować w przypadku podejrzenia urazu kręgosłupa. Umie unieruchomić kończynę przy pomocy szyny (np. szyny Kramera lub szyny typu Splint).\n• Potrafi rozpoznać objawy udaru mózgu i zawału serca.\n• Umie zebrać informacje od osoby poszkodowanej według schematu SAMPLE.\n• Podczas ćwiczeń potrafi przeprowadzić triaż – segregację medyczną poszkodowanych.\n• Potrafi poprawnie się zachować w razie wypadku komunikacyjnego (np. samochodowego).\n• Umie skompletować apteczkę drużyny i określić sposób przechowywania leków."
+  },
+  {
+    "checked": false,
+    "title":"Debiutant *",
+    "image":"assets/images/debiutant.jpg",
+    "description":
+    "• Umie nauczyć się roli i ją odegrać (np. podczas przedstawienia szkolnego lub ogniska).\n• Potrafi wykonać element stroju lub rekwizyt potrzebny do odgrywanej roli."
+
+  },
+  {
+    "checked": false,
+    "title":"Komediant **",
+    "image":"assets/images/komediant.jpg",
+    "description":
+    "• Umie przygotować się do pierwszoplanowej roli w krótkim przedstawieniu (nauczyć się dialogów, odtworzyć charakter i motywacje postaci) oraz śmiało tę rolę odegrać.\n• Potrafi posługiwać się różnymi formami wyrazu (np. wykonać scenkę pantomimiczną, zinterpretować piosenkę, wydeklamować wiersz).\n• Umie wykonać kilka ćwiczeń dykcji i emisji głosu."
+
+  },
+  {
+    "checked": false,
+    "title":"Gawędziarz **",
+    "image":"assets/images/gawedziarz.jpg",
+    "description":
+    "• Potrafi przed publicznością wygłosić krótką wypowiedź na zadany temat (np. relację z wędrówki), zachowując logiczny ciąg i płynność wypowiedzi.\n• W trakcie wypowiedzi umie zachować właściwą postawę ciała i utrzymać kontakt ze słuchaczami.\n• Potrafi wykonać kilka ćwiczeń dykcji i emisji głosu."
+
+  },
+  {
+    "checked": false,
+    "title":"Aktor ***",
+    "image":"assets/images/aktor.jpg",
+    "description":
+    "• Potrafi przygotować się do występu scenicznego przed publicznością (np. teatru amatorskiego), współpracując przy tym z reżyserem i scenografem.\n• Umie wymyślić i nadać realizowanej postaci cechy szczególne, zarówno w dykcji jak i w ruchach. Potrafi pokazać różne emocje.\n• Potrafi wymienić kilku lubianych przez siebie aktorów teatralnych lub filmowych, wskazać ich najlepsze role i uzasadnić swoje zdanie.\n• Zna i umie poprowadzić kilka ćwiczeń aktorskich (np. z teatru improwizowanego)."
+
+  },
+  {
+    "checked": false,
+    "title":"Mówca ***",
+    "image":"assets/images/mowca.jpg",
+    "description":
+    "• Potrafi przygotować i wygłosić wypowiedź (np. gawędę lub referat) dotyczącą wybranego tematu. Umie w przekonujący i porywający sposób przekazać swoją myśl w czasie nie dłuższym niż 7 minut.\n• Potrafi dobrać formę i ton (np. modulację głosu, ułożenie treści, dynamikę wypowiedzi, argumentację, postawę) adekwatne do tematu wypowiedzi i grona słuchaczy.\n• Umie używać figur retorycznych (np. pytań retorycznych, porównań, metafor).\n• Potrafi wypowiedzieć się na wybrany temat w krótkiej improwizowanej formie, nie korzystając z notatek.\n• Przygotowując wypowiedź, umie korzystać z różnych źródeł i w trakcie wypowiedzi umiejętnie się na nie powołać."
+
+  },
+  {
+    "checked": false,
+    "title":"Śpiewak *",
+    "image":"assets/images/spiewak.jpg",
+    "description":
+    "• Potrafi zaśpiewać 5 wybranych piosenek, zna ich teksty na pamięć.\n• W swoim śpiewie trzyma się rytmu i melodii."
+
+  },
+  {
+    "checked": false,
+    "title":"Zapiewajło **",
+    "image":"assets/images/zapiewajlo.jpg",
+    "description":
+    "• Umie zaśpiewać 10 wybranych piosenek.\n• Potrafi powtórzyć melodię ze słuchu i wystukać do niej rytm.\n• Umie zaintonować śpiew w grupie (np. zastępie lub drużynie).\n• Potrafi zaśpiewać zadaną melodię od podanego dźwięku.\n• Umie wykonać 3 ćwiczenia na rozśpiewanie."
+
+  },
+  {
+    "checked": false,
+    "title":"Wokalista ***",
+    "image":"assets/images/wokalista.jpg",
+    "description":
+    "• Potrafi zaśpiewać 3 utwory o zróżnicowanym charakterze i nastroju (np. utwór poetycki, piosenkę musicalową i pieśń modlitewną) odpowiednio je interpretując. Umie wymienić autorów i kompozytorów tych utworów.\n• Potrafi wystąpić solo przed publicznością.\n• Umie zaśpiewać krótką melodię z nut.\n• Potrafi śpiewać w chórze, na głosy.\n• Zna podstawowe zasady emisji głosu i umie zastosować je w śpiewie."
+
+  },
+  {
+    "checked": false,
+    "title":"Wodzirej ***",
+    "image":"assets/images/wodzirej.jpg",
+    "description":
+    "• Potrafi poprowadzić ognisko lub kominek, tj. dobrać repertuar, ustalić scenariusz, zaintonować piosenki.\n• Umie zebrać i pokierować zespołem, który poprowadzi imprezę (np. leśny festiwal teatralny lub festyn w szkole).\n• W każdym gronie potrafi poprowadzić kilka zabaw towarzyskich.\n• Umie poprowadzić zaśpiew w marszu.\n• Posiada sprawność Gawędziarza** ze ścieżki „Aktorstwo i teatr”."
+
+  },
+  {
+    "checked": false,
+    "title":"Obserwator Nieba *",
+    "image":"assets/images/obserwatorNieba.jpg",
+    "description":
+    "• Umie odnaleźć na niebie Gwiazdę Polarną, a także rozpoznać 3 gwiazdozbiory.\n• Potrafi rozpoznać chmury z rodzaju Cumulus."
+  },
+  {
+    "checked": false,
+    "title":"Astronom **",
+    "image":"assets/images/astronom.jpg",
+    "description":
+    "• Zna i umie samodzielnie odnaleźć na niebie 5 gwiazdozbiorów, w tym po jednym charakterystycznym dla nieba letniego i zimowego.\n• Potrafi wykorzystać mapę nieba, aby odnaleźć lub nazwać widoczne gwiazdozbiory i najjaśniejsze gwiazdy.\n• Umie przy pomocy danych astronomicznych (np. z Internetu) odnaleźć na niebie widoczne akurat planety."
+  },
+  {
+    "checked": false,
+    "title":"Meteorolog **",
+    "image":"assets/images/meteorolog.jpg",
+    "description":
+    "• Umie na podstawie zjawisk na lądzie lub morzu ocenić siłę wiatru w skali Beauforta.\n• Potrafi odczytać z barometru ciśnienie atmosferyczne. Na podstawie kilku kolejnych pomiarów umie ocenić, czy ciśnienie rośnie, spada czy utrzymuje się na stałym poziomie.\n• Potrafi rozpoznać oznaki zbliżającej się burzy.\n• Umie rozpoznać 3 rodzaje chmur."
+  },
+  {
+    "checked": false,
+    "title":"Kopernik ***",
+    "image":"assets/images/kopernik.jpg",
+    "description":
+    "• Potrafi używać teleskopu: wie do czego służą jego poszczególne części, jak go przechowywać i przygotować do obserwacji.\n• Umie przez teleskop obserwować ciała niebieskie (np. bliskie galaktyki, powierzchnię Księżyca, księżyce Jowisza) i zjawiska astronomiczne (np. fazy Wenus). Potrafi pokazać je kolegom.\n• Umie pokrótce wytłumaczyć wybrane zagadnienie współczesnej astronomii (np. przesunięcie ku czerwieni widma odległych obiektów, soczewkowanie grawitacyjne czy badanie składu chemicznego i ewolucji gwiazd).\n• Potrafi wyjaśnić zaobserwowany ruch planet po niebie za pomocą teorii heliocentrycznej."
+  },
+  {
+    "checked": false,
+    "title":"Synoptyk ***",
+    "image":"assets/images/synoptyk.jpg",
+    "description":
+    "• Umie zorganizować stację meteorologiczną, która umożliwi pomiar temperatury powietrza, ciśnienia atmosferycznego i kierunku wiatru. Na podstawie odczytu z barometru potrafi obliczyć ciśnienie zredukowane do poziomu morza. Umie wykorzystać wyniki pomiarów do orientacyjnego przewidywania pogody.\n• Potrafi rozpoznać niebezpieczne zmiany siły i kierunku wiatru, takie jak szkwał, odbicie i dysza; umie wyjaśnić zjawisko bryzy porannej i wieczornej; wie, jakie kierunki wiatru dominują w Polsce. Potrafi wykorzystać tę wiedzę w praktyce (np. w czasie żeglugi lub rozstawiania obozowiska).\n• Umie rozpoznać rodzaj chmury ze względu na kształt i wysokość występowania. Potrafi wskazać zjawiska pogodowe związane z występowaniem różnych rodzajów chmur.\n• Potrafi korzystać z ogólnodostępnych numerycznych prognoz pogody, umie zinterpretować mapy pogody i meteogramy.\n• Potrafi wyjaśnić zjawisko powstawania układów barycznych oraz frontów atmosferycznych i ich wpływ na pogodę."
+  },
+  {
+    "checked": false,
+    "title":"Eksperymentator *",
+    "image":"assets/images/eksperymentator.jpg",
+    "description":
+    "• Umie przeprowadzić ciekawy eksperyment naukowy i pokazać go kolegom (np. harcerzom z zastępu)."
+  },
+  {
+    "checked": false,
+    "title":"Fizyk **",
+    "image":"assets/images/fizyk.jpg",
+    "description":
+    "• Potrafi w eksperymencie zademonstrować jedno z praw fizycznych (np. prawo Archimedesa, zasadę zachowania pędu lub wytwarzanie pola magnetycznego przez prąd elektryczny).\n• Umie podać praktyczne przykłady, gdzie to prawo ma zastosowanie."
+  },
+  {
+    "checked": false,
+    "title":"Chemik **",
+    "image":"assets/images/chemik.jpg",
+    "description":
+    "• Umie w bezpieczny sposób przeprowadzić reakcję chemiczną (np. mieszanie sody oczyszczonej z octem lub spalanie cukru).\n• Potrafi wskazać praktyczne zastosowania tej reakcji."
+  },
+  {
+    "checked": false,
+    "title":"Biolog **",
+    "image":"assets/images/biolog.jpg",
+    "description":
+    "• Potrafi przeprowadzić eksperyment, żeby zademonstrować wybrane zjawisko ze świata bakterii, grzybów, roślin lub zwierząt (np. wpływ temperatury i wilgotności na pleśnienie jedzenia albo zjawisko osmozy).\n• Umie zaprezentować wnioski z przeprowadzonego eksperymentu."
+  },
+  {
+    "checked": false,
+    "title":"Newton ***",
+    "image":"assets/images/newton.jpg",
+    "description":
+    "• Potrafi samodzielnie zaplanować i przeprowadzić eksperyment, żeby potwierdzić jedno z praw fizycznych (np. prawo Ohma lub drugą zasadę dynamiki) albo zmierzyć wartość jakiejś stałej fizycznej (np. prędkości dźwięku lub przyspieszenia ziemskiego).\n• Umie przeanalizować wyniki doświadczenia oraz wytłumaczyć ewentualną niezgodność wyników z teorią.\n• Potrafi ocenić niepewność wykonywanych pomiarów."
+  },
+  {
+    "checked": false,
+    "title":"Mendelejew ***",
+    "image":"assets/images/mendelejew.jpg",
+    "description":
+    "• Umie w warunkach domowych lub polowych wytworzyć substancję (np. atrament sympatyczny lub mydło) albo przeprowadzić eksperyment chemiczny (np. węże faraona z sody i cukru) samodzielnie dobierając składniki w odpowiednich proporcjach, przygotowując i przeprowadzając cały proces.\n• Potrafi wyjaśnić przebieg doświadczenia, wskazać jakie reakcje chemiczne miały miejsce i zapisać ich równania.\n• W czasie pracy umie zastosować zasady bezpieczeństwa. Zna sposoby oznakowania substancji niebezpiecznych."
+  },
+  {
+    "checked": false,
+    "title":"Linneusz ***",
+    "image":"assets/images/linneusz.jpg",
+    "description":
+    "• Potrafi zaplanować eksperyment z dziedziny biologii: wyznaczyć cel, sformułować hipotezę, przygotować potrzebne materiały i składniki. Przykładowo: wpływ różnych czynników (np. wilgotności, światła lub obecności osobników innych gatunków) na kiełkowanie nasion albo wpływ mydlin na wzrost roślin lądowych i wodnych.\n• Umie przeprowadzić zaplanowany eksperyment zgodnie z wymogami rzetelnej pracy naukowej: m.in. minimum 20 powtórzeń w próbie (np. 20 nasion hodowanych w tych samych warunkach), porównanie z próbą kontrolną.\n• Potrafi przeprowadzić analizę statystyczną otrzymanych wyników, wyciągnąć z nich wnioski i zaprezentować je w czytelnej postaci (np. wykresu).\n• Umie obsługiwać mikroskop optyczny i wykorzystać go do obserwowania przygotowanych przez siebie preparatów, takich jak skórka cebuli, liść, pyłki lub włosy."
+  },
+  {
+    "checked": false,
+    "title":"Pióro *",
+    "image":"assets/images/pioro.jpg",
+    "description":
+    "• Umie napisać krótką historyjkę, komiks lub wierszyk albo przerobić tekst piosenki, zachowując zasady poprawnej pisowni.\n• Potrafi przygotować swój tekst do prezentacji innym (np. w gazetce, na tablicy obozowej lub stronie internetowej)."
+  },
+  {
+    "checked": false,
+    "title":"Pisarz **",
+    "image":"assets/images/pisarz.jpg",
+    "description":
+    "• Umie napisać utwór w wybranej przez siebie formie literackiej na podstawie inspiracji (np. wiersz na podstawie zdjęcia, opowiadanie na podstawie obrazu lub piosenki) albo przerobić lub uzupełnić istniejącą historię (np. napisać alternatywne zakończenie książki, opisać dalsze losy bohatera lub rozwinąć epizod).\n• Potrafi stosować trójpodział narracji (wstęp, rozwinięcie i zakończenie) w swoich utworach literackich (np. opowiadaniach, felietonach).\n• Umie przy pomocy słowników sprawdzić tekst pod kątem ortograficznym, gramatycznym, stylistycznym i językowym."
+  },
+  {
+    "checked": false,
+    "title":"Poeta ***",
+    "image":"assets/images/poeta.jpg",
+    "description":
+    "• Potrafi napisać wiersz lub piosenkę na zadany temat, świadomie wykorzystując różne środki stylistyczne, takie jak metafora, parafraza, onomatopeja itp., w celu wywołania konkretnych emocji u odbiorcy.\n• Umie zaimprowizować kilkuwersową formę poetycką (np. haiku lub limeryk).\n• Potrafi napisać wiersz w narzuconej formie, uwzględniając rytmikę, układ zwrotek i rymów (np. tekst piosenki do istniejącej melodii lub klasyczną formę poetycką, taką jak sonet).\n• Zna twórczość wybranych poetów i umie opisać konkretne stosowane przez nich zabiegi stylistyczne, które mu się podobają.\n• Potrafi rozróżnić i scharakteryzować kilka lirycznych gatunków literackich, takich jak elegia, fraszka, hymn, oda, pieśń, sonet, tren czy psalm."
+  },
+  {
+    "checked": false,
+    "title":"Powieściopisarz ***",
+    "image":"assets/images/powiesciopisarz.jpg",
+    "description":
+    "• Umie stworzyć opowieść z wieloma wątkami i postaciami w wybranej konwencji literackiej (np. detektywistyczną, fantasy lub science-fiction).\n• Potrafi wykreować i opisać atrakcyjny i przekonujący świat przedstawiony, wypełniony bohaterami o określonych cechach i motywacjach.\n• Umie pisać dialogi między postaciami tak, aby wynikał z niego styl i sposób wypowiedzi charakterystyczny dla każdej z nich.\n• Potrafi wskazać kilku pisarzy, którzy go inspirują, i opisać konkretne, stosowane przez nich zabiegi stylistyczne, które mu się podobają.\n• Umie rozróżnić i scharakteryzować kilka epickich i dramatycznych gatunków literackich, takich jak nowela, opowiadanie, powieść, bajka, komedia lub tragedia."
+  },
+  {
+    "checked": false,
+    "title":"Popularyzator ***",
+    "image":"assets/images/popularyzator.jpg",
+    "description":
+    "• Potrafi napisać porywający a jednocześnie rzetelny artykuł popularnonaukowy na temat, który go interesuje.\n• Umie zweryfikować prawdziwość informacji z dziedziny, którą się interesuje, a także ocenić i potwierdzić wiarygodność źródeł, z których korzysta.\n• Potrafi przygotować swój artykuł do publikacji (np. w gazetce szkolnej): opatrzyć przypisami, podać bibliografię, sprawdzić terminologię.\n• Umie wskazać cenione przez siebie wydawnictwa lub portale popularyzatorskie i uargumentować, dlaczego uważa je za wartościowe.\n• Posiada sprawność ** w dziedzinie, którą popularyzuje."
+  },
+  {
+    "checked": false,
+    "title":"Scenarzysta ***",
+    "image":"assets/images/scenarzysta.jpg",
+    "description":
+    "• Umie przygotować scenariusz adaptowany bądź oryginalny, zawierający opisy scen, dialogi i didaskalia, na którym może oprzeć się praca ekipy filmowej bądź teatralnej.\n• Potrafi stworzyć narrację, w której bohaterowie wchodzą w różnego rodzaju konflikty (np. wewnętrzne, lokalne, zewnętrzne) budujące napięcie i dynamizujące akcję.\n• W cenionych przez siebie filmach lub sztukach teatralnych umie scharakteryzować zabiegi narracyjne, które decydują o atrakcyjności i sile przekazu.\n• Posiada dowolną sprawność ze ścieżki „Film” lub „Aktorstwo i teatr”."
+  },
+  {
+    "checked": false,
+    "title":"Rozmówka *",
+    "image":"assets/images/rozmowka.jpg",
+    "description":
+    "• Potrafi załatwić kilka spraw w obcym języku, np. dogadać się w sklepie, zapytać o drogę.\n• Umie w obcym języku krótko opowiedzieć o sobie i o wydarzeniu, w którym uczestniczył (np. ostatniej zbiórce drużyny, wycieczce klasowej)."
+  },
+  {
+    "checked": false,
+    "title":"Tłumacz **",
+    "image":"assets/images/tlumacz.jpg",
+    "description":
+    "• Umie porozmawiać w języku obcym na kilka tematów (np. szkoła, zainteresowania, wakacje czy miejscowość z której pochodzi).\n• Potrafi zrozumieć obcojęzyczny film z napisami w danym języku.\n• Umie pisemnie porozumieć się w języku obcym, np. pisząc komentarze na internetowym forum.\n• Potrafi czytać ze zrozumieniem krótkie teksty w obcym języku, np. artykuły z interesującej go dziedziny lub wpisy na blogach."
+  },
+  {
+    "checked": false,
+    "title":"Lingwista ***",
+    "image":"assets/images/lingwista.jpg",
+    "description":
+    "• Umie przeprowadzić prezentację w języku obcym (np. oprowadzić obcokrajowców po swoim mieście albo zaprezentować klasie lub drużynie swoje hobby).\n• Potrafi ze zrozumieniem przeczytać tekst w języku obcym (np. opowiadanie czy krótką książkę).\n• Potrafi napisać w języku obcym tekst, taki jak relacja z obozu lub artykuł na interesujący go temat.\n• Rozumie i potrafi korzystać z wyrażeń potocznych, slangu i wyrażeń specjalistycznych w interesującej go dziedzinie (np. oglądając i komentując vlogi czy teksty związane z jego zainteresowaniami)."
+  },
+  {
+    "checked": false,
+    "title":"Skryba *",
+    "image":"assets/images/skryba.jpg",
+    "description":
+    "• Umie w ciekawy i poprawny językowo sposób opisać wydarzenie, w którym uczestniczył.\n• Potrafi opracować wpis do kroniki (papierowej lub elektronicznej) w formie relacji zawierającej tekst i zdjęcia lub ilustracje oraz wykonać go w estetyczny sposób."
+  },
+  {
+    "checked": false,
+    "title":"Kronikarz **",
+    "image":"assets/images/kronikarz.jpg",
+    "description":
+    "• Umie opisać wydarzenia, których był świadkiem, dbając nie tylko o fakty, ale także oddając nastrój i towarzyszące im emocje, korzystając z własnych wspomnień, a także konfrontując ze sobą relacje uczestników (np. członków przeciwnych zespołów w relacji z gry terenowej).\n• Potrafi zaplanować i wykonać cykl kronikarski (np. na stronie lub fanpage’u drużyny) opisujący kilka wydarzeń i łączący się w spójną stylistycznie całość.\n• Umie zbadać i opisać wydarzenie z przeszłości, posługując się różnymi źródłami informacji (np. wspomnieniami uczestników, zdjęciem, artykułem prasowym lub książką).\n• Zna i stosuje zasady kompozycji tekstu i fotografii."
+  },
+  {
+    "checked": false,
+    "title":"Kopista **",
+    "image":"assets/images/kopista.jpg",
+    "description":
+    "• Umie płynnie i czytelnie pisać odręcznie, zachowując stałą wysokość liter małych i wielkich.\n• Potrafi korzystać z narzędzi pisarskich o różnych końcówkach (np. flamastrów o końcówkach okrągłych i ściętych).\n• Umie wykonać odręcznie ozdobny inicjał lub tytuł. Sprawnie posługuje się wybranym krojem pisma ozdobnego."
+  },
+  {
+    "checked": false,
+    "title":"Reporter ***",
+    "image":"assets/images/reporter.jpg",
+    "description":
+    "• Potrafi wybrać interesujący go temat, dotrzeć do świadków związanych z nim wydarzeń oraz zebrać i opracować ich relacje, posługując się dyktafonem lub kamerą.\n• Umie rzetelnie i ciekawie opisać fakty na podstawie zebranych relacji, dokumentów i materiałów multimedialnych.\n• Potrafi zredagować i przygotować zebrane przez siebie informacje i relacje do publikacji.\n• Umie ocenić przeczytane reportaże pod względem przygotowania i rzetelności autorów, wiarygodności źródeł informacji i wagi poruszanego tematu."
+  },
+  {
+    "checked": false,
+    "title":"Historyk ***",
+    "image":"assets/images/historyk.jpg",
+    "description":
+    "• Potrafi napisać tekst (np. artykuł), w którym skonfrontuje ze sobą dwa różne opisy tego samego wydarzenia historycznego i wskaże różnice między nimi.\n• Umie przygotować rozmowę ze świadkiem historii, wie, jakie powinien zebrać informacje wcześniej. Potrafi zadać pytania w sposób pozwalający na swobodną wypowiedź.\n• Umie zredagować tekst historyczny z użyciem przypisów, spisu treści, spisu źródeł i spisu ilustracji. Potrafi sporządzić opis bibliograficzny.\n• Umie tworzyć i modyfikować treści dostępne w otwartych encyklopediach internetowych (np. Wikipedia), korzystając ze źródeł książkowych lub archiwalnych, podając źródła z jakich korzystał.\n• Potrafi posłużyć się internetowym katalogiem biblioteki uniwersyteckiej, miejskiej i Biblioteki Narodowej (w razie konieczności z pomocą osoby pełnoletniej)."
+
+  },
+  {
+    "checked": false,
+    "title":"Kaligraf ***",
+    "image":"assets/images/kaligraf.jpg",
+    "description":
+    "• Potrafi płynnie posługiwać się przynajmniej dwoma odręcznymi krojami pisma w odmianie prostej i pochyłej. Zna i umie wykorzystać w swoim piśmie różne rodzaje szeryfów.\n• Wie czym są i do czego służą inicjały, a także potrafi wykonać ozdobny inicjał każdej litery.\n• Zna pojęcia takie jak szeryf, wersalik, kapitalik, majuskuła i umie znaleźć (np. w Internecie) krój pisma o interesujących go parametrach.\n• Potrafi posługiwać się różnymi narzędziami do kaligrafii, w tym piórem o stalówce ściętej oraz miękkiej."
+  },
+  {
+    "checked": false,
+    "title":"Harcownik *",
+    "image":"assets/images/harcownik.jpg",
+    "description":
+    "• Umie wytłumaczyć zasady i uczestniczyć w 6 różnych grach (np. terenowych, słownych, planszowych lub logicznych).\n• We wszelkich grach potrafi postępować honorowo."
+  },
+  {
+    "checked": false,
+    "title":"Taktyk **",
+    "image":"assets/images/taktyk.jpg",
+    "description":
+    "• Potrafi dowodzić zespołem podczas gry terenowej.\n• Umie przeanalizować zasady gry terenowej i na tej podstawie ustalić taktykę oraz przydzielić zadania członkom zespołu. Potrafi w trakcie gry na bieżąco oceniać sytuację i przeprowadzać zmiany w przyjętym planie.\n• Potrafi wspólnie z zespołem wyciągnąć z rozgrywki wnioski na przyszłość.\n• Potrafi przygotować i przeprowadzić 5 różnych gier (np. terenowych, słownych lub logicznych) dla kilku kolegów."
+  },
+  {
+    "checked": false,
+    "title":"Strateg **",
+    "image":"assets/images/strateg.jpg",
+    "description":
+    "• Umie grać w przynajmniej jedną grę wymagającą logicznego myślenia (np. szachy, brydż lub go). Potrafi wytłumaczyć jej zasady i nauczyć podstaw gry nowicjusza.\n• Umie stosować typowe zagrania taktyczne w wybranej grze logiczno-strategicznej (np. impas brydżowy, pułapki szachowe, groźba ko w go).\n• Potrafi zastosować przemyślaną strategię w grze terenowej, planszowej, karcianej lub komputerowej. Umie wyjaśnić na czym polegała, jakie miała zalety i jakie wady, jak wysokie było ryzyko z nią związane."
+  },
+  {
+    "checked": false,
+    "title":"Organizator Gier\nTerenowych ***",
+    "image":"assets/images/orgGierTer.jpg",
+    "description":
+    "• Potrafi wymyślić, przygotować i przeprowadzić minimum godzinną grę terenową dla kilku zespołów (np. zastępów w drużynie) uwzględniając jej mechanikę, estetykę (np. rekwizytów lub instrukcji) i fabułę.\n• Umie sporządzić plan gry i listę potrzebnych rzeczy, które pozwolą na jej odtworzenie przez osobę, która wcześniej jej nie znała.\n• Potrafi wskazać, jakie umiejętności ćwiczy dana gra (np. orientację w terenie, współpracę, logiczne myślenie) i dobrać grę do zamierzonego celu.\n• Umie przerobić i dostosować znaną sobie grę do potrzeb sytuacji (np. dopasowując mechanikę do liczby graczy, miejsca rozgrywki lub fabuły)."
+  },
+  {
+    "checked": false,
+    "title":"Arcymistrz ***",
+    "image":"assets/images/arcymistrz.jpg",
+    "description":
+    "• Umie przeanalizować strategię lub taktyczne zagrania przeciwnika w wybranej grze logiczno-strategicznej, wskazać wady i zalety tych zagrań i zastosować odpowiednie kontry.\n• Zna zasady turniejowe wybranej przez siebie gry logicznostrategicznej. Potrafi taki turniej zorganizować.\n• Umie pokazać analogie między wybraną grą logiczno-strategiczną, a strategią wojskową lub gospodarczą.\n• Potrafi obiektywnie ocenić swoje umiejętności w wybranej grze logiczno-strategicznej w odniesieniu do powszechnie stosowanych rankingów lub kategorii."
+  },
+  {
+    "checked": false,
+    "title":"Twórca Gier ***",
+    "image":"assets/images/tworcaGier.jpg",
+    "description":
+    "• Umie wymyślić i stworzyć własną, atrakcyjną grę planszową lub logiczną dla grupy 4–10 osób, uwzględniając jej mechanikę, estetykę (np. planszy lub kart) i fabułę.\n• Potrafi opracować instrukcję do swojej gry, która umożliwi samodzielne zrozumienie i rozegranie gry osobom, które jej nie znają.\n• Potrafi wskazać, jakie umiejętności ćwiczy dana gra (np. pamięć, współpracę, logiczne myślenie) i dobrać grę do zamierzonego celu."
+  },
+  {
+    "checked": false,
+    "title":"Zgodny *",
+    "image":"assets/images/zgodny.jpg",
+    "description":
+    "• Umie rozwiązać konflikt z kolegą lub koleżanką uwzględniając zarówno potrzeby własne, jak i drugiej osoby.\n• W różnych sytuacjach potrafi nazwać swoje uczucia i wskazać ich źródła."
+  },
+  {
+    "checked": false,
+    "title":"Rozjemca **",
+    "image":"assets/images/rozjemca.jpg",
+    "description":
+    "• Umie oddzielić fakty od opinii i ocen (np. podsumowując grę potrafi wskazać realne przyczyny zwycięstwa lub porażki oraz zaproponować rozwiązania na przyszłość).\n• W swoich wypowiedziach potrafi opisać zdarzenie wyraźnie rozgraniczając fakty od emocji, które kierowały jego uczestnikami. Umie wykorzystać tę umiejętność do opisu konfliktu, którego był świadkiem bądź uczestnikiem."
+  },
+  {
+    "checked": false,
+    "title":"Mediator ***",
+    "image":"assets/images/mediator.jpg",
+    "description":
+    "• Potrafi rozwiązać konflikt podejmując się roli mediatora.\n• Aby zwiększyć szanse nawiązania kontaktu i porozumienia potrafi prowadzić dialog stosując 4 kroki komunikacji bez przemocy:\n1) zaobserwować i opisać fakty w konkretnej sytuacji,\n2) nazwać własne uczucia,\n3) ocenić jakie jego potrzeby zostały spełnione bądź nie,\n4) wyrazić prośby i oczekiwania na przyszłość."
+  },
+  {
+    "checked": false,
+    "title":"Zbieracz *",
+    "image":"assets/images/zbieracz.jpg",
+    "description":
+    "• Umie zebrać kolekcję tematyczną i wyjaśnić, co łączy poszczególne przedmioty w kolekcji.\n• Potrafi zaprezentować kolegom swoją kolekcję."
+  },
+  {
+    "checked": false,
+    "title":"Hobbysta **",
+    "image":"assets/images/hobbysta.jpg",
+    "description":
+    "• Umie opisać kilka elementów swojego zbioru za pomocą 3 kryteriów (np. kraj pochodzenia, rok wykonania, miejsce wydania).\n• Potrafi określić ramy gromadzonej kolekcji oraz wyróżnić i scharakteryzować w niej podzbiory, a także barwnie i szczegółowo opowiedzieć historię związaną z wybranym jej elementem.\n• Umie zgodnie ze sztuką przechowywać i konserwować swoje zbiory.\n• Potrafi wskazać źródła, z których można pozyskiwać nowe elementy zbiorów."
+  },
+  {
+    "checked": false,
+    "title":"Kolekcjoner ***",
+    "image":"assets/images/kolekcjoner.jpg",
+    "description":
+    "• Umie skatalogować swój zbiór poprzez opis wykorzystujący informacje encyklopedyczne, profesjonalne katalogi i inne dane źródłowe.\n• Potrafi ciekawie opowiedzieć o różnych elementach swojej kolekcji (np. w kontekście historycznym, geograficznym lub artystycznym).\n• Wie, gdzie można obejrzeć zbiory z dziedziny jaką się interesuje oraz jakie instytucje lub osoby zajmują się gromadzeniem podobnych zbiorów.\n• Umie praktycznie wykorzystać wiedzę o swoich zbiorach (np. do przygotowania zadań w ramach gry zastępu lub drużyny).\n• Potrafi zdobyć nowe elementy do kolekcji różnymi sposobami i z różnych źródeł."
+  },
+  {
+    "checked": false,
+    "title":"Swojak *",
+    "image":"assets/images/swojak.jpg",
+    "description":
+    "• Umie doprowadzić do zgodnego podjęcia decyzji w gronie kolegów (np. w zastępie), którą zaakceptują także nieprzekonani.\n• Potrafi przeprowadzić uczciwe wybory lub losowanie (np. prezentów na Mikołajki w zastępie)."
+  },
+  {
+    "checked": false,
+    "title":"Niewidzialna Ręka **",
+    "image":"assets/images/niewidzialnaReka.jpg",
+    "description":
+    "• Na podstawie obserwacji i rozmów umie zaplanować zadanie służące konkretnej osobie lub społeczności (np. pomoc starszej osobie lub naprawa uszkodzonej ławki na podwórku), a następnie zrealizować je samodzielnie lub w grupie kolegów. Potrafi zrobić to w taki sposób, aby adresat działania nie wiedział, kto je wykonał."
+  },
+  {
+    "checked": false,
+    "title":"Obywatel ***",
+    "image":"assets/images/obywatel.jpg",
+    "description":
+    "• Umie skutecznie zainicjować i doprowadzić do realizacji przedsięwzięcia związanego z życiem szkoły lub życiem sąsiedzkim (np. obchody święta szkoły lub porządkowanie podwórka).\n• Potrafi skutecznie przeprowadzić akcję promującą aktywność obywatelską (np. akcja „Wywieś Flagę” lub akcja Szlachetna Paczka).\n• Umie znaleźć informację o aktualnych konsultacjach społecznych lub innych formach dialogu społecznego prowadzonych w swojej miejscowości.\n• Potrafi na piśmie złożyć pytanie lub zgłosić sprawę dotyczącą społeczności lokalnej lub przestrzeni wspólnej (np. niedziałająca sygnalizacja świetlna). Umie ustalić, kto jest odpowiedzialny za daną kwestię na szczeblu samorządu lokalnego, spółdzielczego lub osiedlowego."
+  },
+  {
+    "checked": false,
+    "title":"Poszukiwacz *",
+    "image":"assets/images/poszukiwacz.jpg",
+    "description":
+    "• Umie znaleźć prawdopodobną przyczynę ciekawego zjawiska zaobserwowanego w najbliższym otoczeniu (np. popularności piosenek na ogniskach lub tras, którymi koledzy chodzą do szkoły).\n• Potrafi użyć do sprawdzenia swojej hipotezy narzędzi badawczych (np. cyklicznej obserwacji lub ankiety)."
+  },
+  {
+    "checked": false,
+    "title":"Badacz **",
+    "image":"assets/images/badacz.jpg",
+    "description":
+    "• Umie określić cel w planowanym badaniu (np. ocena zadowolenia harcerzy z posiłków na ostatnim obozie lub atrakcyjności zajęć pozalekcyjnych dostępnych w szkole).\n• Potrafi zrealizować badanie odpowiadające na postawiony cel za pomocą przygotowanych przez siebie narzędzi badawczych (np. ankiety, eksperymentu lub serii wywiadów osobistych).\n• Potrafi wyciągnąć wnioski z przeprowadzonych badań.\n• W swojej pracy badawczej potrafi zachować obiektywizm (np. nie sugeruje odpowiedzi na zadawane przez siebie pytania)."
+  },
+  {
+    "checked": false,
+    "title":"Socjolog ***",
+    "image":"assets/images/socjolog.jpg",
+    "description":
+    "• Umie przygotować scenariusz i na jego podstawie przeprowadzić osobisty wywiad pogłębiony, a także wypisać wnioski z niego płynące.\n• Potrafi przygotować kwestionariusz do badania, unikając typowych błędów (np. sugerowania odpowiedzi, niejasnych pytań oraz nieprzemyślanej kolejności pytań). Umie przeprowadzić badanie ankietowe w wybranej formie (np. ankieta papierowa lub internetowa).\n• Na podstawie zebranych przez siebie danych potrafi zaobserwować ciekawe tendencje, wyciągnąć wnioski i przedstawić je w formie graficznej.\n• Umie zebrać opinie, wykorzystując odpowiednią formę (np. ankietę, pudełko na postulaty, plakat na wpisywanie pomysłów lub głosowanie przez stawianie kropek)."
+  },
+  {
+    "checked": false,
+    "title":"Moderator ***",
+    "image":"assets/images/moderator.jpg",
+    "description":
+    "• Potrafi przygotować scenariusz i materiały pomocnicze (np. dane statystyczne związane z tematem) a następnie przeprowadzić dyskusję moderowaną w gronie co najmniej 4 osób. Umie określić zasady spotkania (np. kolejność oraz czas wypowiedzi) i pilnować ich w czasie dyskusji.\n• Potrafi napisać sprawozdanie lub artykuł z przeprowadzonej dyskusji, uwzględniając w nim różne pojawiające się w niej punkty widzenia, problemy lub pomysły i zaplanowane rozwiązania.\n• Umie zadawać pytania otwarte, które mogą pomóc uczestnikom dyskusji w opisaniu ich pomysłów.\n• Posiada sprawność Rozjemcy** ze ścieżki „Komunikacja”."
+  },
+  {
+    "checked": false,
+    "title":"Biblista *",
+    "image":"assets/images/biblista.png",
+    "description":
+    "• Umie odnaleźć właściwy fragment Pisma Świętego na podstawie skrótów biblijnych (sigla).\n• Potrafi godnie odczytać fragment Pisma Świętego (np. podczas Mszy Świętej lub obchodów święta w domu)."
+
+  },
+  {
+    "checked": false,
+    "title":"Librysta **",
+    "image":"assets/images/librysta.png",
+    "description":
+    "• Umie poprawnie pod względem interpretacji, intonacji, odpowiednio stawianych akcentów zdaniowych, dykcji i emisji głosu, proklamować Słowo Boże.\n• Potrafi znaleźć i zaznaczyć odpowiednie czytania w lekcjonarzu i ewangeliarzu oraz przygotować potrzebne księgi liturgiczne do celebracji. Potrafi o nie zadbać z należytym szacunkiem tak w czasie liturgii, jak i poza nią.\n• Umie streścić wybrany fragment Pisma Świętego (np. przypowieść) i wytłumaczyć, jak go rozumie."
+
+  },
+  {
+    "checked": false,
+    "title":"Lektor ***",
+    "image":"assets/images/lektor.png",
+    "description":
+    "• Potrafi korzystać z różnych interpretacji i komentarzy do Pisma Świętego.\n• Umie przeprowadzić rozważania modlitewne lub dyskusję w oparciu o odpowiednio dobrane fragmenty Pisma Świętego."
+  },
+  {
+    "checked": false,
+    "title":"Chudy Jastrząb *",
+    "image":"assets/images/chudyJastrzab.png",
+    "description":
+    "• Umie spierać się z szacunkiem do rozmówcy w dyskusji na żywo i w Internecie. Potrafi wypowiadać się tak, by być dobrze zrozumianym i nie urazić innych.\n• Potrafi przedstawić konkretne argumenty potwierdzające jego zdanie lub opinię."
+
+  },
+  {
+    "checked": false,
+    "title":"Czarna Pantera **",
+    "image":"assets/images/czarnaPantera.png",
+    "description":
+    "• Umie zauważyć popełniane przez siebie lub innych błędy poznawcze (np. uprzedzenia, generalizowanie, myślenie czarnobiałe itd.) i potrafi wyjaśnić, na czym polegają i jak się ich wystrzegać.\n• Potrafi przedstawić różne racje i spojrzenia na tę samą sprawę oraz wyjaśnić jakie mogą być przyczyny różnych poglądów.\n• Umie ocenić i zweryfikować wiarygodność zasłyszanej informacji, konfrontując różne źródła."
+
+  },
+  {
+    "checked": false,
+    "title":"Stary Wilk ***",
+    "image":"assets/images/staryWilk.png",
+    "description":
+    "• Potrafi poprowadzić debatę, w której obowiązują określone zasady.\n• Umie przedstawić swoje racje, również w sytuacji kiedy są niepopularne w grupie.\n• Potrafi wysłuchać cudzych argumentów i zważyć różne racje w odniesieniu do zagadnień moralnych np. wynikających z Prawa Harcerskiego.\n• Posiada sprawność Rozjemcy** ze ścieżki „Komunikacja”."
+
+  },
+  {
+    "checked": false,
+    "title":"Ministrant *",
+    "image":"assets/images/ministrant.png",
+    "description":
+    "• Umie służyć do Mszy Świętej (m.in. obsłużyć dzwonki, ampułki, kielich)."
+
+  },
+  {
+    "checked": false,
+    "title":"Ministrant Ołtarza **",
+    "image":"assets/images/ministrantOltarza.png",
+    "description":
+    "• Potrafi wypełniać obowiązki asysty ministranckiej w trakcie uroczystej Mszy Świętej (m.in. obsłużyć trybularz, akolitki, ewangeliarz) oraz innych nabożeństw."
+
+  },
+  {
+    "checked": false,
+    "title":"Liturgista ***",
+    "image":"assets/images/liturgista.png",
+    "description":
+    "• Umie zorganizować uroczystą liturgię jako ceremoniarz i potrafi do niej służyć.\n• Umie zorganizować Mszę Świętą w warunkach polowych, aby zapewnić jej godne sprawowanie.\n• Zna nazwy ksiąg liturgicznych i wie kiedy się ich używa."
+
+  },
+  {
+    "checked": false,
+    "title":"Kamyk *",
+    "image":"assets/images/kamyk.png",
+    "description":
+    "• Umie zaplanować swój dzień tak, aby zrealizować swoje regularne obowiązki oraz mieć czas na przyjemności i odpoczynek.\n• Potrafi przez określony czas (np. dwóch tygodni) dotrzymać zobowiązania lub postanowienia (np. nowego obowiązku domowego lub systematycznych ćwiczeń)."
+
+  },
+  {
+    "checked": false,
+    "title":"Głaz **",
+    "image":"assets/images/glaz.png",
+    "description":
+    "• Umie na określony czas (np. miesiąc) zrezygnować z konkretnej przyjemności, żeby zrealizować postawiony sobie cel.\n• Potrafi zaplanować i przeprowadzić działanie, które zajmuje czas kilkunastu dni lub kilku tygodni (np. konieczna jest systematyczna codzienna praca przez 2 lub 3 tygodnie)."
+
+  },
+  {
+    "checked": false,
+    "title":"Skała ***",
+    "image":"assets/images/skala.png",
+    "description":
+    "• Potrafi wyrobić sobie nowy pożyteczny nawyk.\n• Umie wskazać swoje mocne i słabe strony oraz uwzględnić je w podejmowanych działaniach, aby jak najlepiej wykorzystać swój potencjał.\n• Potrafi wyznaczyć sobie realny do osiągnięcia cel, wspierający rozwój jednej z mocnych stron lub niwelujący jedną ze słabości, a następnie go zrealizować, wyznaczając konkretne zadania i terminy.\n• Umie właściwie ocenić swoje możliwości przy przyjmowaniu nowych zobowiązań tak, aby móc ich dotrzymywać bez zaniedbywania swoich dotychczasowych potrzeb i obowiązków."
+
+  },
+  {
+    "checked": false,
+    "title":"Iskra *",
+    "image":"assets/images/iskra.png",
+    "description":
+    "• Umie poprowadzić modlitwę zastępu lub drużyny w różnych sytuacjach (np. modlitwę przed posiłkiem, poranną i wieczorną)."
+
+  },
+  {
+    "checked": false,
+    "title":"Żagiew **",
+    "image":"assets/images/zagiew.png",
+    "description":
+    "• Zna różne rodzaje i formy modlitwy oraz potrafi ją animować w życiu drużyny.\n• Umie zapewnić odpowiednią oprawę do modlitwy, dbając o takie elementy jak miejsce, symbole, wystrój i muzyka."
+
+  },
+  {
+    "checked": false,
+    "title":"Łuczywo ***",
+    "image":"assets/images/luczywo.png",
+    "description":
+    "• Potrafi zorganizować wydarzenie związane z życiem religijnym w drużynie (np. czuwanie adwentowe, spotkanie wigilijne drużyny, drogę krzyżową) dbając przy tym o scenariusz, wykorzystanie obrzędów i element skupienia (rozważania i modlitwę)."
+
+  },
+  {
+    "checked": false,
+    "title":"Pielgrzym ***",
+    "image":"assets/images/pielgrzym.png",
+    "description":
+    "• Umie określić duchową intencję pielgrzymowania, dobierając odpowiednią trasę i cel.\n• Potrafi opowiedzieć innym pątnikom o znaczeniu religijnym i historii miejsca, będącego celem pielgrzymki.\n• Umie poprowadzić modlitwę różańcową.\n• Zna trzy piosenki, które da się wykonać w czasie marszu. Posiada sprawność Śpiewaka* ze ścieżki „Śpiew”.\n• Posiada sprawność Włóczęgi** ze ścieżki „Krajoznawstwo i wędrowanie” lub Cyklisty** ze ścieżki „Jazda na rowerze”."
+
+  },
+  {
+    "checked": false,
+    "title":"Sportowiec *",
+    "image":"assets/images/sportowiec.jpg",
+    "description":
+    "• Umie aktywnie uczestniczyć w rozgrywce wybranej gry zespołowej i stosować się do jej zasad.\n• Rozróżnia funkcje poszczególnych graczy i potrafi objąć różne role w zespole."
+  },
+  {
+    "checked": false,
+    "title":"Zawodnik **",
+    "image":"assets/images/zawodnik.jpg",
+    "description":
+    "• Umie grać na wybranej pozycji lub w wybranej roli w zespole stosując specjalistyczne techniki gry z nią związane (np. piąstkowanie bramkarza w piłce nożnej, krótki atak w siatkówce, rzut za 3 pkt w koszykówce).\n• Zna dokładnie zasady wybranego sportu zespołowego zgodne z międzynarodowym regulaminem.\n• Zawsze gra fair play i potrafi przekonać do tego innych członków zespołu.\n• Umie prawidłowo rozgrzać się wykonując kilka ćwiczeń przed rozgrywką."
+  },
+  {
+    "checked": false,
+    "title":"Trener ***",
+    "image":"assets/images/trener.jpg",
+    "description":
+    "• Umie przygotować zespół (np. zastęp) do zawodów sportowych: zaznajomić graczy z zasadami, ustalić i omówić strategię gry, przydzielić role i zadania, opracować i przeprowadzić plan treningowy (systematyczne spotkania, odpowiednie ćwiczenia itd.).\n• Potrafi przeprowadzić prawidłową rozgrzewkę zespołu.\n• Posiada sprawność Rozjemcy** ze ścieżki „Komunikacja”."
+  },
+  {
+    "checked": false,
+    "title":"Sędzia ***",
+    "image":"assets/images/sedzia.jpg",
+    "description":
+    "• Umie sędziować, zachowując bezstronność i nie przeszkadzając w rozgrywce.\n• Potrafi skoordynować pracę zespołu sędziowskiego (np. sędziów liniowych, pomocników i sekretarza).\n• Umie ocenić jakość i przygotowanie obiektu (np. sali gimnastycznej, boiska) do przeprowadzenia zawodów.\n• Posiada sprawność Rozjemcy** ze ścieżki „Komunikacja”."
+  },
+  {
+    "checked": false,
+    "title":"Organizator\nSportowy ***",
+    "image":"assets/images/organizatorSportowy.jpg",
+    "description":
+    "• Potrafi zorganizować i przeprowadzić rozgrywki w wybranej dyscyplinie sportu zespołowego: przygotować boisko i sprzęt sportowy, załogę sędziowską, nagrody, regulamin, zorganizować zapisy, podsumować wyniki itd.\n• Zna zasady działania lig i turniejów w swojej dyscyplinie sportowej (np. sposób wyłaniania drużyn w turniejach, zasady losowania grup, zasady poruszania się zawodników między ligą narodową a klubową lub okna transferowe).\n• Umie zadbać o bezpieczeństwo graczy i widzów podczas zawodów"
+  },
+  {
+    "checked": false,
+    "title":"Kijanka *",
+    "image":"assets/images/kijanka.jpg",
+    "description":
+    "• Potrafi przepłynąć bez przerwy dystans 100 m w wodzie stojącej lub dystans 200 m z nurtem.\n• Umie stabilnie utrzymywać się na powierzchni wody.\n• Potrafi skoczyć do wody z wysokości 0,5 m.\n• Umie wstrzymać oddech pod wodą przez 10 s."
+  },
+  {
+    "checked": false,
+    "title":"Pływak **",
+    "image":"assets/images/plywak.jpg",
+    "description":
+    "• Potrafi przepłynąć dystans 200 m w wodzie stojącej, w tym przynajmniej 50 m stylem grzbietowym, lub dystans 400 m z nurtem, w tym przynajmniej 100 m stylem grzbietowym.\n• Umie przepłynąć pod wodą dystans 5 m w wodzie stojącej lub 15 m z nurtem.\n• Potrafi bezpiecznie wskoczyć do wody z wysokości 0,7 m.\n• Umie przepłynąć 20 m w ubraniu.\n• Potrafi wyłowić z głębokości 2 m przedmiot wielkości menażki.\n• Umie wyjść z wody na łódkę lub ponton."
+  },
+  {
+    "checked": false,
+    "title":"Pływak Doskonały ***",
+    "image":"assets/images/plywakDoskonaly.jpg",
+    "description":
+    "• Potrafi przepłynąć w wodzie dystans 1000 m co najmniej dwoma stylami.\n• Umie przepłynąć 15 m pod wodą, a także zdjąć w wodzie ubranie: koszulę, spodnie i buty.\n• Potrafi wyznaczyć i przygotować bezpieczne kąpielisko (np. wyznaczyć granice, oczyścić dno) dla osób w różnym wieku.\n• Umie pływać z płetwami oraz maską i rurką oraz wyłowić z głębokości 3 m przedmiot wielkości menażki.\n• Potrafi posługiwać się kołem ratunkowym, rzutką, linką ratowniczą.\n• Umie udzielić pierwszej pomocy osobie podtopionej, posiada sprawność Sanitariusza** ze ścieżki „Samarytanka”."
+  },
+  {
+    "checked": false,
+    "title":"Delfin ***",
+    "image":"assets/images/delfin.jpg",
+    "description":
+    "• Potrafi przepłynąć 50 m w czasie nie dłuższym niż 45 s.\n• Umie poprawnie pływać co najmniej czterema stylami w tym stylem motylkowym (tzw. delfinem).\n• Potrafi przepłynąć w wodzie stojącej dystans 1500 m, płynąc co najmniej dwoma stylami, z czego przynajmniej 200 m stylem grzbietowym.\n• Umie wykonać bezpieczny skok do wody z wysokości 1 m.\n• Potrafi zanurkować na głębokość 3 m i przepłynąć 20 m pod wodą."
+  },
+  {
+    "checked": false,
+    "title":"Zjazd *",
+    "image":"assets/images/zjazd.jpg",
+    "description":
+    "• Umie przejechać na łagodnym stoku przynajmniej 15 m i w razie potrzeby bezpiecznie upaść.\n• Potrafi wstać po upadku, nie wypinając nart lub deski.\n• Umie samodzielnie przygotować się do aktywności na stoku: założyć wszystkie elementy stroju, zapiąć kask, założyć gogle, założyć buty i zapiąć je w wiązaniach.\n• Potrafi chodzić w butach narciarskich lub snowboardowych i odpowiednio przenosić sprzęt."
+  },
+  {
+    "checked": false,
+    "title":"Szus **",
+    "image":"assets/images/szus.jpg",
+    "description":
+    "• Umie bez wywrotki przejechać przynajmniej 100 m na stoku o małym nachyleniu (np. na trasie „niebieskiej”), wykonując przy tym płynne skręty w obie strony i omijając przeszkody.\n• Potrafi wjechać na stok przy pomocy wyciągu orczykowego lub krzesełkowego.\n• Potrafi zatrzymać się w wyznaczonym miejscu.\n• Umie utrzymać w trakcie jazdy poprawną pozycję narciarską lub snowboardową."
+  },
+  {
+    "checked": false,
+    "title":"Narciarz ***",
+    "image":"assets/images/narciarz.jpg",
+    "description":
+    "• Potrafi przejechać trudną trasę zjazdową (np. czerwoną) utrzymując poprawną pozycję, korzystając z technik takich jak jazda na krawędziach, skręt długi i krótki.\n• Umie sprawnie i poprawnie technicznie przejechać slalom wymagający co najmniej kilkunastu skrętów (np. ustawiony z kijków).\n• Potrafi przejechać 20 m na jednej narcie oraz 30 m tyłem do przodu.\n• Umie samodzielnie wykonać drobne prace przy nartach (np. wyregulować długość i siłę wypinania wiązań i naostrzyć krawędzie)."
+  },
+  {
+    "checked": false,
+    "title":"Snowboardzista ***",
+    "image":"assets/images/snowboardzista.jpg",
+    "description":
+    "• Potrafi przejechać trudną trasę zjazdową (np. czerwoną) utrzymując poprawną pozycję, korzystając z takich technik jak jazda na krawędzi i skręty cięte.\n• Umie jeździć z tylną nogą z przodu (tzw. switch) z zachowaniem poprawnej pozycji.\n• Potrafi przeskoczyć nad małą przeszkodą, taką jak mulda śniegu. Umie pokonać przeszkodę typu box.\n• Zna różne techniki jazdy na desce, wie jakie mają zastosowania i potrafi dopasować sprzęt do wybranej z nich."
+  },
+  {
+    "checked": false,
+    "title":"Fuks *",
+    "image":"assets/images/fuks.jpg",
+    "description":
+    "• Umie posługiwać się wiatrówką lub karabinkiem pneumatycznym, zgodnie z zasadami bezpieczeństwa. Umie wytłumaczyć zasady wynikające z rozwinięcia skrótu BLOS: broń, lufa, otoczenie, spust.\n• Strzelając z wiatrówki lub karabinku pneumatycznego potrafi trafić z odległości 10 m do celu o średnicy ok. 15 cm."
+  },
+  {
+    "checked": false,
+    "title":"Strzelec **",
+    "image":"assets/images/strzelec.jpg",
+    "description":
+    "• Potrafi posługiwać się bronią palną, wiatrówkami lub replikami broni, przestrzegając dodatkowych zasad bezpieczeństwa specyficznych dla danego rodzaju broni. Umie zastosować adekwatne środki ochrony oczu, słuchu, twarzy i ciała.\n• Potrafi celnie strzelać z wybranej broni (np. strzelając z wiatrówki z odległości 10 m do standardowej tarczy o średnicy 155,5 mm osiągnie wynik powyżej 70/100 punktów).\n• Potrafi obsługiwać, czyścić i konserwować replikę broni lub wiatrówkę.\n• Potrafi zorganizować bezpieczne miejsce do strzelania."
+  },
+  {
+    "checked": false,
+    "title":"Snajper ***",
+    "image":"assets/images/snajper.jpg",
+    "description":
+    "• Potrafi rozłożyć i złożyć karabin oraz pistolet i wytłumaczyć ich działanie.\n• Potrafi samodzielnie bezpiecznie obsługiwać broń palną, w tym zająć stanowisko, załadować, odbezpieczyć i ustawić przyrządy celownicze.\n• Potrafi naprawić drobne usterki i wyregulować replikę broni lub wiatrówkę (np. wyregulować przyrządy celownicze).\n• Umie strzelać w postawie leżącej, stojącej i klęczącej.\n• Potrafi udzielić pierwszej pomocy w przypadku ran postrzałowych, umie korzystać z wojskowej opaski uciskowej (tzw. stazy taktycznej). Posiada sprawność Sanitariusza** ze ścieżki „Samarytanka”."
+  },
+  {
+    "checked": false,
+    "title":"Truchcik *",
+    "image":"assets/images/truchcik.jpg",
+    "description":
+    "• Umie przygotować się do wysiłku poprzez prawidłową rozgrzewkę.\n• Potrafi przebiec bez przerwy dystans 1 km."
+  },
+  {
+    "checked": false,
+    "title":"Sprinter **",
+    "image":"assets/images/sprinter.jpg",
+    "description":
+    "• Umie przebiec dystans 100 m w czasie poniżej 16 s.\n• Umie przebiec bez przerwy dystans 2 km.\n• Potrafi wystartować do biegu ze startu niskiego i wysokiego.\n• Umie wykonać 5 ćwiczeń przydatnych w treningu siłowym dla biegacza."
+  },
+  {
+    "checked": false,
+    "title":"Biegacz ***",
+    "image":"assets/images/biegacz.jpg",
+    "description":
+    "• Potrafi pokonać dystans 5 km w czasie krótszym niż 25 min.\n• Umie przygotować swój organizm do konkretnego treningu, takiego jak trening siłowy, kondycyjny, wysokogórski, rozciąganie.\n• Potrafi obliczyć swoje tętno maksymalne, wie co to jest głód tlenowy.\n• Umie wykonać 10 ćwiczeń siłowych uzupełniających trening biegowy (np. skipy, przysiady, wykroki lub pajacyki).\n• Potrafi przygotować się do biegania w zależności od rodzaju terenu i typu treningu (np. dobrać odpowiednie obuwie)."
+  },
+  {
+    "checked": false,
+    "title":"Wioślarz *",
+    "image":"assets/images/wioslarz.jpg",
+    "description":
+    "• Umie wiosłować i wykonywać podstawowe manewry: skręcać, cofać i obracać się w miejscu.\n• Potrafi się odpowiednio przygotować i poradzić sobie podczas całodniowej wycieczki kajakowej lub na dystansie 10 km.\n• Umie wsiąść do kajaka z brzegu i z pomostu."
+  },
+  {
+    "checked": false,
+    "title":"Kajakarz **",
+    "image":"assets/images/kajakarz.jpg",
+    "description":
+    "• Umie przygotować się i poradzić sobie w czasie kilkudniowego spływu kajakowego, w tym zabezpieczyć bagaż przed przemoczeniem.\n• Potrafi pokonać przeszkody na rzece takie jak zwalone drzewa, płycizny, mosty, bystry nurt itp.\n• Umie wejść do kajaka z wody, nie wywracając go.\n• Potrafi poradzić sobie w razie wywrotki i wypadnięcia z kajaka.\n• Umie zacumować kajak we wskazanym miejscu, zadbać o sprzęt i go zabezpieczyć (np. wylać wodę z kajaka i go osuszyć).\n• Posiada sprawność Kijanki* ze ścieżki „Pływanie”."
+  },
+  {
+    "checked": false,
+    "title":"Kajakarz Doskonały ***",
+    "image":"assets/images/kajakarzDoskonaly.jpg",
+    "description":
+    "• Potrafi zaplanować i przeprowadzić kilkudniowy i kilkuosobowy spływ (zorganizować mapy, wyposażenie biwakowe, rozdział ekwipunku na kajaki, miejsca noclegowe itd.).\n• Umie dbać o bezpieczeństwo spływu w różnych warunkach terenowych, umie pełnić funkcję otwierającego spływ.\n• Potrafi pomóc załodze wywróconego kajaka, umie holować kajakarza na dziobie swojego kajaka.\n• Zna i stosuje przepisy dotyczące turystyki kajakowej.\n• Umie naprawić podstawowe uszkodzenia kajaka i wiosła.\n• Potrafi udzielić pierwszej pomocy osobie podtopionej, posiada sprawność Sanitariusza** ze ścieżki „Samarytanka”."
+  },
+  {
+    "checked": false,
+    "title":"Kajakarz Górski ***",
+    "image":"assets/images/kajakarzGorski.jpg",
+    "description":
+    "• Umie spłynąć jednoosobowym kajakiem z fartuchem rzeką z odcinkami górskimi.\n• Potrafi przygotować się do niebezpiecznego spływu (kask, odpowiedni ubiór, odpowiedni kajak itd.).\n• Potrafi zrobić eskimoskę i w razie potrzeby wyjść z kajaka z fartuchem w razie wywrotki.\n• Zna zasady spływania po rzece górskiej, wie jak zachować się w trudnych sytuacjach."
+  },
+  {
+    "checked": false,
+    "title":"Płoza *",
+    "image":"assets/images/ploza.jpg",
+    "description":
+    "• Umie stabilnie stać na łyżwach i jeździć do przodu po lodowisku bez asekuracji.\n• Potrafi odpowiednio dobrać rozmiar i prawidłowo ubrać się w łyżwy, tak aby uniknąć odcisków i otarć."
+  },
+  {
+    "checked": false,
+    "title":"Łyżwiarz **",
+    "image":"assets/images/lyzwiarz.jpg",
+    "description":
+    "• Umie jeździć tzw. przeplatanką oraz płynnie pokonać slalom.\n• Potrafi przejechać dystans równy 5 długościom pełnowymiarowego boiska bez żadnego upadku. Umie zmienić kierunek jazdy o 180 stopni wykonując łuk w lewo lub w prawo.\n• Potrafi zatrzymać się we wskazanym miejscu.\n• Po jeździe potrafi odpowiednio osuszyć i zadbać o łyżwy."
+  },
+  {
+    "checked": false,
+    "title":"Łyżwiarz Doskonały ***",
+    "image":"assets/images/lyzwiarzDoskonaly.jpg",
+    "description":
+    "• Umie płynnie (w ruchu) zmieniać styl z jazdy przodem na jazdę tyłem, a także przejechać dowolną odległość każdym z nich.\n• Potrafi jeździć przeplatanką zarówno przodem jak i tyłem.\n• Umie bez zatrzymania podnieść przedmiot z lodowiska (np. upuszczoną czapkę)\n• Potrafi hamować ślizgiem.\n• Umie ocenić czy łyżwy są właściwie naostrzone."
+  },
+  {
+    "checked": false,
+    "title":"Klama *",
+    "image":"assets/images/klama.jpg",
+    "description":
+    "• Umie poprawnie założyć uprząż, przywiązać się do liny węzłem „ósemka”, wspinać się z asekuracją górną („na wędkę”) z zachowaniem podstawowych zasad bezpieczeństwa, takich jak utrzymywanie kontaktu z asekurującym i wzajemna kontrola bezpieczeństwa przed rozpoczęciem wspinania.\n• Po osiągnięciu końcowego punktu drogi wspinaczkowej potrafi sprawnie i bezpiecznie zjechać na dół.\n• Umie przeprowadzić rozgrzewkę i rozciąganie przed oraz po wspinaczce."
+  },
+  {
+    "checked": false,
+    "title":"Oblak **",
+    "image":"assets/images/oblak.jpg",
+    "description":
+    "• Potrafi przeprowadzić asekurację górną z użyciem samoblokującego się przyrządu asekuracyjnego (np. grigri).\n• Umie wspinać się z asekuracją dolną, potrafi samodzielnie skompletować sprzęt przed tego rodzaju wspinaczką, m.in. policzyć potrzebne expressy i pętle.\n• Potrafi porównać trudność dróg wspinaczkowych, sprawdzając w przewodniku ich wycenę według dowolnej skali.\n• Umie dbać o sprzęt wspinaczkowy i dokonać jego przeglądu pod kątem bezpieczeństwa."
+  },
+  {
+    "checked": false,
+    "title":"Wspinacz ***",
+    "image":"assets/images/wspinacz.jpg",
+    "description":
+    "• Potrafi wspinać się zarówno na ściance wspinaczkowej, jak i w naturalnych skałach.\n• Podczas wspinaczki z asekuracją dolną umie samodzielnie dokonać przewiązania na końcowym punkcie drogi wspinaczkowej z wykorzystaniem dowolnej techniki autoasekuracji.\n• Potrafi przeprowadzić asekurację dolną z użyciem samoblokującego się przyrządu asekuracyjnego.\n• Umie wykonać samodzielny zjazd po linie z użyciem przyrządu asekuracyjnego.\n• Potrafi udzielić pierwszej pomocy w przypadku urazów typowych dla wspinaczy. Posiada sprawność Sanitariusza** ze ścieżki „Samarytanka”."
+  },
+  {
+    "checked": false,
+    "title":"Szotmen *",
+    "image":"assets/images/szotman.jpg",
+    "description":
+    "• Potrafi wykorzystywać podstawowe węzły żeglarskie, w tym: prosty, szotowy i cumowniczy.\n• Umie obsługiwać (wybierać, luzować, knagować) szoty i talie.\n• Potrafi posługiwać się pagajami i wykonywać prawidłowo polecenia sternika na pagaje.\n• Umie prawidłowo posługiwać się odbijaczami, bosakiem, a także nabrać wodę do wiadra podczas żeglugi.\n• Przestrzega zasad bezpieczeństwa na jachcie."
+  },
+  {
+    "checked": false,
+    "title":"Młodszy Sternik **",
+    "image":"assets/images/mlodszySternik.jpg",
+    "description":
+    "• Potrafi sterować na wiatr, na punkt i wg. kompasu, umie ostrzyć i odpadać, a także wykonywać wszelkie komendy na ster podczas manewrów.\n• Umie pokierować stawianiem, zrzucaniem i klarowaniem żagli.\n• Potrafi prawidłowo refować żagle, wie do czego służy czynność refowania.\n• Umie prawidłowo zacumować łódź, wydając właściwe komendy na cumy i szpringi."
+  },
+  {
+    "checked": false,
+    "title":"Sternik Manewrowy ***",
+    "image":"assets/images/sternikManewrowy.jpg",
+    "description":
+    "• Potrafi wykonać prawidłowo zwrot przez sztag i przez rufę, wydając właściwe komendy załodze.\n• Umie wykonać prawidłowo podejście oraz odejście od i do nabrzeża (pomostu) na żaglach wydając odpowiednie komendy załodze.\n• Potrafi pokierować jachtem (wykonać manewr) w trakcie alarmu „człowiek za burtą”.\n• Umie poprawnie stanąć na kotwicy i z niej zejść.\n• Potrafi dokonać przeglądu stanu jachtu (takielunek, kadłub, ster) przed i po pływaniu."
+  },
+  {
+    "checked": false,
+    "title":"Rowerzysta *",
+    "image":"assets/images/rowerzysta.jpg",
+    "description":
+    "• Potrafi przygotować rower i ekwipunek na jednodniową wyprawę rowerową.\n• Umie przejechać na rowerze 30 km w ciągu jednego dnia.\n• Potrafi wykonać przy rowerze drobne prace, takie jak smarowanie łańcucha, zamontowanie oświetlenia lub błotnika. Umie wymienić dętkę."
+  },
+  {
+    "checked": false,
+    "title":"Cyklista **",
+    "image":"assets/images/cyklista.jpg",
+    "description":
+    "• Potrafi przygotować się i poradzić sobie podczas kilkudniowej wyprawy rowerowej.\n• Umie samodzielnie wyregulować hamulce i przerzutki oraz wykonać prace takie jak zamontowanie bagażnika czy dokręcenie pedału.\n• Potrafi poruszać się rowerem zgodnie z przepisami ruchu drogowego."
+  },
+  {
+    "checked": false,
+    "title":"Kolarz ***",
+    "image":"assets/images/kolarz.jpg",
+    "description":
+    "• Umie przejechać na rowerze 100 km w ciągu jednego dnia.\n• Potrafi zaplanować kilkudniową wyprawę rowerową, umiejętnie dobierając potrzebny ekwipunek (np. namioty, narzędzia do naprawy rowerów, części zapasowe) i rozdzielając go między uczestników wyprawy.\n• Umie naprawić rower w trasie podczas wyprawy.\n• Potrafi udzielić pierwszej pomocy w przypadku urazów typowych dla rowerzystów. Posiada sprawność Sanitarusza** ze ścieżki „Samarytanka”."
+  },
+  {
+    "checked": false,
+    "title":"Kurier rowerowy ***",
+    "image":"assets/images/kurierRowerowy.jpg",
+    "description":
+    "• Potrafi efektywnie poruszać się rowerem po mieście stosując się do zasad ruchu drogowego, nie utrudniając poruszania się pieszym i samochodom.\n• Umie dobrać trasę przejazdu w taki sposób, aby jak najrzadziej się zatrzymywać i schodzić z roweru.\n• Potrafi dobrze oszacować czas przejazdu na zadanej trasie z uwzględnieniem warunków drogowych, pogodowych, pory dnia, kondycji i wytrzymałości sprzętu.\n• Umie samodzielnie złożyć rower.\n• Umie w bezpieczny i szybki sposób przewieźć na rowerze przesyłkę (np. pudło lub rulon)."
+  },
+  {
+    "checked": false,
+    "title":"Gibki *",
+    "image":"assets/images/gibki.jpg",
+    "description":
+    "• Umie sprawnie wykonać poprawny przewrót w przód i w tył oraz 15 pompek, 25 przysiadów i 20 brzuszków.\n• Potrafi zawisnąć na drążku przez 20 s na rękach oraz 10 s trzymając się wyłącznie nogami."
+  },
+  {
+    "checked": false,
+    "title":"Gimnastyk **",
+    "image":"assets/images/gimnatyk.jpg",
+    "description":
+    "• Umie podciągnąć się oburącz na drążku podchwytem i nachwytem.\n• Potrafi stabilnie stać na rękach, opierając nogi o ścianę.\n• Umie przeskoczyć przeszkodę sięgającą do pasa, opierając się o nią wyłącznie rękami.\n• Potrafi przejść kilka metrów po naciągniętej linie, trzymając się drugiej liny, lub po linie typu slackline.\n• Umie poprowadzić prawidłową rozgrzewkę, uwzględniając różne ćwiczenia i partie ciała."
+  },
+  {
+    "checked": false,
+    "title":"Akrobata ***",
+    "image":"assets/images/akrobata.jpg",
+    "description":
+    "• Potrafi na drążku zawisnąć przez 60 s, wykonać wymyk przodem oraz wejście siłowe (tzw. muscle up).\n• Umie bez podparcia nogami stabilnie ustać na rękach przez kilkanaście sekund.\n• Potrafi, stosując odpowiednią technikę, bezpiecznie wejść po linie na wysokość 4 m."
+  },
+  {
+    "checked": false,
+    "title":"Łazik *",
+    "image":"assets/images/lazik.jpg",
+    "description":
+    "• Umie odpowiednio się ubrać, skompletować ekwipunek i poradzić sobie podczas całodniowej wędrówki.\n• Potrafi opowiedzieć o poznanych w czasie wędrówki zabytkach lub osobliwościach przyrodniczych.\n• Na planie miasta lub mapie turystycznej umie wskazać ważne obiekty oznaczone w legendzie i do nich dotrzeć."
+  },
+  {
+    "checked": false,
+    "title":"Włóczęga **",
+    "image":"assets/images/wloczega.jpg",
+    "description":
+    "• Potrafi, posługując się mapą, odwiedzić wskazane miejsca i zdobyć informacje na temat ich historii, wartości kulturowych lub przyrodniczych.\n• Umie poprowadzić zastęp trasą wyznaczoną według mapy lub planu miasta.\n• Potrafi zaplanować podróż różnymi środkami komunikacji. Umie spośród różnych form podróżowania na zadanej trasie wybrać najszybszy, najtańszy lub najkrótszy wariant.\n• Potrafi spakować się na kilkudniową wędrówkę."
+  },
+  {
+    "checked": false,
+    "title":"Wskazidroga **",
+    "image":"assets/images/wskazidroga.jpg",
+    "description":
+    "• Korzystając z różnych źródeł (np. internetowe mapy, rozkłady jazdy) potrafi wskazać odpowiednio najkrótszą, najszybszą, najtańszą czy najwygodniejszą drogę we wskazane miejsce.\n• Doskonale zna swoją okolicę (np. miejscowość, dzielnicę), wie gdzie znajdują się w ważne i interesujące obiekty publiczne, takie jak teatr, kino, dom kultury, sklep, biblioteka, bank, dworzec czy kościół i potrafi szczegółowo opisać z pamięci jak do nich dotrzeć.\n• Potrafi opowiedzieć, skąd wzięła się nazwa rodzinnej miejscowości oraz narysować jej herb (jeśli miejscowość go posiada)."
+  },
+  {
+    "checked": false,
+    "title":"Wędrowiec ***",
+    "image":"assets/images/wedrowiec.jpg",
+    "description":
+    "Potrafi zaplanować i przeprowadzić kilkudniową wędrówkę w nieznanym regionie, obejmującą poznanie historii, zabytków kultury, etnografii lub wartości przyrodniczo-krajobrazowych.\n• Umie do przygotowania wędrówki wykorzystać różne źródła informacji (np. książki historyczne, przewodniki, informacje z Internetu).\n• Potrafi zorganizować zdalnie nocleg, posiłek i przewodnika po danym miejscu; umie rozliczyć wycieczkę.\n• Umie dobrać ekwipunek adekwatny do planowanej wyprawy."
+  },
+  {
+    "checked": false,
+    "title":"Wędrowiec Górski ***",
+    "image":"assets/images/wedrowiecGorski.jpg",
+    "description":
+    "• Potrafi zaplanować i przeprowadzić kilkudniową górską wędrówkę. Zna i stosuje zasady bezpieczeństwa w górach, m.in. zwraca uwagę na pogodę, prowiant, ubiór i samopoczucie zespołu.\n• Potrafi ocenić trudność szlaku oraz dobrać odpowiednią dla danej grupy trasę. Na podstawie przewyższenia i długości trasy umie oszacować czas marszu (np. przeliczając długość i przewyższenie na punkty GOT). Zna przepisy dotyczące poruszania się po górach powyżej 1000 m n.p.m.\n• Posiada sprawność Sanitariusza** ze ścieżki „Samarytanka”."
+  },
+  {
+    "checked": false,
+    "title":"Nartobiegacz ***",
+    "image":"assets/images/nartobiegacz.jpg",
+    "description":
+    "• Umie sprawnie poruszać się na nartach biegowych stylem klasycznym i łyżwowym. Potrafi poprawnie posługiwać się kijami i dobrać ich wysokość. Umie iść na nartach w kopnym śniegu, bez przetartego śladu.\n• Potrafi nie wypinając nart obrócić się w miejscu w trzech ruchach bez utraty równowagi. Jadąc na nartach z plecakiem umie utrzymać równowagę.\n• Potrafi zaplanować kilkudniową wędrówkę narciarską, skompletować potrzebny ekwipunek i poradzić sobie w jej trakcie.\n• Umie wykonać drobne prace serwisowe przy nartach (np. wymienić zepsute wiązanie lub nasmarować narty)."
+  },
+  {
+    "checked": false,
+    "title":"Przewodnik ***",
+    "image":"assets/images/przewodnik.jpg",
+    "description":
+    "• Potrafi zaplanować, zorganizować i przeprowadzić tematyczną wycieczkę po rodzinnym mieście lub regionie.\n• Zna w swoim mieście lub regionie 10 miejsc, które warto odwiedzić, i umie o nich opowiedzieć.\n• Potrafi znaleźć w dostępnych źródłach (np. w internecie, książkach lub przewodnikach) informacje poszerzające jego wiedzę na temat miasta lub regionu.\n• Posiada sprawność Gawędziarza** ze ścieżki „Aktorstwo i teatr”."
+  },
+    {
+      "checked": false,
+      "title":"Trzy Pióra",
+      "image":"assets/images/trzyPiora.jpg",
+      "description":
+      "Trzy próby przed Tobą, a każda z nich trwa dobę.\n\nPierwszej doby zachowasz całkowite milczenie. W drugiej powstrzymasz się od spożywania pokarmu i napojów, z wyjątkiem czystej wody. Trzecią spędzisz w samotności, niepostrzeżony przez innych, obserwując życie lasu.\n\nTrzy pióra przyniesiesz po trzeciej próbie i złożysz je przed radą w kręgu ogniskowym.\n\n\nPrzydatne sprawności: Rosomak***, Włóczykij***."
+    },
+    {
+      "checked": false,
+      "title":"Szczwany Lis",
+      "image":"assets/images/szczwanyLis.jpg",
+      "description":
+      "Weź paczkę zapałek jaką dał Ci drużynowy i za 12 godzin wróć do obozowiska pojazdem. Pieniędzy wydać nie możesz. Prawa nie złamiesz. Spryt i zaradność są Twoją bronią.\n\nPamiętaj: niech efekt będzie powodem uznania a nie śmieszności tylko!\n\n\nPrzydatne sprawności: *** z dziedziny „Nauka i kultura” albo „Sztuka i technika”."
+    },
+    {
+      "checked": false,
+      "title":"Łowca",
+      "image":"assets/images/lowca.jpg",
+      "description":
+      "Łowcą ten tylko mienić się może, kto potrafi dzikiego zwierza przechytrzyć. Dowiedź sprytu i umiejętności, robiąc zdjęcie leśnej lub bagiennej bestii.\n\nDowodem będzie tylko zdjęcie które pozwoli na bezsporne rozpoznanie gatunku – co w kręgu ogniskowym gromady ogłoszone wszem zostanie. Pamiętaj, łowcą nie zostanie ten, co z przypadku lub w towarzystwie przewodnika zadanie wykona, ani ten, co pospolitego stwora obaczy. Przygotuj się dobrze. Masz 24 godziny, nie więcej!\n\n\nPrzydatne sprawności: Znawca Zwierzyny***, Fotografik***."
+    },
+    {
+      "checked": false,
+      "title":"Korona Gór",
+      "image":"assets/images/koronaGor.jpg",
+      "description":
+      "Sudety, a w nich Góry Złote, Sowie, Orlickie i surowe Karkonosze. Wśród Karpackich pasm Beskidy: Żywiecki, Sądecki i Śląski a i wiele innych. Słynne Gorce, malownicze Pieniny i grozę budzące Tatry. Zdobędziesz dziesięć szczytów korony Polski o wysokości ponad 1000 m n.p.m.\n\nPierwszy szczyt zdobędziesz przed zachodem słońca. Dziesiąty przed upływem 6 miesięcy.\n\n\nPrzydatne sprawności: Wędrowiec Górski***, Ratownik***, Mistrz Orientacji***"
+    },
+    {
+      "checked": false,
+      "title":"Dromader",
+      "image":"assets/images/dromader.jpg",
+      "description":
+      "Przejdziesz pieszo 100 km. W 24 godziny zdążysz. Nic więcej. Przygotuj się dobrze i pamiętaj że to głowa Cię prowadzi, a nie nogi niosą.\n\n\nPrzydatne sprawności: Wędrowiec***, Ratownik***."
+    },
+    {
+      "checked": false,
+      "title":"Maratończyk",
+      "image":"assets/images/maratonczyk.jpg",
+      "description":
+      "Przebiegniesz 42 195 m. W jednym biegu. Masz 6 miesięcy od dziś.\n\n\nPrzydatne sprawności:***Biegacz."
+    },
+    {
+      "checked": false,
+      "title":"Asceta",
+      "image":"assets/images/asceta.jpg",
+      "description":
+      "Na 40 dni podejmiesz się trudu wyrzeczenia wybranej przyjemności lub rozrywki. Zwalcz pokusę, by wybrać to co łatwe. Czas, środki lub energię jakie zachowasz, przeznaczysz na pożyteczny cel. Tylko Ty umiesz ocenić, czy będzie to dla Ciebie trudna próba czy prosta, a jej kształt zachowaj w tajemnicy z drużynowym. Pamiętaj: proste próby to czasu strata!\n\n\nPrzydatne sprawności: *** ze ścieżki „Ogień Ducha” i „Dzielność”."
+    },
+    {
+      "checked": false,
+      "title":"Camino",
+      "image":"assets/images/camino.jpg",
+      "description":
+      "Spakuj plecak na wiele dni, ale weź tylko to co niezbędne. Zaopatrz się w poręczny kostur i mapę. Ruszaj na szlak znaczony muszlami – jak pątnik sprzed tysiąclecia – na Camino de Santiago. Przebędziesz 200 kilometrów pieszo lub 500 rowerem, a skończysz przy grobie Św. Jakuba.\n\nTo nie droga jest trudnością, to trudności są drogą.\n\n\nPrzydatne sprawności: Wędrowciec***, Wędrowiec Górski***, Pielgrzym***"
+    },
+    {
+      "checked": false,
+      "title":"Spec",
+      "image":"assets/images/spec.jpg",
+      "description":
+      "Zanim mistrzem uczeń się stanie – niezbędną praktykę posiąść musi na terminie. Wybrałeś profesję, którą parać się będziesz? A może masz do czegoś smykałkę lub pasjami to uprawiasz? Oprawa obrazów, betonowanie lub naprawa skrzyni biegów – to umiejętności, których nie nauczysz się z podręcznika.\n\nZnajdziesz Mistrza który przyjmie Cię na naukę. Pamiętaj, tylko taka, która 100 godzin przynajmniej trwać będzie i fachowego doświadczenia Ci przyda, pozwoli tytułować się specem. To zaś odpowiednim listem Mistrza poświadczone być musi.\n\n\nPrzydatne sprawności: *** z dziedziny „Sztuka i technika” i „Nauka i kultura”."
+    },
+    {
+      "checked": false,
+      "title":"Viral",
+      "image":"assets/images/viral.jpg",
+      "description":
+      "Filmik stworzyć potrafi każdy. Stworzyć filmik, który ma odsłony liczone w tysiącach, umie tylko lepszy szprync. Stworzyć film, który oglądają tysiące, ale jego treść jest prawdziwie harcerska – to prawdziwy mistrz! Stwórz film z przesłaniem harcerskim, który będzie miał 100 tysięcy odsłon!\n\n\nPrzydatne sprawności: *** ze ścieżki „Film i Kino”."
+    },
+    {
+      "checked": false,
+      "title":"Wieszcz",
+      "image":"assets/images/wieszcz.jpg",
+      "description":
+      "Słowo – jest czynu testamentem; czego się nie może czynem dopiąć, to się w słowie testuje – przekazuje; takie tylko słowa są potrzebne i takie tylko zmartwychwstają czynem – wszelkie inne są mniej lub więcej uczoną frazeologią albo mechaniczną koniecznością, jeżeli nie rzeczą samej sztuki.\n\nCyprian K. Norwid, „Promethidion”\n\n\nOpublikuj swój utwór w prasie lub książce.\n\nUważaj, tylko dzieło drukiem wydane liczyć się będzie!\n\n\nPrzydatne sprawności: *** ze ścieżki „Literatura”."
+    }
+  ]

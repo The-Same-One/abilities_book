@@ -1,0 +1,34 @@
+[
+	{
+		"checked": false,
+		"title":"Iskra *",
+		"image":"assets/images/iskra.png",
+		"description":
+			"• Umie poprowadzić modlitwę zastępu lub drużyny w różnych sytuacjach (np. modlitwę przed posiłkiem, poranną i wieczorną)."
+		
+	},
+	{
+		"checked": false,
+		"title":"Żagiew **",
+		"image":"assets/images/zagiew.png",
+		"description": 
+			"• Zna różne rodzaje i formy modlitwy oraz potrafi ją animować w życiu drużyny.\n• Umie zapewnić odpowiednią oprawę do modlitwy, dbając o takie elementy jak miejsce, symbole, wystrój i muzyka."
+		
+	},
+	{
+		"checked": false,
+		"title":"Łuczywo ***",
+		"image":"assets/images/luczywo.png",
+		"description":
+			"• Potrafi zorganizować wydarzenie związane z życiem religijnym w drużynie (np. czuwanie adwentowe, spotkanie wigilijne drużyny, drogę krzyżową) dbając przy tym o scenariusz, wykorzystanie obrzędów i element skupienia (rozważania i modlitwę)."
+		
+	},
+	{
+		"checked": false,
+		"title":"Pielgrzym ***",
+		"image":"assets/images/pielgrzym.png",
+		"description":
+			"• Umie określić duchową intencję pielgrzymowania, dobierając odpowiednią trasę i cel.\n• Potrafi opowiedzieć innym pątnikom o znaczeniu religijnym i historii miejsca, będącego celem pielgrzymki.\n• Umie poprowadzić modlitwę różańcową.\n• Zna trzy piosenki, które da się wykonać w czasie marszu. Posiada sprawność Śpiewaka* ze ścieżki „Śpiew”.\n• Posiada sprawność Włóczęgi** ze ścieżki „Krajoznawstwo i wędrowanie” lub Cyklisty** ze ścieżki „Jazda na rowerze”."
+		
+	}
+]

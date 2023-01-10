@@ -1,0 +1,67 @@
+[
+	{
+		"title":"ROZPALANIE OGNIA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/campingAbi/fireAbilities.json"
+	},
+	{
+		"title":"ORIENTACJA W TERENIE",
+		"image":"assets/images/lilijka.png",
+        "category": "data/campingAbi/orientationAbilities.json"
+	},
+	{
+		"title":"SAMARYTANKA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/campingAbi/healthAbilities.json"
+	},
+    {
+		"title":"MUSZTRA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/campingAbi/musztraAbilities.json"
+	},
+    {
+		"title":"ŁĄCZNOŚĆ",
+		"image":"assets/images/lilijka.png",
+        "category": "data/campingAbi/comunicationAbilities.json"
+	},
+    {
+		"title":"BIWAKOWANIE",
+		"image":"assets/images/lilijka.png",
+        "category": "data/campingAbi/campingAbilities.json"
+	},
+	{
+		"title":"KWATERMISTRZOSTWO",
+		"image":"assets/images/lilijka.png",
+        "category": "data/campingAbi/kwatermistrzAbilities.json"
+	},
+	{
+		"title":"OBOZOWNICTWO",
+		"image":"assets/images/lilijka.png",
+        "category": "data/campingAbi/campAbilities.json"
+	},
+    {
+		"title":"PODCHODY I ZWIADY",
+		"image":"assets/images/lilijka.png",
+        "category": "data/campingAbi/podchodyAbilities.json"
+	},
+    {
+		"title":"BEZPIECZEŃSTWO OBOZOWE",
+		"image":"assets/images/lilijka.png",
+        "category": "data/campingAbi/campSecurityAbilities.json"
+	},
+	{
+		"title":"TROPIENIE ZWIERZĄT",
+		"image":"assets/images/lilijka.png",
+        "category": "data/campingAbi/animalHuntingAbilities.json"
+	},
+	{
+		"title":"ZIELARSTWO",
+		"image":"assets/images/lilijka.png",
+        "category": "data/campingAbi/herbsAbilities.json"
+	},
+    {
+		"title":"PUSZCZAŃSTWO",
+		"image":"assets/images/lilijka.png",
+        "category": "data/campingAbi/puszczAbilities.json"
+	}
+]

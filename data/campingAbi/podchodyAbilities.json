@@ -1,0 +1,30 @@
+[
+	{
+		"checked": false,
+		"title":"Lekka Stopa *",
+		"image":"assets/images/lekkaStopa.jpg",
+		"description":
+        "• Umie poruszać się bezszelestnie w różnych warunkach terenowych.\n• Potrafi sprawnie pokonać różne przeszkody (np. wejść na drzewo, przeskoczyć rów o szerokości 1,5 m, przejść przez ogrodzenie).\n• Umie zapamiętać przebytą drogę i samodzielnie nią powrócić."
+    },
+	{
+		"checked": false,
+		"title":"Tropiciel **",
+		"image":"assets/images/tropiciel.jpg",
+		"description":
+        "• Potrafi zamaskować się w terenie tak, by pozostać niezauważonym.\n• Potrafi posprzątać i zamaskować miejsce odpoczynku lub biwaku, by nie zostawić po sobie śladów.\n• Bezbłędnie rozpoznaje znaki patrolowe stosowane w drużynie, umie je wykorzystać do oznakowania trasy.\n• Potrafi z pamięci wykonać szkic przebytej trasy i opisać wygląd napotkanych osób.\n• Na podstawie śladów ludzkiej bytności umie wywnioskować możliwie dużo informacji (np. kierunek marszu i szacunkową liczbę osób lub czas biwaku i działania jego uczestników)."
+    },
+	{
+		"checked": false,
+		"title":"Zwiadowca ***",
+		"image":"assets/images/zwiadowca.jpg",
+		"description":
+        "• Potrafi zdobywać informacje za pomocą różnych technik wywiadowczych, takich jak rozmowa, obserwacja, śledzenie, badanie śladów, analiza map i dokumentów.\n• Potrafi zorientować się, gdy jest śledzony. Umie zmylić pościg.\n• Umie zlokalizować obiekt w terenie, kierując się jedynie orientacyjnymi wskazówkami na jego temat (np. potrafi odnaleźć obóz harcerski dysponując jedynie nazwą miejscowości, w której się on znajduje).\n• Potrafi z pamięci lub na podstawie obserwacji z ukrycia stworzyć szkic strzeżonego terenu lub obiektu (np. obozu).\n• Potrafi zwięźle i precyzyjnie przekazać zdobyte informacje. Umie to zrobić różnymi sposobami, w tym za pomocą szkicu, zaszyfrowanego meldunku i znaków patrolowych.\n• Posiada sprawność Terenoznawcy** ze ścieżki „Terenoznawstwo”."
+    },
+    {
+		"checked": false,
+		"title":"Nieuczwytny ***",
+		"image":"assets/images/nieuchwytny.jpg",
+		"description":
+        "• Potrafi w dzień i w nocy trafić do wyznaczonego miejsca na podstawie pobieżnego szkicu lub zapamiętanej trasy, bez użycia narzędzi nawigacyjnych i mapy.\n• Potrafi skrycie podejść strzeżony teren lub obiekt, a następnie wycofać się niepostrzeżenie, nie pozostawiając po sobie śladów. Umie wykorzystać uzyskane zawczasu informacje do zaplanowania podchodów.\n• Zauważony przez wartownika potrafi postąpić honorowo.\n• Posiada sprawność Wartownika** ze ścieżki „Bezpieczeństwo obozowe” i Terenoznawcy** ze ścieżki „Terenoznawstwo”."
+    }
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"checked": false,
+		"title":"Chatka Robinsona *",
+		"image":"assets/images/chatkaRobinsona.jpg",
+		"description":
+        "• Potrafi poradzić sobie w czasie 24 godzinnej wyprawy zastępu do lasu, bez namiotu lub innego gotowego zadaszenia.\n• Potrafi zabezpieczyć prowiant i swój ekwipunek na czas bytowania w lesie (np. przed deszczem, zwierzętami)."
+    },
+	{
+		"checked": false,
+		"title":"Leśny Człowiek **",
+		"image":"assets/images/lesnyCzlowiek.jpg",
+		"description":
+        "• Potrafi zbudować szałas pozwalający na przetrwanie deszczowej nocy i spędzić w nim noc.\n• Umie zamaskować ślady swojego pobytu.\n• Posiada sprawność Przyrodnika* ze ścieżki „Zielarstwo”."
+    },
+	{
+		"checked": false,
+		"title":"Rosomak ***",
+		"image":"assets/images/rosomak.jpg",
+		"description":
+        "• Potrafi w terenie pozyskać wodę zdatną do picia.\n• Potrafi przygotować ciepły posiłek mając do dyspozycji jedynie nóż, zapałki i butelkę wody.\n• Potrafi z surowców naturalnych samodzielnie wytworzyć użyteczne narzędzie lub element ekwipunku biwakowego (np. naczynie na wodę, kosz pleciony, linę).\n• Potrafi bytować w lesie w sposób niezauważalny dla osób postronnych.\n• Posiada sprawność Botanika** ze ścieżki „Zielarstwo” oraz Tropiciela Zwierzyny** ze ścieżki „Tropienie zwierząt”."
+    }
+]

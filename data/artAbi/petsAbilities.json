@@ -1,0 +1,31 @@
+[
+	{
+		"checked": false,
+		"title":"Opiekun Zwierząt *",
+		"image":"assets/images/opiekunZwierzat.jpg",
+		"description":
+            "• Umie samodzielnie wykonać czynności związane z codzienną opieką nad zwierzęciem, takie jak karmienie, czesanie, wyprowadzanie na spacer, czyszczenie kuwety."
+	},
+	{
+		"checked": false,
+		"title":"Hodowca **",
+		"image":"assets/images/hodowca.jpg",
+		"description":
+        "• Potrafi samodzielnie zaopiekować się zwierzęciem przez kilka tygodni: właściwie odmierzyć, przygotować i podać karmę, dbać o czystość i higienę itd.\n• Umie wykonać skomplikowaną czynność związaną z regularną opieką nad zwierzęciem (np. przyciąć szpony, wykąpać lub wyczyścić akwarium).\n• Potrafi opisać, jak tryb życia zwierzęcia (np. pory czuwania i odpoczynku, sposób zdobywania pokarmu i środowisko bytowania) wpływa na opiekę nad nim."
+	},
+	{
+		"checked": false,
+		"title":"Mistrz Chowu ***",
+		"image":"assets/images/mistrzChowu.jpg",
+		"description":
+        "• Umie wykonywać wszystkie czynności wiążące się ze stałą opieką nad zwierzęciem, zgodnie z wymogami gatunku i rasy. Potrafi posługiwać się kalendarzem szczepień, zna przepisy prawa związane z danym gatunkiem. Wie, jaki stan wskazuje na problemy zdrowotne.\n• Potrafi przewieźć duże zwierzę (np. psa, kota lub dużego szczura) komunikacją zbiorową zgodnie z przepisami prawa.\n• Umie rozróżnić kilka podgatunków lub ras zwierzęcia którym się stale opiekuje lub gatunku którym się interesuje.\n• Potrafi podać kilka przykładów korzyści z hodowli różnych zwierząt i umie powiedzieć, jakie warunki należy im zapewnić.\n• Umie wykonać czynności związane z hodowlą dwóch gatunków zwierząt gospodarskich (np. wydoić krowę, wyczesać konia, ostrzyc owcę lub nakarmić świnię)."
+	},
+    {
+		"checked": false,
+		"title":"Akwarysta/\nTerrarysta ***",
+		"image":"assets/images/akwarysta.jpg",
+		"description":
+        "• Potrafi dobrać gatunki ryb i roślin do akwarium, aby utrzymywać jego bioróżnorodność przez dłuższy czas albo potrafi właściwie przygotować terrarium dla hodowanych gadów, płazów, owadów lub pajęczaków, aby odtworzyć biotop charakterystyczny dla gatunku.\n• Potrafi sprawdzić i kontrolować parametry w akwarium lub terrarium: umie wyjaśnić jakie parametry powinien spełniać mikroklimat dla hodowanego gatunku.\n• Umie wyczyścić akwarium lub terrarium.\n• Zna przepisy dotyczące hodowli gadów, płazów i pajęczaków w Polsce, wie jak sprawdzić jakie warunki powinny być zapewnione dla zwierząt bytujących w terrariach, umie opisać te, których spełnienie jest niezbędne dla gatunków które hoduje."
+        
+	}
+]

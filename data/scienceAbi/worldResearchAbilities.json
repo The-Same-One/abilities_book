@@ -1,0 +1,30 @@
+[
+	{
+		"checked": false,
+		"title":"Poszukiwacz *",
+		"image":"assets/images/poszukiwacz.jpg",
+		"description":
+        "• Umie znaleźć prawdopodobną przyczynę ciekawego zjawiska zaobserwowanego w najbliższym otoczeniu (np. popularności piosenek na ogniskach lub tras, którymi koledzy chodzą do szkoły).\n• Potrafi użyć do sprawdzenia swojej hipotezy narzędzi badawczych (np. cyklicznej obserwacji lub ankiety)."
+    },
+	{
+		"checked": false,
+		"title":"Badacz **",
+		"image":"assets/images/badacz.jpg",
+		"description":
+        "• Umie określić cel w planowanym badaniu (np. ocena zadowolenia harcerzy z posiłków na ostatnim obozie lub atrakcyjności zajęć pozalekcyjnych dostępnych w szkole).\n• Potrafi zrealizować badanie odpowiadające na postawiony cel za pomocą przygotowanych przez siebie narzędzi badawczych (np. ankiety, eksperymentu lub serii wywiadów osobistych).\n• Potrafi wyciągnąć wnioski z przeprowadzonych badań.\n• W swojej pracy badawczej potrafi zachować obiektywizm (np. nie sugeruje odpowiedzi na zadawane przez siebie pytania)."
+    },
+	{
+		"checked": false,
+		"title":"Socjolog ***",
+		"image":"assets/images/socjolog.jpg",
+		"description":
+        "• Umie przygotować scenariusz i na jego podstawie przeprowadzić osobisty wywiad pogłębiony, a także wypisać wnioski z niego płynące.\n• Potrafi przygotować kwestionariusz do badania, unikając typowych błędów (np. sugerowania odpowiedzi, niejasnych pytań oraz nieprzemyślanej kolejności pytań). Umie przeprowadzić badanie ankietowe w wybranej formie (np. ankieta papierowa lub internetowa).\n• Na podstawie zebranych przez siebie danych potrafi zaobserwować ciekawe tendencje, wyciągnąć wnioski i przedstawić je w formie graficznej.\n• Umie zebrać opinie, wykorzystując odpowiednią formę (np. ankietę, pudełko na postulaty, plakat na wpisywanie pomysłów lub głosowanie przez stawianie kropek)."
+    },
+    {
+		"checked": false,
+		"title":"Moderator ***",
+		"image":"assets/images/moderator.jpg",
+		"description":
+        "• Potrafi przygotować scenariusz i materiały pomocnicze (np. dane statystyczne związane z tematem) a następnie przeprowadzić dyskusję moderowaną w gronie co najmniej 4 osób. Umie określić zasady spotkania (np. kolejność oraz czas wypowiedzi) i pilnować ich w czasie dyskusji.\n• Potrafi napisać sprawozdanie lub artykuł z przeprowadzonej dyskusji, uwzględniając w nim różne pojawiające się w niej punkty widzenia, problemy lub pomysły i zaplanowane rozwiązania.\n• Umie zadawać pytania otwarte, które mogą pomóc uczestnikom dyskusji w opisaniu ich pomysłów.\n• Posiada sprawność Rozjemcy** ze ścieżki „Komunikacja”."
+	}
+]

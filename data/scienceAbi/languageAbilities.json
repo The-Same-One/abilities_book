@@ -1,0 +1,23 @@
+[
+	{
+		"checked": false,
+		"title":"Rozmówka *",
+		"image":"assets/images/rozmowka.jpg",
+		"description":
+        "• Potrafi załatwić kilka spraw w obcym języku, np. dogadać się w sklepie, zapytać o drogę.\n• Umie w obcym języku krótko opowiedzieć o sobie i o wydarzeniu, w którym uczestniczył (np. ostatniej zbiórce drużyny, wycieczce klasowej)."
+    },
+	{
+		"checked": false,
+		"title":"Tłumacz **",
+		"image":"assets/images/tlumacz.jpg",
+		"description":
+        "• Umie porozmawiać w języku obcym na kilka tematów (np. szkoła, zainteresowania, wakacje czy miejscowość z której pochodzi).\n• Potrafi zrozumieć obcojęzyczny film z napisami w danym języku.\n• Umie pisemnie porozumieć się w języku obcym, np. pisząc komentarze na internetowym forum.\n• Potrafi czytać ze zrozumieniem krótkie teksty w obcym języku, np. artykuły z interesującej go dziedziny lub wpisy na blogach."
+    },
+	{
+		"checked": false,
+		"title":"Lingwista ***",
+		"image":"assets/images/lingwista.jpg",
+		"description":
+        "• Umie przeprowadzić prezentację w języku obcym (np. oprowadzić obcokrajowców po swoim mieście albo zaprezentować klasie lub drużynie swoje hobby).\n• Potrafi ze zrozumieniem przeczytać tekst w języku obcym (np. opowiadanie czy krótką książkę).\n• Potrafi napisać w języku obcym tekst, taki jak relacja z obozu lub artykuł na interesujący go temat.\n• Rozumie i potrafi korzystać z wyrażeń potocznych, slangu i wyrażeń specjalistycznych w interesującej go dziedzinie (np. oglądając i komentując vlogi czy teksty związane z jego zainteresowaniami)."
+    }
+]

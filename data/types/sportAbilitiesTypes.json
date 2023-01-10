@@ -1,0 +1,62 @@
+[
+	{
+		"title":"KRAJOZNAWSTWO\nI WĘDROWANIE",
+		"image":"assets/images/lilijka.png",
+        "category": "data/sportAbi/travelingAbilities.json"
+	},
+	{
+		"title":"JEZDA NA ROWERZE",
+		"image":"assets/images/lilijka.png",
+        "category": "data/sportAbi/bikeAbilities.json"
+	},
+	{
+		"title":"PŁYWANIE",
+		"image":"assets/images/lilijka.png",
+        "category": "data/sportAbi/swimmingAbilities.json"
+	},
+    {
+		"title":"KAJAKARSTWO",
+		"image":"assets/images/lilijka.png",
+        "category": "data/sportAbi/kayakAbilities.json"
+	},
+    {
+		"title":"ŻEGLARSTWO",
+		"image":"assets/images/lilijka.png",
+        "category": "data/sportAbi/boatAbilities.json"
+	},
+    {
+		"title":"SPORTY ZESPOŁOWE",
+		"image":"assets/images/lilijka.png",
+        "category": "data/sportAbi/teamSportsAbilities.json"
+	},
+	{
+		"title":"BIEGANIE",
+		"image":"assets/images/lilijka.png",
+        "category": "data/sportAbi/runningAbilities.json"
+	},
+	{
+		"title":"AKROBATYKA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/sportAbi/acrobaticAbilities.json"
+	},
+    {
+		"title":"WSPINACZKA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/sportAbi/climbingAbilities.json"
+	},
+    {
+		"title":"NARTY I SNOWBOARD",
+		"image":"assets/images/lilijka.png",
+        "category": "data/sportAbi/skiingAbilities.json"
+	},
+	{
+		"title":"ŁYŻWIARSTWO",
+		"image":"assets/images/lilijka.png",
+        "category": "data/sportAbi/iceskatingAbilities.json"
+	},
+	{
+		"title":"STRZELECTWO",
+		"image":"assets/images/lilijka.png",
+        "category": "data/sportAbi/shootingAbilities.json"
+	}
+]

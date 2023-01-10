@@ -1,0 +1,52 @@
+[
+	{
+		"title":"NAUKA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/scienceAbi/scienceAbilities.json"
+	},
+	{
+		"title":"OBSERWACJA NIEBA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/scienceAbi/skyObservationAbilities.json"
+	},
+	{
+		"title":"BADANIE ŚWIATA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/scienceAbi/worldResearchAbilities.json"
+	},
+    {
+		"title":"KRONIKARSTWO I HISTORIA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/scienceAbi/historyAbilities.json"
+	},
+    {
+		"title":"LITERATURA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/scienceAbi/literatureAbilities.json"
+	},
+    {
+		"title":"LINGWISTYKA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/scienceAbi/languageAbilities.json"
+	},
+	{
+		"title":"KOMUNIKACJA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/scienceAbi/comunicationAbilities.json"
+	},
+	{
+		"title":"OBYWATELSTWO",
+		"image":"assets/images/lilijka.png",
+        "category": "data/scienceAbi/citizenAbilities.json"
+	},
+    {
+		"title":"KOLEKCJONERSTWO",
+		"image":"assets/images/lilijka.png",
+        "category": "data/scienceAbi/colectionaryAbilities.json"
+	},
+    {
+		"title":"GRY",
+		"image":"assets/images/lilijka.png",
+        "category": "data/scienceAbi/gameAbilities.json"
+	}
+]

@@ -1,0 +1,37 @@
+[
+	{
+		"checked": false,
+		"title":"Sobieradek Obozowy *",
+		"image":"assets/images/sobieradekObozowy.jpg",
+		"description":
+        "• Potrafi sprawnie posługiwać się narzędziami pionierskimi: młotkiem, toporkiem i piłą. Umie zabezpieczyć je po skończonej pracy.\n• Umie zaprojektować i wykonać drobny przedmiot pionierki obozowej (np. drogowskaz, wieszak lub ławkę).\n• Potrafi wyregulować odciągi i podwinąć poły w namiocie dziesięcioosobowym."
+    },
+	{
+		"checked": false,
+		"title":"Technik Obozowy **",
+		"image":"assets/images/technikObozowy.jpg",
+		"description":
+        "• Umie zaprojektować oraz pokierować wykonaniem pomysłowego i estetycznego urządzenia obozowego (np. bramy, latryny lub pionierki w namiocie).\n• Umie pokierować rozstawieniem namiotu dziesięcioosobowego."
+    },
+    {
+		"checked": false,
+		"title":"Zdobnik **",
+		"image":"assets/images/zdobnik.jpg",
+		"description":
+        "• Umie samodzielnie wykonać prosty totem lub inny element zdobnictwa obozowego z wykorzystaniem materiałów znalezionych w terenie.• Posiada sprawność Plastyka* ze ścieżki „Rzemiosło plastyczne”."
+    },
+	{
+		"checked": false,
+		"title":"Wyga Obozowy ***",
+		"image":"assets/images/wygaObozowy.jpg",
+		"description":
+        "• Potrafi zaprojektować i pokierować budową dużego urządzenia obozowego (np. pomostu, zadaszenia kuchni, stołówki, elektrowni solarnej, pieca lub wieży ciśnień).\n• Umie sprawnie pokierować rozstawieniem namiotów według określonego planu (np. w kręgu, w kwadracie lub szeregu).\n• Potrafi pracować używając do pomiarów jedynie sznurka i własnego ciała."
+    },
+    {
+		"checked": false,
+		"title":"Mistrz Zdobnictwa ***",
+		"image":"assets/images/mistrzZdobnictwa.jpg",
+		"description":
+        "• Umie wykonać totem przedstawiający w rozpoznawalny sposób charakterystyczne zwierzę lub konkretną postać, z wykorzystaniem materiałów znalezionych w terenie.\n• Umie opracować dokładny projekt plastyczny i na jego podstawie wykonać samodzielnie trwały element zdobniczy (np. proporzec, rzeźbioną buławę, herb, inny element obrzędowy).\n• Potrafi stosować różne puszczańskie techniki zdobnicze takie jak wyplatanie, rzeźbienie, opalanie."
+    }
+]

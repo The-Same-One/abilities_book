@@ -1,0 +1,23 @@
+[
+	{
+		"checked": false,
+		"title":"Szotmen *",
+		"image":"assets/images/szotman.jpg",
+		"description":
+        "• Potrafi wykorzystywać podstawowe węzły żeglarskie, w tym: prosty, szotowy i cumowniczy.\n• Umie obsługiwać (wybierać, luzować, knagować) szoty i talie.\n• Potrafi posługiwać się pagajami i wykonywać prawidłowo polecenia sternika na pagaje.\n• Umie prawidłowo posługiwać się odbijaczami, bosakiem, a także nabrać wodę do wiadra podczas żeglugi.\n• Przestrzega zasad bezpieczeństwa na jachcie."
+    },
+	{
+		"checked": false,
+		"title":"Młodszy Sternik **",
+		"image":"assets/images/mlodszySternik.jpg",
+		"description":
+        "• Potrafi sterować na wiatr, na punkt i wg. kompasu, umie ostrzyć i odpadać, a także wykonywać wszelkie komendy na ster podczas manewrów.\n• Umie pokierować stawianiem, zrzucaniem i klarowaniem żagli.\n• Potrafi prawidłowo refować żagle, wie do czego służy czynność refowania.\n• Umie prawidłowo zacumować łódź, wydając właściwe komendy na cumy i szpringi."
+    },
+	{
+		"checked": false,
+		"title":"Sternik Manewrowy ***",
+		"image":"assets/images/sternikManewrowy.jpg",
+		"description":
+        "• Potrafi wykonać prawidłowo zwrot przez sztag i przez rufę, wydając właściwe komendy załodze.\n• Umie wykonać prawidłowo podejście oraz odejście od i do nabrzeża (pomostu) na żaglach wydając odpowiednie komendy załodze.\n• Potrafi pokierować jachtem (wykonać manewr) w trakcie alarmu „człowiek za burtą”.\n• Umie poprawnie stanąć na kotwicy i z niej zejść.\n• Potrafi dokonać przeglądu stanu jachtu (takielunek, kadłub, ster) przed i po pływaniu."
+    }
+]

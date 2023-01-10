@@ -1,0 +1,26 @@
+[
+	{
+		"checked": false,
+		"title":"Chudy Jastrząb *",
+		"image":"assets/images/chudyJastrzab.png",
+		"description":
+			"• Umie spierać się z szacunkiem do rozmówcy w dyskusji na żywo i w Internecie. Potrafi wypowiadać się tak, by być dobrze zrozumianym i nie urazić innych.\n• Potrafi przedstawić konkretne argumenty potwierdzające jego zdanie lub opinię."
+		
+	},
+	{
+		"checked": false,
+		"title":"Czarna Pantera **",
+		"image":"assets/images/czarnaPantera.png",
+		"description": 
+			"• Umie zauważyć popełniane przez siebie lub innych błędy poznawcze (np. uprzedzenia, generalizowanie, myślenie czarnobiałe itd.) i potrafi wyjaśnić, na czym polegają i jak się ich wystrzegać.\n• Potrafi przedstawić różne racje i spojrzenia na tę samą sprawę oraz wyjaśnić jakie mogą być przyczyny różnych poglądów.\n• Umie ocenić i zweryfikować wiarygodność zasłyszanej informacji, konfrontując różne źródła."
+		
+	},
+	{
+		"checked": false,
+		"title":"Stary Wilk ***",
+		"image":"assets/images/staryWilk.png",
+		"description":
+			"• Potrafi poprowadzić debatę, w której obowiązują określone zasady.\n• Umie przedstawić swoje racje, również w sytuacji kiedy są niepopularne w grupie.\n• Potrafi wysłuchać cudzych argumentów i zważyć różne racje w odniesieniu do zagadnień moralnych np. wynikających z Prawa Harcerskiego.\n• Posiada sprawność Rozjemcy** ze ścieżki „Komunikacja”."
+		
+	}
+]

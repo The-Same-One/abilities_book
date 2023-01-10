@@ -1,0 +1,51 @@
+[
+	{
+		"checked": false,
+		"title":"Eksperymentator *",
+		"image":"assets/images/eksperymentator.jpg",
+		"description":
+            "• Umie przeprowadzić ciekawy eksperyment naukowy i pokazać go kolegom (np. harcerzom z zastępu)."
+    },
+	{
+		"checked": false,
+		"title":"Fizyk **",
+		"image":"assets/images/fizyk.jpg",
+		"description":
+            "• Potrafi w eksperymencie zademonstrować jedno z praw fizycznych (np. prawo Archimedesa, zasadę zachowania pędu lub wytwarzanie pola magnetycznego przez prąd elektryczny).\n• Umie podać praktyczne przykłady, gdzie to prawo ma zastosowanie."
+    },
+    {
+		"checked": false,
+		"title":"Chemik **",
+		"image":"assets/images/chemik.jpg",
+		"description":
+            "• Umie w bezpieczny sposób przeprowadzić reakcję chemiczną (np. mieszanie sody oczyszczonej z octem lub spalanie cukru).\n• Potrafi wskazać praktyczne zastosowania tej reakcji."
+    },
+    {
+		"checked": false,
+		"title":"Biolog **",
+		"image":"assets/images/biolog.jpg",
+		"description":
+            "• Potrafi przeprowadzić eksperyment, żeby zademonstrować wybrane zjawisko ze świata bakterii, grzybów, roślin lub zwierząt (np. wpływ temperatury i wilgotności na pleśnienie jedzenia albo zjawisko osmozy).\n• Umie zaprezentować wnioski z przeprowadzonego eksperymentu."
+    },
+	{
+		"checked": false,
+		"title":"Newton ***",
+		"image":"assets/images/newton.jpg",
+		"description":
+            "• Potrafi samodzielnie zaplanować i przeprowadzić eksperyment, żeby potwierdzić jedno z praw fizycznych (np. prawo Ohma lub drugą zasadę dynamiki) albo zmierzyć wartość jakiejś stałej fizycznej (np. prędkości dźwięku lub przyspieszenia ziemskiego).\n• Umie przeanalizować wyniki doświadczenia oraz wytłumaczyć ewentualną niezgodność wyników z teorią.\n• Potrafi ocenić niepewność wykonywanych pomiarów."
+    },
+    {
+		"checked": false,
+		"title":"Mendelejew ***",
+		"image":"assets/images/mendelejew.jpg",
+		"description":
+        "• Umie w warunkach domowych lub polowych wytworzyć substancję (np. atrament sympatyczny lub mydło) albo przeprowadzić eksperyment chemiczny (np. węże faraona z sody i cukru) samodzielnie dobierając składniki w odpowiednich proporcjach, przygotowując i przeprowadzając cały proces.\n• Potrafi wyjaśnić przebieg doświadczenia, wskazać jakie reakcje chemiczne miały miejsce i zapisać ich równania.\n• W czasie pracy umie zastosować zasady bezpieczeństwa. Zna sposoby oznakowania substancji niebezpiecznych."
+	},
+    {
+		"checked": false,
+		"title":"Linneusz ***",
+		"image":"assets/images/linneusz.jpg",
+		"description":
+            "• Potrafi zaplanować eksperyment z dziedziny biologii: wyznaczyć cel, sformułować hipotezę, przygotować potrzebne materiały i składniki. Przykładowo: wpływ różnych czynników (np. wilgotności, światła lub obecności osobników innych gatunków) na kiełkowanie nasion albo wpływ mydlin na wzrost roślin lądowych i wodnych.\n• Umie przeprowadzić zaplanowany eksperyment zgodnie z wymogami rzetelnej pracy naukowej: m.in. minimum 20 powtórzeń w próbie (np. 20 nasion hodowanych w tych samych warunkach), porównanie z próbą kontrolną.\n• Potrafi przeprowadzić analizę statystyczną otrzymanych wyników, wyciągnąć z nich wnioski i zaprezentować je w czytelnej postaci (np. wykresu).\n• Umie obsługiwać mikroskop optyczny i wykorzystać go do obserwowania przygotowanych przez siebie preparatów, takich jak skórka cebuli, liść, pyłki lub włosy."
+    }
+]

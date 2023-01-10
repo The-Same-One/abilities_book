@@ -1,0 +1,66 @@
+[
+	{
+		"checked": false,
+		"title":"Muzykant *",
+		"image":"assets/images/muzykant.jpg",
+		"description":
+			"• Potrafi zagrać na wybranym instrumencie dwie piosenki, melodie lub rytmy, a także zagrać i nazwać kilka akordów lub dźwięków.\n• Umie przygotować instrument do grania (np. złożyć lub nastroić przy pomocy stroika) oraz odpowiednio go zabezpieczyć (np. na czas transportu)."
+        
+	},
+	{
+		"checked": false,
+		"title":"Instrumentalista **",
+		"image":"assets/images/instrumentalista.jpg",
+		"description": 
+			"• Potrafi na podstawie zapisu (np. nutowego lub tabulaturowego) samodzielnie nauczyć się grać wybrany utwór.\n• Umie grać w kilkuosobowym zespole, trzymając wspólny rytm i tonację.\n• Potrafi dbać o instrument i go konserwować. Jeśli instrument wymaga częstego strojenia, umie to robić."
+		
+	},
+    {
+		"checked": false,
+		"title":"Akompaniator **",
+		"image":"assets/images/akompaniator.jpg",
+		"description": 
+			"• Umie akompaniować do 5 piosenek, stosując różne techniki gry i ozdobniki.\n• Potrafi zaśpiewać do własnego akompaniamentu i ocenić, czy śpiewany utwór jest w dobrej tonacji dla grupy.\n• Umie dbać o instrument i go konserwować. Jeśli instrument wymaga częstego strojenia, potrafi to robić."
+		
+	},
+    {
+		"checked": false,
+		"title":"Bębniarz **",
+		"image":"assets/images/bebniarz.jpg",
+		"description": 
+			"• Umie zagrać na instrumencie perkusyjnym wybrany rytm na podstawie zapisu nutowego. Potrafi powtórzyć kilkutaktowy rytm zagrany przez kogoś innego.\n• Umie stosować różne rodzaje artykulacji dźwięku na instrumentach perkusyjnych, w tym tremolo.\n• Potrafi akompaniować rytmicznie do kilku piosenek. Umie w zespole nadać odpowiednie tempo i utrzymać je (tj. nie przyspieszać ani zwalniać, jeśli nie jest to przewidziane)."
+		
+	},
+	{
+		"checked": false,
+		"title":"Wirtuoz ***",
+		"image":"assets/images/wirtuoz.jpg",
+		"description":
+            "• Potrafi przygotować się i wystąpić przed publicznością.\n• Umie zagrać 3 utwory, każdy o innym charakterze, wymagające kilku różnych technik gry.\n• Potrafi zagrać melodię z nut a vista.\n• Ma swojego ulubionego kompozytora którego utwory umie zinterpretować. Potrafi opowiedzieć, dlaczego ceni konkretnych wykonawców i jakie techniki gry go inspirują."
+        
+	},
+    {
+		"checked": false,
+		"title":"Improwizator ***",
+		"image":"assets/images/improwizator.jpg",
+		"description":
+            "• Umie improwizować do akompaniamentu.\n• Potrafi wymyślić i zagrać własną melodię (np. do istniejącego tekstu).\n• Umie ułożyć i zagrać solo melodię w wybranej skali (np. bluesowej).\n• Potrafi poruszać się po pentatonice i dwóch innych skalach (np. modalnych)."
+        
+	},
+    {
+		"checked": false,
+		"title":"Człowiek Orkiestra ***",
+		"image":"assets/images/czlowiekOrkiestra.jpg",
+		"description":
+            "• Umie zaplanować i poprowadzić akompaniament instrumentalny podczas ogniska lub śpiewanek. Potrafi poprowadzić grupę kilku akompaniatorów.\n• Potrafi dobrać technikę gry do nastroju piosenki.\n• Umie ze słuchu ułożyć akompaniament do piosenki.\n• Zna zasady budowy akordów, umie wymyślić jak zagrać na instrumencie dowolny akord.\n• Zna podstawowe zależności harmoniczne między akordami, potrafi znaleźć tonację równoległą (molową lub durową), a także przetransponować akordy z jednej tonacji do drugiej."
+        
+	},
+    {
+		"checked": false,
+		"title":"Perkusista ***",
+		"image":"assets/images/perkusista.jpg",
+		"description":
+            "• Umie na zestawie perkusyjnym improwizować do utworów w wybranym stylu muzycznym, takim jak rock, jazz, metal, R’n’B lub reggae.\n• Potrafi wyjaśnić różnice między różnymi stylami muzyki popularnej (np. rockiem, jazzem, metalem, reggae, r’n’b) oraz w jaki sposób przekłada się to na grę na zestawie (dobór instrumentów, pałeczek, rytmów, styl gry).\n• Zna poszczególne elementy perkusji, potrafi je nazwać i opisać ich funkcje. Umie rozstawić i złożyć zestaw perkusyjny (lub podłączyć zestaw padów perkusji elektronicznej) i dopasować ułożenie instrumentów do swoich potrzeb. W razie potrzeby potrafi go wygłuszyć.\n• Potrafi wskazać wybitnego perkusistę, ulubione utwory i techniki gry, które go inspirują."
+        
+	}
+]

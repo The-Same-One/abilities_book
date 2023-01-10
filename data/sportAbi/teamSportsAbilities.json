@@ -1,0 +1,37 @@
+[
+	{
+		"checked": false,
+		"title":"Sportowiec *",
+		"image":"assets/images/sportowiec.jpg",
+		"description":
+        "• Umie aktywnie uczestniczyć w rozgrywce wybranej gry zespołowej i stosować się do jej zasad.\n• Rozróżnia funkcje poszczególnych graczy i potrafi objąć różne role w zespole."
+    },
+	{
+		"checked": false,
+		"title":"Zawodnik **",
+		"image":"assets/images/zawodnik.jpg",
+		"description":
+        "• Umie grać na wybranej pozycji lub w wybranej roli w zespole stosując specjalistyczne techniki gry z nią związane (np. piąstkowanie bramkarza w piłce nożnej, krótki atak w siatkówce, rzut za 3 pkt w koszykówce).\n• Zna dokładnie zasady wybranego sportu zespołowego zgodne z międzynarodowym regulaminem.\n• Zawsze gra fair play i potrafi przekonać do tego innych członków zespołu.\n• Umie prawidłowo rozgrzać się wykonując kilka ćwiczeń przed rozgrywką."
+    },
+	{
+		"checked": false,
+		"title":"Trener ***",
+		"image":"assets/images/trener.jpg",
+		"description":
+        "• Umie przygotować zespół (np. zastęp) do zawodów sportowych: zaznajomić graczy z zasadami, ustalić i omówić strategię gry, przydzielić role i zadania, opracować i przeprowadzić plan treningowy (systematyczne spotkania, odpowiednie ćwiczenia itd.).\n• Potrafi przeprowadzić prawidłową rozgrzewkę zespołu.\n• Posiada sprawność Rozjemcy** ze ścieżki „Komunikacja”."        
+    },
+    {
+		"checked": false,
+		"title":"Sędzia ***",
+		"image":"assets/images/sedzia.jpg",
+		"description":
+        "• Umie sędziować, zachowując bezstronność i nie przeszkadzając w rozgrywce.\n• Potrafi skoordynować pracę zespołu sędziowskiego (np. sędziów liniowych, pomocników i sekretarza).\n• Umie ocenić jakość i przygotowanie obiektu (np. sali gimnastycznej, boiska) do przeprowadzenia zawodów.\n• Posiada sprawność Rozjemcy** ze ścieżki „Komunikacja”."
+    },
+    {
+		"checked": false,
+		"title":"Organizator\nSportowy ***",
+		"image":"assets/images/organizatorSportowy.jpg",
+		"description":
+        "• Potrafi zorganizować i przeprowadzić rozgrywki w wybranej dyscyplinie sportu zespołowego: przygotować boisko i sprzęt sportowy, załogę sędziowską, nagrody, regulamin, zorganizować zapisy, podsumować wyniki itd.\n• Zna zasady działania lig i turniejów w swojej dyscyplinie sportowej (np. sposób wyłaniania drużyn w turniejach, zasady losowania grup, zasady poruszania się zawodników między ligą narodową a klubową lub okna transferowe).\n• Umie zadbać o bezpieczeństwo graczy i widzów podczas zawodów"
+    }
+]

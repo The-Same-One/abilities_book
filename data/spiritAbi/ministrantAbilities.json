@@ -1,0 +1,26 @@
+[
+	{
+		"checked": false,
+		"title":"Ministrant *",
+		"image":"assets/images/ministrant.png",
+		"description":
+			"• Umie służyć do Mszy Świętej (m.in. obsłużyć dzwonki, ampułki, kielich)."
+		
+	},
+	{
+		"checked": false,
+		"title":"Ministrant Ołtarza **",
+		"image":"assets/images/ministrantOltarza.png",
+		"description": 
+			"• Potrafi wypełniać obowiązki asysty ministranckiej w trakcie uroczystej Mszy Świętej (m.in. obsłużyć trybularz, akolitki, ewangeliarz) oraz innych nabożeństw."
+		
+	},
+	{
+		"checked": false,
+		"title":"Liturgista ***",
+		"image":"assets/images/liturgista.png",
+		"description":
+			"• Umie zorganizować uroczystą liturgię jako ceremoniarz i potrafi do niej służyć.\n• Umie zorganizować Mszę Świętą w warunkach polowych, aby zapewnić jej godne sprawowanie.\n• Zna nazwy ksiąg liturgicznych i wie kiedy się ich używa."
+		
+	}
+]

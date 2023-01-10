@@ -1,0 +1,26 @@
+[
+	{
+		"checked": false,
+		"title":"Biblista *",
+		"image":"assets/images/biblista.png",
+		"description":
+			"• Umie odnaleźć właściwy fragment Pisma Świętego na podstawie skrótów biblijnych (sigla).\n• Potrafi godnie odczytać fragment Pisma Świętego (np. podczas Mszy Świętej lub obchodów święta w domu)."
+		
+	},
+	{
+		"checked": false,
+		"title":"Librysta **",
+		"image":"assets/images/librysta.png",
+		"description": 
+			"• Umie poprawnie pod względem interpretacji, intonacji, odpowiednio stawianych akcentów zdaniowych, dykcji i emisji głosu, proklamować Słowo Boże.\n• Potrafi znaleźć i zaznaczyć odpowiednie czytania w lekcjonarzu i ewangeliarzu oraz przygotować potrzebne księgi liturgiczne do celebracji. Potrafi o nie zadbać z należytym szacunkiem tak w czasie liturgii, jak i poza nią.\n• Umie streścić wybrany fragment Pisma Świętego (np. przypowieść) i wytłumaczyć, jak go rozumie."
+		
+	},
+	{
+		"checked": false,
+		"title":"Lektor ***",
+		"image":"assets/images/lektor.png",
+		"description":
+			"• Potrafi korzystać z różnych interpretacji i komentarzy do Pisma Świętego.\n• Umie przeprowadzić rozważania modlitewne lub dyskusję w oparciu o odpowiednio dobrane fragmenty Pisma Świętego."
+		
+	}
+]

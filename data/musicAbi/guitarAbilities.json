@@ -1,0 +1,26 @@
+[
+	{
+		"checked": false,
+		"title":"Szarpidrut *",
+		"image":"assets/images/szarpidrut.jpg",
+		"description":
+			"• Potrafi zagrać na gitarze 2 piosenki. Umie zagrać i nazwać 5 akordów.\n• Potrafi nastroić gitarę (np. przy pomocy stroika) oraz bezpiecznie ją przechowywać."
+		
+	},
+	{
+		"checked": false,
+		"title":"Grajek **",
+		"image":"assets/images/grajek.jpg",
+		"description": 
+			"• Umie akompaniować na gitarze do 5 piosenek.\n• Potrafi chwytać akordy barowe oraz płynnie przechodzić między akordami.\n• Umie zaśpiewać do własnego akompaniamentu. Potrafi ocenić czy śpiewany utwór jest w dobrej tonacji dla grupy.\n• Przy użyciu podanego dźwięku (np. z kamertonu) umie nastroić gitarę ze słuchu.\n• Potrafi założyć struny w gitarze."
+		
+	},
+	{
+		"checked": false,
+		"title":"Gitarzysta ***",
+		"image":"assets/images/gitarzysta.jpg",
+		"description":
+			"• Umie poprowadzić muzycznie ognisko lub śpiewanki, nawet wrazie braku śpiewnika z akordami. Potrafi poprowadzić grupę kilku akompaniatorów.\n• Umie dobrać technikę gry do nastroju piosenki. Potrafi zastosować różne techniki lewej i prawej ręki (np. ozdobniki, legato, różne rodzaje bicia, tremolo).\n• Zna zasady budowy akordów. Umie wymyślić, jak zagrać na gitarze dowolny akord i potrafi przetransponować akordy z jednej tonacji do drugiej.\n• Potrafi ze słuchu dobrać akordy do piosenki."
+		
+	}
+]

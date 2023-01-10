@@ -1,0 +1,37 @@
+[
+	{
+		"checked": false,
+		"title":"Mistrz musztry *",
+		"image":"assets/images/mistrzMusztry.jpg",
+		"description":
+        "• Umie prawidłowo wykonać wszystkie komendy musztry harcerskiej w czasie zbiórki, apelu i przemarszu.\n• Potrafi zadbać o wygląd i czystość swojego munduru, a także wytłumaczyć symbolikę jego elementów.\n• Potrafi stawić się na zbiórkę alarmową w wyznaczonym czasie."
+    },
+	{
+		"checked": false,
+		"title":"Chorąży **",
+		"image":"assets/images/chorazy.jpg",
+		"description":
+        "• Umie poruszać się i wykonywać chwyty sztandarem lub proporcem zgodnie z regulaminem musztry.\n• Potrafi bezpiecznie przechowywać i zadbać o proporzec lub sztandar, zarówno w warunkach polowych, jak i w harcówce lub w domu.\n• Umie wyjaśnić symbolikę proporca lub sztandaru, który mu powierzono."        
+    },
+	{
+		"checked": false,
+		"title":"Dowódca ***",
+		"image":"assets/images/dowodca.jpg",
+		"description":
+        "• Potrafi poprowadzić apel drużyny zgodnie z regulaminem musztry.\n• Umie dowodzić drużyną podczas przemarszu, uroczystości lub pokazu musztry.\n• Potrafi sprawnie zwołać i opanować drużynę w czasie paniki lub zamieszania.\n• Umie zaplanować i zorganizować udział sztandaru w przemarszu lub uroczystości."
+    },
+    {
+		"checked": false,
+		"title":"Dobosz ***",
+		"image":"assets/images/dobosz.jpg",
+		"description":
+        "• Potrafi dobrać i nadać kolumnie odpowiednie tempo wybijając rytm na instrumencie perkusyjnym w marszu.\n• Potrafi poprowadzić asystę perkusyjną, wybijając odpowiedni rytm na wejście pocztu sztandarowego, złożenie wieńca i apel poległych.\n• Posiada sprawność Muzykanta* ze ścieżki „Gra na instrumentach”."
+    },
+    {
+		"checked": false,
+		"title":"Trębacz ***",
+		"image":"assets/images/trebacz.jpg",
+		"description":
+        "• Zna i umie zagrać kilka sygnałów Wojska Polskiego np. Pobudkę, Baczność, Spocznij, Hasło Wojska Polskiego.\n• Potrafi zastosować odpowiednie sygnały do kierowania drużyną.\n• Posiada sprawność Muzykanta* ze ścieżki „Gra na instrumentach”."
+    }
+]

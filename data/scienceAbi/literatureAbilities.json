@@ -1,0 +1,44 @@
+[
+	{
+		"checked": false,
+		"title":"Pióro *",
+		"image":"assets/images/pioro.jpg",
+		"description":
+        "• Umie napisać krótką historyjkę, komiks lub wierszyk albo przerobić tekst piosenki, zachowując zasady poprawnej pisowni.\n• Potrafi przygotować swój tekst do prezentacji innym (np. w gazetce, na tablicy obozowej lub stronie internetowej)."
+    },
+	{
+		"checked": false,
+		"title":"Pisarz **",
+		"image":"assets/images/pisarz.jpg",
+		"description":
+        "• Umie napisać utwór w wybranej przez siebie formie literackiej na podstawie inspiracji (np. wiersz na podstawie zdjęcia, opowiadanie na podstawie obrazu lub piosenki) albo przerobić lub uzupełnić istniejącą historię (np. napisać alternatywne zakończenie książki, opisać dalsze losy bohatera lub rozwinąć epizod).\n• Potrafi stosować trójpodział narracji (wstęp, rozwinięcie i zakończenie) w swoich utworach literackich (np. opowiadaniach, felietonach).\n• Umie przy pomocy słowników sprawdzić tekst pod kątem ortograficznym, gramatycznym, stylistycznym i językowym."        
+    },
+	{
+		"checked": false,
+		"title":"Poeta ***",
+		"image":"assets/images/poeta.jpg",
+		"description":
+        "• Potrafi napisać wiersz lub piosenkę na zadany temat, świadomie wykorzystując różne środki stylistyczne, takie jak metafora, parafraza, onomatopeja itp., w celu wywołania konkretnych emocji u odbiorcy.\n• Umie zaimprowizować kilkuwersową formę poetycką (np. haiku lub limeryk).\n• Potrafi napisać wiersz w narzuconej formie, uwzględniając rytmikę, układ zwrotek i rymów (np. tekst piosenki do istniejącej melodii lub klasyczną formę poetycką, taką jak sonet).\n• Zna twórczość wybranych poetów i umie opisać konkretne stosowane przez nich zabiegi stylistyczne, które mu się podobają.\n• Potrafi rozróżnić i scharakteryzować kilka lirycznych gatunków literackich, takich jak elegia, fraszka, hymn, oda, pieśń, sonet, tren czy psalm."
+    },
+    {
+		"checked": false,
+		"title":"Powieściopisarz ***",
+		"image":"assets/images/powiesciopisarz.jpg",
+		"description":
+        "• Umie stworzyć opowieść z wieloma wątkami i postaciami w wybranej konwencji literackiej (np. detektywistyczną, fantasy lub science-fiction).\n• Potrafi wykreować i opisać atrakcyjny i przekonujący świat przedstawiony, wypełniony bohaterami o określonych cechach i motywacjach.\n• Umie pisać dialogi między postaciami tak, aby wynikał z niego styl i sposób wypowiedzi charakterystyczny dla każdej z nich.\n• Potrafi wskazać kilku pisarzy, którzy go inspirują, i opisać konkretne, stosowane przez nich zabiegi stylistyczne, które mu się podobają.\n• Umie rozróżnić i scharakteryzować kilka epickich i dramatycznych gatunków literackich, takich jak nowela, opowiadanie, powieść, bajka, komedia lub tragedia."
+	},
+    {
+		"checked": false,
+		"title":"Popularyzator ***",
+		"image":"assets/images/popularyzator.jpg",
+		"description":
+        "• Potrafi napisać porywający a jednocześnie rzetelny artykuł popularnonaukowy na temat, który go interesuje.\n• Umie zweryfikować prawdziwość informacji z dziedziny, którą się interesuje, a także ocenić i potwierdzić wiarygodność źródeł, z których korzysta.\n• Potrafi przygotować swój artykuł do publikacji (np. w gazetce szkolnej): opatrzyć przypisami, podać bibliografię, sprawdzić terminologię.\n• Umie wskazać cenione przez siebie wydawnictwa lub portale popularyzatorskie i uargumentować, dlaczego uważa je za wartościowe.\n• Posiada sprawność ** w dziedzinie, którą popularyzuje."
+    },
+    {
+		"checked": false,
+		"title":"Scenarzysta ***",
+		"image":"assets/images/scenarzysta.jpg",
+		"description":
+        "• Umie przygotować scenariusz adaptowany bądź oryginalny, zawierający opisy scen, dialogi i didaskalia, na którym może oprzeć się praca ekipy filmowej bądź teatralnej.\n• Potrafi stworzyć narrację, w której bohaterowie wchodzą w różnego rodzaju konflikty (np. wewnętrzne, lokalne, zewnętrzne) budujące napięcie i dynamizujące akcję.\n• W cenionych przez siebie filmach lub sztukach teatralnych umie scharakteryzować zabiegi narracyjne, które decydują o atrakcyjności i sile przekazu.\n• Posiada dowolną sprawność ze ścieżki „Film” lub „Aktorstwo i teatr”."
+    }
+]

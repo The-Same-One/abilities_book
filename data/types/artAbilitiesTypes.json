@@ -1,0 +1,47 @@
+[
+	{
+		"title":"RZEMIOSŁO TECHNICZNE",
+		"image":"assets/images/lilijka.png",
+        "category": "data/artAbi/rzemiosloAbilities.json"
+	},
+	{
+		"title":"ELEKTROTECHNIKA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/artAbi/electrotechnikAbilities.json"
+	},
+	{
+		"title":"PROGRAMOWANIE",
+		"image":"assets/images/lilijka.png",
+        "category": "data/artAbi/programmingAbilities.json"
+	},
+    {
+		"title":"RZEMIOSŁO PLASTYCZNE",
+		"image":"assets/images/lilijka.png",
+        "category": "data/artAbi/plastykAbilities.json"
+	},
+    {
+		"title":"FOTOGRAFIA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/artAbi/photoAbilities.json"
+	},
+    {
+		"title":"FILM I KINO",
+		"image":"assets/images/lilijka.png",
+        "category": "data/artAbi/cinemaAbilities.json"
+	},
+    {
+		"title":"HODOWLA",
+		"image":"assets/images/lilijka.png",
+        "category": "data/artAbi/petsAbilities.json"
+	},
+    {
+		"title":"OGRODNICTWO",
+		"image":"assets/images/lilijka.png",
+        "category": "data/artAbi/plantsAbilities.json"
+	},
+    {
+		"title":"GOTOWANIE",
+		"image":"assets/images/lilijka.png",
+        "category": "data/artAbi/cookingAbilities.json"
+	}
+]

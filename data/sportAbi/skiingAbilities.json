@@ -1,0 +1,30 @@
+[
+	{
+		"checked": false,
+		"title":"Zjazd *",
+		"image":"assets/images/zjazd.jpg",
+		"description":
+        "• Umie przejechać na łagodnym stoku przynajmniej 15 m i w razie potrzeby bezpiecznie upaść.\n• Potrafi wstać po upadku, nie wypinając nart lub deski.\n• Umie samodzielnie przygotować się do aktywności na stoku: założyć wszystkie elementy stroju, zapiąć kask, założyć gogle, założyć buty i zapiąć je w wiązaniach.\n• Potrafi chodzić w butach narciarskich lub snowboardowych i odpowiednio przenosić sprzęt."
+    },
+	{
+		"checked": false,
+		"title":"Szus **",
+		"image":"assets/images/szus.jpg",
+		"description":
+        "• Umie bez wywrotki przejechać przynajmniej 100 m na stoku o małym nachyleniu (np. na trasie „niebieskiej”), wykonując przy tym płynne skręty w obie strony i omijając przeszkody.\n• Potrafi wjechać na stok przy pomocy wyciągu orczykowego lub krzesełkowego.\n• Potrafi zatrzymać się w wyznaczonym miejscu.\n• Umie utrzymać w trakcie jazdy poprawną pozycję narciarską lub snowboardową."
+    },
+	{
+		"checked": false,
+		"title":"Narciarz ***",
+		"image":"assets/images/narciarz.jpg",
+		"description":
+        "• Potrafi przejechać trudną trasę zjazdową (np. czerwoną) utrzymując poprawną pozycję, korzystając z technik takich jak jazda na krawędziach, skręt długi i krótki.\n• Umie sprawnie i poprawnie technicznie przejechać slalom wymagający co najmniej kilkunastu skrętów (np. ustawiony z kijków).\n• Potrafi przejechać 20 m na jednej narcie oraz 30 m tyłem do przodu.\n• Umie samodzielnie wykonać drobne prace przy nartach (np. wyregulować długość i siłę wypinania wiązań i naostrzyć krawędzie)."
+    },
+    {
+		"checked": false,
+		"title":"Snowboardzista ***",
+		"image":"assets/images/snowboardzista.jpg",
+		"description":
+        "• Potrafi przejechać trudną trasę zjazdową (np. czerwoną) utrzymując poprawną pozycję, korzystając z takich technik jak jazda na krawędzi i skręty cięte.\n• Umie jeździć z tylną nogą z przodu (tzw. switch) z zachowaniem poprawnej pozycji.\n• Potrafi przeskoczyć nad małą przeszkodą, taką jak mulda śniegu. Umie pokonać przeszkodę typu box.\n• Zna różne techniki jazdy na desce, wie jakie mają zastosowania i potrafi dopasować sprzęt do wybranej z nich."
+    }
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"checked": false,
+		"title":"Łącznik *",
+		"image":"assets/images/lacznik.jpg",
+		"description":
+        "• Umie bezbłędnie zapamiętać i przenieść wiadomość ustną złożoną z kilkunastu słów.\n• Potrafi zaszyfrować i odczytać wiadomość trzema różnymi szyframi."
+    },
+	{
+		"checked": false,
+		"title":"Sygnalista **",
+		"image":"assets/images/sygnalista.jpg",
+		"description":
+        "• Umie nadać i odebrać wiadomość zakodowaną alfabetem Morse’a przy pomocy chorągiewek, sygnałów dźwiękowych oraz świetlnych. Umie wykonać prowizoryczny sygnalizacyjny (np. chorągiewkę lub pochodnię).\n• Potrafi zakodować i rozkodować wiadomość przy pomocy alfabetu Morse’a.\n• Umie obsługiwać radiotelefon lub telefon polowy.\n• Potrafi wymyślić własny szyfr i nauczyć go kolegów."
+    },
+	{
+		"checked": false,
+		"title":"Łącznościowiec ***",
+		"image":"assets/images/lacznosciowiec.jpg",
+		"description":
+        "• Umie zorganizować w terenie sprawną sieć łączności opartą na urządzeniach kablowych lub radiowych: przygotować i rozstawić sprzęt, ustalić zasady korzystania z sieci, przeszkolić operatorów.\n• Potrafi zorganizować kilkuosobową stację sygnalizacyjną do płynnego nadawania i odbierania wiadomości alfabetem Morse’a: wyznaczyć zadania, podzielić i zorganizować pracę.\n• Umie złamać prosty szyfr (np. szyfr Cezara)."
+    },
+    {
+		"checked": false,
+		"title":"Krótkofalarz ***",
+		"image":"assets/images/krotkofalarz.jpg",
+		"description":
+        "• Potrafi posłużyć się alfabetem fonetycznym ICAO (tzw. alfabet fonetyczny NATO) oraz jego polskim odpowiednikiem.\n• Zna kilkanaście kodów Q najczęściej używanych przez krótkofalarzy oraz kilka wyrażeń z tzw. slangu amatorskiego. Umie przekazać raport RST oraz informacje o własnym QTH Locator.\n• Potrafi obsługiwać sprzęt łączności z zachowaniem zasad BHP.\n• Umie zmierzyć prąd, napięcie, WFS oraz moc wychodzącą do anteny. Posiada sprawność Diodaka* ze ścieżki „Elektrotechnika”"
+    }
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"checked": false,
+		"title":"Hołubiec *",
+		"image":"assets/images/holubiec.jpg",
+		"description":
+			"• Potrafi zatańczyć krok podstawowy i 2 figury w wybranym stylu tańca.\n• Umie określić rytmikę swojego tańca i rozliczyć rytmicznie znane figury."
+		
+	},
+	{
+		"checked": false,
+		"title":"Tancerz **",
+		"image":"assets/images/tancerz.jpg",
+		"description": 
+			"• Potrafi zatańczyć krok podstawowy i 6 figur w wybranym stylu tańca towarzyskiego.\n• Umie zatańczyć do piosenki i utrzymać rytm przez cały czas jej trwania.\n• Potrafi poprosić dziewczynę do tańca."
+        
+	},
+	{
+		"checked": false,
+		"title":"Król Parkietu ***",
+		"image":"assets/images/krolParkietu.jpg",
+		"description":
+            "• Zna i umie zatańczyć krok podstawowy i 5 figur w 3 różnych stylach tanecznych, towarzyskich lub solowych.\n• Potrafi nie gubiąc rytmu improwizować i łączyć figury taneczne w spójną całość.\n• Umie poprowadzić partnerkę w tańcu. Potrafi nauczyć drugą osobę podstawowych kroków tanecznych.\n• Potrafi dobrać muzykę odpowiednią do kilku wybranych styli tanecznych."
+        
+	}
+]

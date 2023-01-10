@@ -1,0 +1,51 @@
+[
+	{
+		"checked": false,
+		"title":"Łazik *",
+		"image":"assets/images/lazik.jpg",
+		"description":
+        "• Umie odpowiednio się ubrać, skompletować ekwipunek i poradzić sobie podczas całodniowej wędrówki.\n• Potrafi opowiedzieć o poznanych w czasie wędrówki zabytkach lub osobliwościach przyrodniczych.\n• Na planie miasta lub mapie turystycznej umie wskazać ważne obiekty oznaczone w legendzie i do nich dotrzeć."
+    },
+	{
+		"checked": false,
+		"title":"Włóczęga **",
+		"image":"assets/images/wloczega.jpg",
+		"description":
+        "• Potrafi, posługując się mapą, odwiedzić wskazane miejsca i zdobyć informacje na temat ich historii, wartości kulturowych lub przyrodniczych.\n• Umie poprowadzić zastęp trasą wyznaczoną według mapy lub planu miasta.\n• Potrafi zaplanować podróż różnymi środkami komunikacji. Umie spośród różnych form podróżowania na zadanej trasie wybrać najszybszy, najtańszy lub najkrótszy wariant.\n• Potrafi spakować się na kilkudniową wędrówkę."
+    },
+    {
+		"checked": false,
+		"title":"Wskazidroga **",
+		"image":"assets/images/wskazidroga.jpg",
+		"description":
+        "• Korzystając z różnych źródeł (np. internetowe mapy, rozkłady jazdy) potrafi wskazać odpowiednio najkrótszą, najszybszą, najtańszą czy najwygodniejszą drogę we wskazane miejsce.\n• Doskonale zna swoją okolicę (np. miejscowość, dzielnicę), wie gdzie znajdują się w ważne i interesujące obiekty publiczne, takie jak teatr, kino, dom kultury, sklep, biblioteka, bank, dworzec czy kościół i potrafi szczegółowo opisać z pamięci jak do nich dotrzeć.\n• Potrafi opowiedzieć, skąd wzięła się nazwa rodzinnej miejscowości oraz narysować jej herb (jeśli miejscowość go posiada)."        
+    },
+	{
+		"checked": false,
+		"title":"Wędrowiec ***",
+		"image":"assets/images/wedrowiec.jpg",
+		"description":
+        "Potrafi zaplanować i przeprowadzić kilkudniową wędrówkę w nieznanym regionie, obejmującą poznanie historii, zabytków kultury, etnografii lub wartości przyrodniczo-krajobrazowych.\n• Umie do przygotowania wędrówki wykorzystać różne źródła informacji (np. książki historyczne, przewodniki, informacje z Internetu).\n• Potrafi zorganizować zdalnie nocleg, posiłek i przewodnika po danym miejscu; umie rozliczyć wycieczkę.\n• Umie dobrać ekwipunek adekwatny do planowanej wyprawy."
+    },
+    {
+		"checked": false,
+		"title":"Wędrowiec Górski ***",
+		"image":"assets/images/wedrowiecGorski.jpg",
+		"description":
+        "• Potrafi zaplanować i przeprowadzić kilkudniową górską wędrówkę. Zna i stosuje zasady bezpieczeństwa w górach, m.in. zwraca uwagę na pogodę, prowiant, ubiór i samopoczucie zespołu.\n• Potrafi ocenić trudność szlaku oraz dobrać odpowiednią dla danej grupy trasę. Na podstawie przewyższenia i długości trasy umie oszacować czas marszu (np. przeliczając długość i przewyższenie na punkty GOT). Zna przepisy dotyczące poruszania się po górach powyżej 1000 m n.p.m.\n• Posiada sprawność Sanitariusza** ze ścieżki „Samarytanka”."
+    },
+    {
+		"checked": false,
+		"title":"Nartobiegacz ***",
+		"image":"assets/images/nartobiegacz.jpg",
+		"description":
+        "• Umie sprawnie poruszać się na nartach biegowych stylem klasycznym i łyżwowym. Potrafi poprawnie posługiwać się kijami i dobrać ich wysokość. Umie iść na nartach w kopnym śniegu, bez przetartego śladu.\n• Potrafi nie wypinając nart obrócić się w miejscu w trzech ruchach bez utraty równowagi. Jadąc na nartach z plecakiem umie utrzymać równowagę.\n• Potrafi zaplanować kilkudniową wędrówkę narciarską, skompletować potrzebny ekwipunek i poradzić sobie w jej trakcie.\n• Umie wykonać drobne prace serwisowe przy nartach (np. wymienić zepsute wiązanie lub nasmarować narty)."
+    },
+    {
+		"checked": false,
+		"title":"Przewodnik ***",
+		"image":"assets/images/przewodnik.jpg",
+		"description":
+        "• Potrafi zaplanować, zorganizować i przeprowadzić tematyczną wycieczkę po rodzinnym mieście lub regionie.\n• Zna w swoim mieście lub regionie 10 miejsc, które warto odwiedzić, i umie o nich opowiedzieć.\n• Potrafi znaleźć w dostępnych źródłach (np. w internecie, książkach lub przewodnikach) informacje poszerzające jego wiedzę na temat miasta lub regionu.\n• Posiada sprawność Gawędziarza** ze ścieżki „Aktorstwo i teatr”."
+    }
+]

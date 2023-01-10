@@ -1,0 +1,30 @@
+[
+	{
+		"checked": false,
+		"title":"Kijanka *",
+		"image":"assets/images/kijanka.jpg",
+		"description":
+        "• Potrafi przepłynąć bez przerwy dystans 100 m w wodzie stojącej lub dystans 200 m z nurtem.\n• Umie stabilnie utrzymywać się na powierzchni wody.\n• Potrafi skoczyć do wody z wysokości 0,5 m.\n• Umie wstrzymać oddech pod wodą przez 10 s."        
+    },
+	{
+		"checked": false,
+		"title":"Pływak **",
+		"image":"assets/images/plywak.jpg",
+		"description":
+        "• Potrafi przepłynąć dystans 200 m w wodzie stojącej, w tym przynajmniej 50 m stylem grzbietowym, lub dystans 400 m z nurtem, w tym przynajmniej 100 m stylem grzbietowym.\n• Umie przepłynąć pod wodą dystans 5 m w wodzie stojącej lub 15 m z nurtem.\n• Potrafi bezpiecznie wskoczyć do wody z wysokości 0,7 m.\n• Umie przepłynąć 20 m w ubraniu.\n• Potrafi wyłowić z głębokości 2 m przedmiot wielkości menażki.\n• Umie wyjść z wody na łódkę lub ponton."
+    },
+	{
+		"checked": false,
+		"title":"Pływak Doskonały ***",
+		"image":"assets/images/plywakDoskonaly.jpg",
+		"description":
+        "• Potrafi przepłynąć w wodzie dystans 1000 m co najmniej dwoma stylami.\n• Umie przepłynąć 15 m pod wodą, a także zdjąć w wodzie ubranie: koszulę, spodnie i buty.\n• Potrafi wyznaczyć i przygotować bezpieczne kąpielisko (np. wyznaczyć granice, oczyścić dno) dla osób w różnym wieku.\n• Umie pływać z płetwami oraz maską i rurką oraz wyłowić z głębokości 3 m przedmiot wielkości menażki.\n• Potrafi posługiwać się kołem ratunkowym, rzutką, linką ratowniczą.\n• Umie udzielić pierwszej pomocy osobie podtopionej, posiada sprawność Sanitariusza** ze ścieżki „Samarytanka”."
+    },
+    {
+		"checked": false,
+		"title":"Delfin ***",
+		"image":"assets/images/delfin.jpg",
+		"description":
+        "• Potrafi przepłynąć 50 m w czasie nie dłuższym niż 45 s.\n• Umie poprawnie pływać co najmniej czterema stylami w tym stylem motylkowym (tzw. delfinem).\n• Potrafi przepłynąć w wodzie stojącej dystans 1500 m, płynąc co najmniej dwoma stylami, z czego przynajmniej 200 m stylem grzbietowym.\n• Umie wykonać bezpieczny skok do wody z wysokości 1 m.\n• Potrafi zanurkować na głębokość 3 m i przepłynąć 20 m pod wodą."
+    }
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"checked": false,
+		"title":"Zbieracz *",
+		"image":"assets/images/zbieracz.jpg",
+		"description":
+        "• Umie zebrać kolekcję tematyczną i wyjaśnić, co łączy poszczególne przedmioty w kolekcji.\n• Potrafi zaprezentować kolegom swoją kolekcję."
+    },
+	{
+		"checked": false,
+		"title":"Hobbysta **",
+		"image":"assets/images/hobbysta.jpg",
+		"description":
+        "• Umie opisać kilka elementów swojego zbioru za pomocą 3 kryteriów (np. kraj pochodzenia, rok wykonania, miejsce wydania).\n• Potrafi określić ramy gromadzonej kolekcji oraz wyróżnić i scharakteryzować w niej podzbiory, a także barwnie i szczegółowo opowiedzieć historię związaną z wybranym jej elementem.\n• Umie zgodnie ze sztuką przechowywać i konserwować swoje zbiory.\n• Potrafi wskazać źródła, z których można pozyskiwać nowe elementy zbiorów."
+    },
+	{
+		"checked": false,
+		"title":"Kolekcjoner ***",
+		"image":"assets/images/kolekcjoner.jpg",
+		"description":
+        "• Umie skatalogować swój zbiór poprzez opis wykorzystujący informacje encyklopedyczne, profesjonalne katalogi i inne dane źródłowe.\n• Potrafi ciekawie opowiedzieć o różnych elementach swojej kolekcji (np. w kontekście historycznym, geograficznym lub artystycznym).\n• Wie, gdzie można obejrzeć zbiory z dziedziny jaką się interesuje oraz jakie instytucje lub osoby zajmują się gromadzeniem podobnych zbiorów.\n• Umie praktycznie wykorzystać wiedzę o swoich zbiorach (np. do przygotowania zadań w ramach gry zastępu lub drużyny).\n• Potrafi zdobyć nowe elementy do kolekcji różnymi sposobami i z różnych źródeł."
+    }
+]

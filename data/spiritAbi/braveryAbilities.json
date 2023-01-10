@@ -1,0 +1,26 @@
+[
+	{
+		"checked": false,
+		"title":"Kamyk *",
+		"image":"assets/images/kamyk.png",
+		"description":
+			"• Umie zaplanować swój dzień tak, aby zrealizować swoje regularne obowiązki oraz mieć czas na przyjemności i odpoczynek.\n• Potrafi przez określony czas (np. dwóch tygodni) dotrzymać zobowiązania lub postanowienia (np. nowego obowiązku domowego lub systematycznych ćwiczeń)."
+		
+	},
+	{
+		"checked": false,
+		"title":"Głaz **",
+		"image":"assets/images/glaz.png",
+		"description":
+			"• Umie na określony czas (np. miesiąc) zrezygnować z konkretnej przyjemności, żeby zrealizować postawiony sobie cel.\n• Potrafi zaplanować i przeprowadzić działanie, które zajmuje czas kilkunastu dni lub kilku tygodni (np. konieczna jest systematyczna codzienna praca przez 2 lub 3 tygodnie)."
+		
+	},
+	{
+		"checked": false,
+		"title":"Skała ***",
+		"image":"assets/images/skala.png",
+		"description":
+			"• Potrafi wyrobić sobie nowy pożyteczny nawyk.\n• Umie wskazać swoje mocne i słabe strony oraz uwzględnić je w podejmowanych działaniach, aby jak najlepiej wykorzystać swój potencjał.\n• Potrafi wyznaczyć sobie realny do osiągnięcia cel, wspierający rozwój jednej z mocnych stron lub niwelujący jedną ze słabości, a następnie go zrealizować, wyznaczając konkretne zadania i terminy.\n• Umie właściwie ocenić swoje możliwości przy przyjmowaniu nowych zobowiązań tak, aby móc ich dotrzymywać bez zaniedbywania swoich dotychczasowych potrzeb i obowiązków."
+		
+	}
+]

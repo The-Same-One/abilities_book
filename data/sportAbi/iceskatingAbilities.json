@@ -1,0 +1,23 @@
+[
+	{
+		"checked": false,
+		"title":"Płoza *",
+		"image":"assets/images/ploza.jpg",
+		"description":
+        "• Umie stabilnie stać na łyżwach i jeździć do przodu po lodowisku bez asekuracji.\n• Potrafi odpowiednio dobrać rozmiar i prawidłowo ubrać się w łyżwy, tak aby uniknąć odcisków i otarć."
+    },
+	{
+		"checked": false,
+		"title":"Łyżwiarz **",
+		"image":"assets/images/lyzwiarz.jpg",
+		"description":
+        "• Umie jeździć tzw. przeplatanką oraz płynnie pokonać slalom.\n• Potrafi przejechać dystans równy 5 długościom pełnowymiarowego boiska bez żadnego upadku. Umie zmienić kierunek jazdy o 180 stopni wykonując łuk w lewo lub w prawo.\n• Potrafi zatrzymać się we wskazanym miejscu.\n• Po jeździe potrafi odpowiednio osuszyć i zadbać o łyżwy."
+    },
+	{
+		"checked": false,
+		"title":"Łyżwiarz Doskonały ***",
+		"image":"assets/images/lyzwiarzDoskonaly.jpg",
+		"description":
+        "• Umie płynnie (w ruchu) zmieniać styl z jazdy przodem na jazdę tyłem, a także przejechać dowolną odległość każdym z nich.\n• Potrafi jeździć przeplatanką zarówno przodem jak i tyłem.\n• Umie bez zatrzymania podnieść przedmiot z lodowiska (np. upuszczoną czapkę)\n• Potrafi hamować ślizgiem.\n• Umie ocenić czy łyżwy są właściwie naostrzone."
+    }
+]
